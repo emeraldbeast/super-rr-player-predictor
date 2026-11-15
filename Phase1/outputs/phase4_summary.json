@@ -1,0 +1,36 @@
+{
+  "variants": 7,
+  "rank_rows": 1651,
+  "validation_rows": 435581,
+  "high_pressure_validation_rows": 106997,
+  "ipl_top10_batters": [
+    "Abhishek Sharma",
+    "Suryakumar Yadav",
+    "Prabhsimran Singh",
+    "Heinrich Klaasen",
+    "Ashutosh Sharma",
+    "Shubman Gill",
+    "Shreyas Iyer",
+    "Rajat Patidar",
+    "Rinku Singh",
+    "Naman Dhir"
+  ],
+  "ipl_top10_bowlers": [
+    "Jasprit Bumrah",
+    "Sunil Narine",
+    "Matheesha Pathirana",
+    "Axar Patel",
+    "Krunal Pandya",
+    "Mohammed Siraj",
+    "Noor Ahmad",
+    "Ravindra Jadeja",
+    "Kuldeep Yadav",
+    "Eshan Malinga"
+  ],
+  "primary_eligibility": {
+    "min_pressure_matches": 10,
+    "min_pressure_weighted_balls": 100
+  },
+  "auction_pool_available": false,
+  "rr_roster_available": false
+}

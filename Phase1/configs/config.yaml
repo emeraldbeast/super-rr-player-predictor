@@ -70,3 +70,19 @@ phase3:
   max_examples_per_fold: 30000
   validation_last_seasons: 3
   selection_validation_last_seasons: 3
+phase4:
+  primary_pool: IPL
+  cross_format_view: average_role_standardized_posterior_z_for_players_in_both_pools
+  rank_stability_metrics:
+    - spearman_rank_correlation
+    - top10_overlap
+    - top10_jaccard
+  sensitivity_variants:
+    - primary_selected_continuous
+    - baseline_only_continuous
+    - binary_high_pressure
+    - chase_only
+    - recency_half_life_3y
+    - eligibility_relaxed_3m_30b
+    - eligibility_strict_15m_200b
+    - cross_format_standardized
