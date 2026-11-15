@@ -1,0 +1,61 @@
+{
+  "matches": 883,
+  "matches_with_deliveries": 867,
+  "deliveries": 200999,
+  "pool_coverage": [
+    {
+      "competition_pool": "IPL",
+      "matches": 371,
+      "matches_with_deliveries": 367,
+      "delivery_rows": 87687.0,
+      "matches_without_deliveries": 4
+    },
+    {
+      "competition_pool": "T20I",
+      "matches": 482,
+      "matches_with_deliveries": 470,
+      "delivery_rows": 106327.0,
+      "matches_without_deliveries": 12
+    },
+    {
+      "competition_pool": "other T20",
+      "matches": 30,
+      "matches_with_deliveries": 30,
+      "delivery_rows": 6985.0,
+      "matches_without_deliveries": 0
+    }
+  ],
+  "missing_delivery_matches": 16,
+  "matches_with_one_recorded_normal_innings": 22,
+  "one_innings_result_counts": {
+    "No Result": 19,
+    "Match Abandoned": 3
+  },
+  "is_dls_field_matches": 34,
+  "is_dls_text_matches": 19,
+  "dls_text_without_revision_fields": 4,
+  "innings": 1724,
+  "team_run_sum": 284257,
+  "innings_legal_balls_within_limit": true,
+  "innings_wickets_within_limit": true,
+  "nonfinal_over_structure_exceptions": 5,
+  "direct_result_margins_checked": 803,
+  "direct_result_margins_exact_rate": 0.9987546699875467,
+  "direct_result_margin_threshold": 0.99,
+  "direct_result_margin_threshold_met": true,
+  "result_margin_exceptions": [
+    20190
+  ],
+  "players": 1217,
+  "duplicate_player_names": 7,
+  "event_participant_keys_not_in_played_xi": 6,
+  "event_role_slots_not_in_played_xi": 14,
+  "event_role_slot_counts_not_in_played_xi": {
+    "bowler": 3,
+    "non_striker": 5,
+    "striker": 6
+  },
+  "duplicate_playing_eleven_keys": 75,
+  "max_unique_played_slots_per_team": 13,
+  "bowler_extras2_assumption": "not charged in primary; sensitivity option in config"
+}

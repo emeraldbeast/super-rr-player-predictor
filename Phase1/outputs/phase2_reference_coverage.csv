@@ -1,0 +1,10 @@
+competition_pool,par_reference_source,deliveries,matches
+IPL,configured_cold_start,237,1
+IPL,prior_match_phase,186,8
+IPL,prior_match_phase_wickets,86023,360
+T20I,configured_cold_start,224,1
+T20I,prior_match_phase,243,6
+T20I,prior_match_phase_wickets,101821,437
+other T20,configured_cold_start,236,1
+other T20,prior_match_phase,154,6
+other T20,prior_match_phase_wickets,6583,29

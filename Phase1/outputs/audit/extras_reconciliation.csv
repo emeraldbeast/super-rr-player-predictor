@@ -1,0 +1,8 @@
+extras_type,deliveries,runs_sum,extras1_sum,extras2_sum,team_runs_from_components,extras1_min,extras1_max,extras2_nonzero
+<none>,189167,268285,1,1,268287,0,1,1
+Overstep,576,852,576,48,1476,1,1,21
+Penalty,1,0,5,0,5,5,5,0
+byes,529,0,1000,0,1000,1,5,0
+legbyes,2748,1,3603,0,3604,0,5,0
+other,264,412,264,35,711,1,1,14
+wide,7714,0,9174,0,9174,1,5,0

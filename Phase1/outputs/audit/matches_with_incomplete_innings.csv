@@ -1,0 +1,23 @@
+match_id,competition_pool,comp_name,match_date,home_team,away_team,result,normal_innings_with_delivery_data
+15410,T20I,South Africa in India T20I Series 2022,2022-06-19,India,South Africa,Match Abandoned,1
+15546,T20I,Bangladesh in West Indies T20I Series 2022,2022-07-02,West Indies,Bangladesh,No Result,1
+20226,IPL,IPL 2023,2023-05-03,Lucknow Super Giants,Chennai Super Kings,Match Abandoned,1
+21406,T20I,New Zealand in Pakistan T20I Series 2023,2023-04-20,Pakistan,New Zealand,Match Abandoned,1
+28333,T20I,Bangladesh in New Zealand T20I Series 2023,2023-12-29,New Zealand,Bangladesh,No Result,1
+31707,T20I,New Zealand in Pakistan T20I Series 2024,2024-04-18,Pakistan,New Zealand,No Result,1
+37353,T20I,England in West Indies T20I Series 2024,2024-11-18,West Indies,England,No Result,1
+35424,T20I,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024-08-24,Canada,United States Of America,No Result,1
+40748,IPL,IPL 2025,2025-05-05,Sunrisers Hyderabad,Delhi Capitals,No Result,1
+40751,IPL,IPL 2025,2025-05-08,Punjab Kings,Delhi Capitals,No Result,1
+39983,T20I,Ireland in Zimbabwe T20I Series 2025,2025-02-22,Zimbabwe,Ireland,No Result,1
+39985,T20I,Ireland in Zimbabwe T20I Series 2025,2025-02-25,Zimbabwe,Ireland,No Result,1
+41975,T20I,India in Australia T20I Series 2025,2025-10-29,Australia,India,No Result,1
+41979,T20I,India in Australia T20I Series 2025,2025-11-08,Australia,India,No Result,1
+45390,T20I,India in England T20I Series 2026,2026-07-01,England,India,No Result,1
+45908,T20I,Netherlands in Bangladesh T20I Series 2025,2025-09-03,Bangladesh,Netherlands,No Result,1
+46311,T20I,Australia in New Zealand T20I Series 2025,2025-10-03,Australia,New Zealand,No Result,1
+46747,T20I,England in New Zealand T20I Series 2025,2025-10-18,New Zealand,England,No Result,1
+46749,T20I,England in New Zealand T20I Series 2025,2025-10-23,New Zealand,England,No Result,1
+47968,T20I,West Indies in New Zealand T20I Series 2025,2025-11-10,New Zealand,West Indies,No Result,1
+50136,IPL,IPL 2026,2026-04-06,Kolkata Knight Riders,Punjab Kings,No Result,1
+50408,T20I,West Indies in India T20I Series 2026,2026-10-17,India,West Indies,No Result,1

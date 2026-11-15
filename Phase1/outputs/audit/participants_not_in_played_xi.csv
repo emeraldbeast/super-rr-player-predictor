@@ -1,0 +1,7 @@
+match_id,team_id,player_id,player_name,display_name,appeared_as_striker,appeared_as_nonstriker,bowled,balls_faced,balls_bowled
+37087,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),True,True,False,28,0
+37087,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),True,True,True,16,18
+37092,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),True,False,False,3,0
+37092,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),True,True,True,12,6
+37095,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),True,True,False,16,0
+37095,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),True,True,True,6,6

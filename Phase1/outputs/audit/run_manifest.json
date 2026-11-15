@@ -1,0 +1,99 @@
+{
+  "created_utc": "2026-11-15T17:00:56.599393+00:00",
+  "config": {
+    "project_name": "superr_pressure",
+    "project_version": "phase3",
+    "data": {
+      "raw_dir": "data/raw",
+      "interim_dir": "data/interim",
+      "audit_dir": "outputs/audit",
+      "deliveries_file": "data/interim/deliveries.parquet",
+      "infer_other_as_no_ball": true,
+      "infer_untyped_extras1_as_no_ball": true,
+      "bowler_charged_extras2_assumption": false,
+      "result_dls_pattern": "\\bD/?L\\b|DLS|duckworth",
+      "bowl_speed_min_valid": 0,
+      "bowl_speed_max_valid": 160,
+      "bowler_credited_dismissals": [
+        "Bowled",
+        "Caught",
+        "LBW",
+        "Stump",
+        "Hit Wicket"
+      ]
+    },
+    "competitions": {
+      "include_other_t20_in_primary_rankings": false,
+      "ipl_name_prefix": "IPL ",
+      "t20i_format": "T20I"
+    },
+    "validation": {
+      "result_margin_exact_match_threshold": 0.99,
+      "expected_nonfinal_over_legal_balls": 6,
+      "known_over_structure_exception_count": 5,
+      "known_result_margin_exception_match_ids": [
+        20190
+      ]
+    },
+    "phase2": {
+      "regular_innings_overs": 20,
+      "super_over_balls": 6,
+      "exclude_dls_matches_from_primary_scoring": true,
+      "cold_start_par_runs_per_over": 8.0,
+      "high_pressure_quantile": 0.75,
+      "chase_weights": {
+        "rate_strain": 0.6,
+        "wicket_strain": 0.25,
+        "time_strain": 0.15
+      },
+      "first_innings_weights": {
+        "score_deficit": 0.55,
+        "wickets_lost": 0.3,
+        "phase": 0.15
+      }
+    },
+    "phase3": {
+      "train_pools": [
+        "IPL",
+        "T20I"
+      ],
+      "primary_ranking_pool": "IPL",
+      "include_other_t20_in_primary_rankings": false,
+      "random_seed": 2027,
+      "thread_count": 4,
+      "catboost_iterations": 120,
+      "catboost_depth": 6,
+      "catboost_learning_rate": 0.05,
+      "ranking_eligibility": {
+        "min_pressure_matches": 10,
+        "min_pressure_weighted_balls": 100
+      },
+      "candidate_eligibility": {
+        "min_pressure_matches": 3,
+        "min_pressure_weighted_balls": 30
+      },
+      "lower_posterior_quantile": 0.2,
+      "shrinkage_method": "method_of_moments_role_prior",
+      "uncertainty_method": "match_cluster_ratio_variance",
+      "minimum_prior_variance": 0.01,
+      "uplift_min_pressure_weighted_balls": 50,
+      "max_examples_per_fold": 30000,
+      "validation_last_seasons": 3
+    }
+  },
+  "input_sha256": {
+    "ball_by_ball.csv": "01E2B4379EDFBAB6A6E456D304CB3C70F554CB312EF93D9588F3F32A82CB396E",
+    "competition_team_player_mapping.csv": "1DED4E42A933618572D6E2C3A521C3257EB1844FAB4456D567D77CBB2D3BBB12",
+    "competitions.csv": "507CEB7189F972D4E4F299DDCFC97F3C3247AF1913F6291106F161FA8353FD9B",
+    "matches.csv": "BB100AB84B8B9A15160C1F2315CF675210131A30E779EC5079FD5403DCF56EEF",
+    "playing_eleven.csv": "7517C73722A28D5D61C808CCF0CBED315A8780586D02E946EB9A7F5DAF011C27",
+    "Problem_Statement.pdf": "8F7965C616D4A64B779E770A6B2C17DDE6A2D6CCBF7DE12A58B04DB792162489",
+    "teams.csv": "A65E5922A9B3BF49247B24FC9471782E700EFB31F8DCC5042923238B87C50A5D"
+  },
+  "package_versions": {
+    "python": "3.13.0",
+    "pandas": "3.1.1",
+    "pyarrow": "26.0.1",
+    "yaml": "6.0.3"
+  }
+}

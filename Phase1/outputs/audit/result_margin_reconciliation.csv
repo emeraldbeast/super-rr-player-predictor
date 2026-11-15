@@ -1,0 +1,832 @@
+match_id,comp_id,result,margin_unit,reported_margin,derived_margin,is_dls,status
+13511,1331,West Indies Won by 9 Wickets,wickets,9,9,False,reconciles
+13512,1331,England Won by 1 Run,runs,1,1,False,reconciles
+13513,1331,West Indies Won by 20 runs,runs,20,20,False,reconciles
+13514,1331,England Won by 34 runs,runs,34,34,False,reconciles
+13515,1331,West Indies Won by 17 runs,runs,17,17,False,reconciles
+13522,1335,India Won by 6 Wickets,wickets,6,6,False,reconciles
+13523,1335,India Won by 8 Runs,runs,8,8,False,reconciles
+13524,1335,India Won by 17 runs,runs,17,17,False,reconciles
+13612,1345,Australia Won by 20 runs (D/L method),runs,20,27,True,dls_adjusted_not_directly_comparable
+13614,1345,Australia Won by 6 Wkts,wickets,6,6,False,reconciles
+13615,1345,Australia Won by 6 Wickets,wickets,6,6,False,reconciles
+13616,1345,Sri Lanka Won by 5 wickets,wickets,5,5,False,reconciles
+14094,1358,Kolkata Knight Riders Won by 6 Wkts,wickets,6,6,False,reconciles
+14095,1358,Delhi Capitals Won by 4 Wickets,wickets,4,4,False,reconciles
+14096,1358,Punjab Kings Won by 5 Wkts,wickets,5,5,False,reconciles
+14097,1358,Gujarat Titans Won by 5 Wickets,wickets,5,5,False,reconciles
+14098,1358,Rajasthan Royals Won by 61 Runs,runs,61,61,False,reconciles
+14100,1358,Lucknow Super Giants Won by 6 Wkts,wickets,6,6,False,reconciles
+14101,1358,Kolkata Knight Riders Won by 6 wkts,wickets,6,6,False,reconciles
+14102,1358,Rajasthan Royals Won by 23 Runs,runs,23,23,False,reconciles
+14103,1358,Gujarat Titans won by 14 runs,runs,14,14,False,reconciles
+14104,1358,Punjab Kings won by 54 runs,runs,54,54,False,reconciles
+14105,1358,Lucknow Super Giants won by 12 Runs,runs,12,12,False,reconciles
+14106,1358,Royal Challengers Bengaluru Won by 4 Wkts,wickets,4,4,False,reconciles
+14107,1358,Kolkata Knight Riders Won by 5 Wickets,wickets,5,5,False,reconciles
+14108,1358,Lucknow Super Giants won by 6 wickets,wickets,6,6,False,reconciles
+14109,1358,Gujarat Titans won by 6 wickets,wickets,6,6,False,reconciles
+14110,1358,Sunrisers Hyderabad won by 8 wickets,wickets,8,8,False,reconciles
+14111,1358,Royal Challengers Bengaluru won by 7 wickets,wickets,7,7,False,reconciles
+14112,1358,Delhi Capitals won by 44 run,runs,44,44,False,reconciles
+14113,1358,Rajasthan Royals Won By 3 Runs,runs,3,3,False,reconciles
+14114,1358,Sunrisers Hyderabad Won by 8 Wickets,wickets,8,8,False,reconciles
+14115,1358,Chennai Super Kings Won by 23 Runs,runs,23,23,False,reconciles
+14116,1358,Punjab Kings won by 12 runs,runs,12,12,False,reconciles
+14117,1358,Gujarat Titans Won by 37 runs,runs,37,37,False,reconciles
+14118,1358,Sunrisers Hyderabad won by 7 wickets,wickets,7,7,False,reconciles
+14119,1358,Lucknow Super Giants won by 18 runs,runs,18,18,False,reconciles
+14120,1358,Royal Challengers Bengaluru won by 16 runs,runs,16,16,False,reconciles
+14121,1358,Sunrisers Hyderabad won by 7 wicket,wickets,7,7,False,reconciles
+14122,1358,Gujarat Titans won by 3 wickets,wickets,3,3,False,reconciles
+14123,1358,Rajasthan Royals Won by 7 Runs,runs,7,7,False,reconciles
+14124,1358,Royal Challengers Bengaluru won by 18 runs,runs,18,18,False,reconciles
+14125,1358,Delhi Capitals won by 9 wickets,wickets,9,9,False,reconciles
+14126,1358,Chennai Super Kings Won by 3 Wickets,wickets,3,3,False,reconciles
+14127,1358,Rajasthan Royals Won by 15 Runs,runs,15,15,False,reconciles
+14128,1358,Gujarat Titans Won by 8 Runs,runs,8,8,False,reconciles
+14129,1358,Sunrisers Hyderabad won by 9 wickets,wickets,9,9,False,reconciles
+14131,1358,Punjab Kings Won by 11 Runs,runs,11,11,False,reconciles
+14132,1358,Rajasthan Royals Won by 29 Runs,runs,29,29,False,reconciles
+14133,1358,Gujarat Titans Won by 5 Wickets,wickets,5,5,False,reconciles
+14134,1358,Delhi Capitals Won By 4 Wickets,wickets,4,4,False,reconciles
+14135,1358,Lucknow Super Giants Won by 20 Runs,runs,20,20,False,reconciles
+14136,1358,Gujarat Titans won by 6 wickets,wickets,6,6,False,reconciles
+14137,1358,Mumbai Indians Won By 5 Wickets,wickets,5,5,False,reconciles
+14139,1358,Lucknow Super Giants won by 6 runs,runs,6,6,False,reconciles
+14140,1358,Chennai Super Kings won by 13 runs,runs,13,13,False,reconciles
+14141,1358,Kolkata Knight Riders Won by 7 Wickets,wickets,7,7,False,reconciles
+14142,1358,Punjab Kings Won by 8 Wickets,wickets,8,8,False,reconciles
+14143,1358,Royal Challengers Bengaluru won by 13 Runs,runs,13,13,False,reconciles
+14144,1358,Delhi Capitals Won by 21 Runs,runs,21,21,False,reconciles
+14145,1358,Mumbai Indians won by 5 runs,runs,5,5,False,reconciles
+14146,1358,Rajasthan Royals won by 6 wickets,wickets,6,6,False,reconciles
+14147,1358,Lucknow Super Giants won by 75 runs,runs,75,75,False,reconciles
+14148,1358,Royal Challengers Bengaluru won by 67 runs,runs,67,67,False,reconciles
+14149,1358,Chennai Super Kings won by 91 runs,runs,91,91,False,reconciles
+14150,1358,Kolkata Knight Riders Won by 52 Runs,runs,52,52,False,reconciles
+14151,1358,Gujarat Titans won by 62 runs,runs,62,62,False,reconciles
+14152,1358,Delhi Capitals Won by 8 Wickets,wickets,8,8,False,reconciles
+14153,1358,Mumbai Indians Won by 5 Wickets,wickets,5,5,False,reconciles
+14154,1358,Punjab Kings won by 54 runs,runs,54,54,False,reconciles
+14155,1358,Kolkata Knight Riders won by 54 runs,runs,54,54,False,reconciles
+14156,1358,Gujarat Titans won by 7 wickets,wickets,7,7,False,reconciles
+14157,1358,Rajasthan Royals Won by 24 Runs,runs,24,24,False,reconciles
+14158,1358,Delhi Capitals Won by 17 Runs,runs,17,17,False,reconciles
+14159,1358,Sunrisers Hyderabad Won by 3 Runs,runs,3,3,False,reconciles
+14160,1358,Lucknow Super Giants Won by 2 Runs,runs,2,2,False,reconciles
+14161,1358,Royal Challengers Bengaluru won by 8 wickets,wickets,8,8,False,reconciles
+14162,1358,Rajasthan Royals Won by 5 Wickets,wickets,5,5,False,reconciles
+14163,1358,Mumbai Indians Won by 5 wickets,wickets,5,5,False,reconciles
+14164,1358,Punjab Kings Won by 5 wickets,wickets,5,5,False,reconciles
+15187,1358,Gujarat Titans Won by 7 Wickets,wickets,7,7,False,reconciles
+15188,1358,Royal Challengers Bengaluru Won by 14 Runs,runs,14,14,False,reconciles
+15189,1358,Rajasthan Royals won by 7 wickets,wickets,7,7,False,reconciles
+15190,1358,Gujarat Titans Won by 7 Wickets,wickets,7,7,False,reconciles
+15458,1435,Australia Won by 10 Wickets,wickets,10,10,False,reconciles
+15459,1435,Australia Won by 3 Wkts,wickets,3,3,False,reconciles
+15460,1435,Sri Lanka Won by 4 Wickets,wickets,4,4,False,reconciles
+15406,1439,South Africa Won by 7 Wkts,wickets,7,7,False,reconciles
+15407,1439,South Africa Won by 4 Wickets,wickets,4,4,False,reconciles
+15408,1439,India Won by 48 runs,runs,48,48,False,reconciles
+15409,1439,India Won by 82 runs,runs,82,82,False,reconciles
+15547,1452,West Indies Won by 35 Runs,runs,35,35,False,reconciles
+15548,1452,West Indies Won by 5 Wickets,wickets,5,5,False,reconciles
+15609,1458,Afghanistan Won by 6 Wickets,wickets,6,6,False,reconciles
+15610,1458,Afghanistan Won by 21 Runs,runs,21,21,False,reconciles
+15611,1458,Afghanistan Won by 35 Runs,runs,35,35,False,reconciles
+15795,1474,India Won by 7 Wickets,wickets,7,7,False,reconciles
+15796,1474,India Won by 4 Runs,runs,4,4,False,reconciles
+16040,1494,India Won by 50 Runs,runs,50,50,False,reconciles
+16041,1494,India Won by 49 Runs,runs,49,49,False,reconciles
+16042,1494,England Won by 17 runs,runs,17,17,False,reconciles
+16062,1499,India Won by 68 Runs,runs,68,68,False,reconciles
+16063,1499,West Indies Won by 5 Wickets,wickets,5,5,False,reconciles
+16064,1499,India Won by 7 Wickets,wickets,7,7,False,reconciles
+16065,1499,India Won by 59 Runs,runs,59,59,False,reconciles
+16066,1499,India Won by 88 Runs,runs,88,88,False,reconciles
+16258,1512,New Zealand Won by 31 Runs,runs,31,31,False,reconciles
+16259,1512,New Zealand Won by 88 runs,runs,88,88,False,reconciles
+16260,1512,New Zealand Won by 6 wickets,wickets,6,6,False,reconciles
+16315,1517,England Won by 41 Runs,runs,41,41,False,reconciles
+16316,1517,South Africa Won by 58 Runs,runs,58,58,False,reconciles
+16317,1517,South Africa Won by 90 Runs,runs,90,90,False,reconciles
+16424,1523,Zimbabwe Won by 17 Runs,runs,17,17,False,reconciles
+16425,1523,Bangladesh Won by 7 Wickets,wickets,7,7,False,reconciles
+16426,1523,Zimbabwe Won by 10 runs,runs,10,10,False,reconciles
+16646,1531,South Africa won by 21 runs,runs,21,21,False,reconciles
+16647,1531,South Africa Won by 44 Runs,runs,44,44,False,reconciles
+16653,1533,Afghanistan Won by 8 Wickets,wickets,8,8,False,reconciles
+16654,1533,India Won by 5 Wickets,wickets,5,5,False,reconciles
+16655,1533,Afghanistan Won by 7 wickets,wickets,7,7,False,reconciles
+16656,1533,India Won by 40 Runs,runs,40,40,False,reconciles
+16657,1533,Sri Lanka Won by 2 Wickets,wickets,2,2,False,reconciles
+16658,1533,Pakistan Won by 155 Runs,runs,155,155,False,reconciles
+16659,1533,Sri Lanka Won by 4 Wickets,wickets,4,4,False,reconciles
+16660,1533,Pakistan Won by 5 Wickets,wickets,5,5,False,reconciles
+16661,1533,Sri Lanka Won by 6 Wickets,wickets,6,6,False,reconciles
+16662,1533,Pakistan Won by 1 Wicket,wickets,1,1,False,reconciles
+16663,1533,India Won by 101 Runs,runs,101,101,False,reconciles
+16664,1533,Sri Lanka Won by 5 Wickets,wickets,5,5,False,reconciles
+16665,1533,Sri Lanka Won by 23 Runs,runs,23,23,False,reconciles
+16666,1534,New Zealand Won by 16 Runs,runs,16,16,False,reconciles
+16667,1534,New Zealand Won by 8 Wickets,wickets,8,8,False,reconciles
+16683,1537,New Zealand Won by 13 Runs,runs,13,13,False,reconciles
+16684,1537,New Zealand Won by 90 Runs,runs,90,90,False,reconciles
+16685,1537,West Indies Won by 8 Wickets,wickets,8,8,False,reconciles
+16750,1543,Ireland Won by 7 Wickets,wickets,7,7,False,reconciles
+16751,1543,Ireland Won by 5 Wickets,wickets,5,5,False,reconciles
+16752,1543,Afghanistan Won by 22 Runs,runs,22,22,False,reconciles
+16753,1543,Afghanistan Won by 27 Runs,runs,27,27,True,dls_adjusted_not_directly_comparable
+16754,1543,Ireland Won by 7 Wickets(D/L Method),wickets,7,7,True,dls_adjusted_not_directly_comparable
+16862,1551,Hong Kong Won by 8 runs,runs,8,8,False,reconciles
+16863,1551,Kuwait Won by 1 wicket,wickets,1,1,False,reconciles
+16864,1551,United Arab Emirates Won by 47 Runs,runs,47,47,False,reconciles
+16865,1551,Hong Kong Won by 8 Wickets,wickets,8,8,False,reconciles
+16866,1551,Hong Kong Won by 8 Wickets,wickets,8,8,False,reconciles
+16867,1551,Kuwait Won by 6 Wickets,wickets,6,6,False,reconciles
+17394,1584,Australia Won by 4 Wickets,wickets,4,4,False,reconciles
+17395,1584,India Won by 6 Wickets,wickets,6,6,True,dls_adjusted_not_directly_comparable
+17396,1584,India Won by 6 Wickets,wickets,6,6,False,reconciles
+17553,1595,England Won by 6 Wickets,wickets,6,6,False,reconciles
+17554,1595,Pakistan Won by 10 Wickets,wickets,10,10,False,reconciles
+17555,1595,England Won by 63 Runs,runs,63,63,False,reconciles
+17556,1595,Pakistan Won by 3 Runs,runs,3,3,False,reconciles
+17557,1595,Pakistan Won by 6 Runs,runs,6,6,False,reconciles
+17558,1595,England Won by 8 Wickets,wickets,8,8,False,reconciles
+17559,1595,England Won by 67 Runs,runs,67,67,False,reconciles
+17625,1599,India Won by 8 Wickets,wickets,8,8,False,reconciles
+17626,1599,India Won by 16 Runs,runs,16,16,False,reconciles
+17627,1599,South Africa Won by 49 Runs,runs,49,49,False,reconciles
+17631,1601,Bangladesh won by 7 runs,runs,7,7,False,reconciles
+17632,1601,Bangladesh Won by 32 Runs,runs,32,32,False,reconciles
+17640,1603,Australia Won by 3 Wickets,wickets,3,3,False,reconciles
+17641,1603,Australia Won by 31 runs,runs,31,31,False,reconciles
+17737,1608,Pakistan Won by 21 Runs,runs,21,21,False,reconciles
+17738,1608,Pakistan Won by 6 Wickets,wickets,6,6,False,reconciles
+17739,1608,New Zealand Won by 8 wickets,wickets,8,8,False,reconciles
+17740,1608,New Zealand Won by 9 Wickets,wickets,9,9,False,reconciles
+17741,1608,New Zealand Won by 48 Runs,runs,48,48,False,reconciles
+17742,1608,Pakistan Won by 7 Wickets,wickets,7,7,False,reconciles
+17743,1608,Pakistan Won by 5 Wickets,wickets,5,5,False,reconciles
+17763,1611,England Won by 8 Runs,runs,8,8,False,reconciles
+17764,1611,England Won by 8 Runs,runs,8,8,False,reconciles
+18531,1646,India won by 65 runs,runs,65,65,False,reconciles
+19556,1698,India Won by 2 Runs,runs,2,2,False,reconciles
+19557,1698,Sri Lanka Won by 16 Runs,runs,16,16,False,reconciles
+19558,1698,India Won by 91 Runs,runs,91,91,False,reconciles
+19715,1700,New Zealand won by 21 runs,runs,21,21,False,reconciles
+19716,1700,India won by 6 wickets,wickets,6,6,False,reconciles
+19717,1700,India Won by 168 runs,runs,168,168,False,reconciles
+19690,1709,Zimbabwe Won by 5 Wickets,wickets,5,5,False,reconciles
+19691,1709,Ireland Won by 6 wickets,wickets,6,6,False,reconciles
+19692,1709,Zimbabwe Won by 4 Wickets,wickets,4,4,False,reconciles
+20181,1715,Gujarat Titans Won by 5 wickets,wickets,5,5,False,reconciles
+20182,1715,Punjab Kings Won by 7 Runs(D/L Method),runs,7,45,True,dls_adjusted_not_directly_comparable
+20183,1715,Lucknow Super Giants Won by 50 runs,runs,50,50,False,reconciles
+20184,1715,Rajasthan Royals Won By 72 Runs,runs,72,72,False,reconciles
+20185,1715,Royal Challengers Bengaluru won by 8 wickets,wickets,8,8,False,reconciles
+20186,1715,Chennai Super Kings Won by 12 runs,runs,12,12,False,reconciles
+20187,1715,Gujarat Titans won by 6 wickets,wickets,6,6,False,reconciles
+20188,1715,Punjab Kings Won by 5 runs,runs,5,5,False,reconciles
+20189,1715,Kolkata Knight Riders Won By 81 Runs,runs,81,81,False,reconciles
+20190,1715,Lucknow Super Giants Won by 6 wickets,wickets,6,5,False,margin_mismatch
+20191,1715,Rajasthan Royals Won by 57 Runs,runs,57,57,False,reconciles
+20192,1715,Chennai Super Kings Won by 7 wickets,wickets,7,7,False,reconciles
+20193,1715,Kolkata Knight Riders Won By 3 Wickets,wickets,3,3,False,reconciles
+20194,1715,Sunrisers Hyderabad won by 8 wickets,wickets,8,8,False,reconciles
+20195,1715,Lucknow Super Giants Won by 1 wicket,wickets,1,1,False,reconciles
+20196,1715,Mumbai Indians Won By 6 Wickets,wickets,6,6,False,reconciles
+20197,1715,Rajasthan Royals Won by 3 Runs,runs,3,3,False,reconciles
+20198,1715,Gujarat Titans Won By 6 Wickets,wickets,6,6,False,reconciles
+20199,1715,Sunrisers Hyderabad Won By 23 Runs,runs,23,23,False,reconciles
+20200,1715,Royal Challengers Bengaluru won by 23 runs,runs,23,23,False,reconciles
+20201,1715,Punjab Kings won by 2 wickets,wickets,2,2,False,reconciles
+20202,1715,Mumbai Indians won by 5 wickets,wickets,5,5,False,reconciles
+20203,1715,Rajasthan Royals Won by 3 Wickets,wickets,3,3,False,reconciles
+20204,1715,Chennai Super Kings Won by 8 Runs,runs,8,8,False,reconciles
+20205,1715,Mumbai Indians Won by 14 Runs,runs,14,14,False,reconciles
+20206,1715,Lucknow Super Giants Won by 10 Runs,runs,10,10,False,reconciles
+20207,1715,Royal Challengers Bengaluru Won by 24 Runs,runs,24,24,False,reconciles
+20208,1715,Delhi Capitals Won By 4 Wickets,wickets,4,4,False,reconciles
+20209,1715,Chennai Super Kings Won by 7 Wickets,wickets,7,7,False,reconciles
+20210,1715,Gujarat Titans Won by 7 runs,runs,7,7,False,reconciles
+20211,1715,Punjab Kings Won By 13Runs,runs,13,13,False,reconciles
+20212,1715,Royal Challengers Bengaluru Won By 7 Runs,runs,7,7,False,reconciles
+20213,1715,Chennai Super Kings won by 49 runs,runs,49,49,False,reconciles
+20214,1715,Delhi Capitals Won by 7 Runs,runs,7,7,False,reconciles
+20215,1715,Gujarat Titans Won by 55 runs,runs,55,55,False,reconciles
+20216,1715,Kolkata Knight Riders Won by 21 Runs,runs,21,21,False,reconciles
+20217,1715,Rajasthan Royals Won by 32 Runs,runs,32,32,False,reconciles
+20218,1715,Lucknow Super Giants Won by 56 runs,runs,56,56,False,reconciles
+20219,1715,Gujarat Titans Won by 7 Wickets,wickets,7,7,False,reconciles
+20220,1715,Sunrisers Hyderabad Won by 9 Runs,runs,9,9,False,reconciles
+20221,1715,Punjab Kings Won By  4 wickets,wickets,4,4,False,reconciles
+20222,1715,Mumbai Indians won by 6 wickets,wickets,6,6,False,reconciles
+20223,1715,Royal Challengers Bengaluru Won  by 18 Runs,runs,18,18,False,reconciles
+20224,1715,Delhi Capitals Won by 5 runs,runs,5,5,False,reconciles
+20225,1715,Mumbai Indians Won by 6 wickets,wickets,6,6,False,reconciles
+20227,1715,Kolkata Knight Riders Won by 5 Runs,runs,5,5,False,reconciles
+20228,1715,Gujarat Titans Won by 9 Wickets,wickets,9,9,False,reconciles
+20229,1715,Chennai Super Kings Won by 6 wickets,wickets,6,6,False,reconciles
+20230,1715,Delhi Capitals Won by 7 Wickets,wickets,7,7,False,reconciles
+20231,1715,Gujarat Titans Won By 56 Runs,runs,56,56,False,reconciles
+20232,1715,Sunrisers Hyderabad Won by 4 wickets,wickets,4,4,False,reconciles
+20233,1715,Kolkata Knight Riders Won by 5 Wickets,wickets,5,5,False,reconciles
+20234,1715,Mumbai Indians won by 6 wickets,wickets,6,6,False,reconciles
+20235,1715,Chennai Super Kings Won by 27 Runs,runs,27,27,False,reconciles
+20236,1715,Rajasthan Royals Won by 9 Wickets,wickets,9,9,False,reconciles
+20237,1715,Mumbai Indians Won by 27 Runs,runs,27,27,False,reconciles
+20238,1715,Lucknow Super Giants Won by 7 wickets,wickets,7,7,False,reconciles
+20239,1715,Punjab Kings Won by 31 Runs,runs,31,31,False,reconciles
+20240,1715,Royal Challengers Bengaluru Won by 112 runs,runs,112,112,False,reconciles
+20241,1715,Kolkata Knight Riders won by 6 Wickets,wickets,6,6,False,reconciles
+20242,1715,Gujarat Titans Won by 34 runs,runs,34,34,False,reconciles
+20243,1715,Lucknow Super Giants won by 5 runs,runs,5,5,False,reconciles
+20244,1715,Delhi Capitals Won by 15 runs,runs,15,15,False,reconciles
+20245,1715,Royal Challengers Bengaluru Won by 8 wickets,wickets,8,8,False,reconciles
+20246,1715,Rajasthan Royals Won by 4 wickets,wickets,4,4,False,reconciles
+20247,1715,Chennai Super Kings Won by 77 runs,runs,77,77,False,reconciles
+20248,1715,Lucknow Super Giants won by 1 run,runs,1,1,False,reconciles
+20249,1715,Mumbai Indians Won by 8 wickets,wickets,8,8,False,reconciles
+20250,1715,Gujarat Titans Won by 6 wickets,wickets,6,6,False,reconciles
+21583,1715,Chennai Super Kings Won by 15 runs,runs,15,15,False,reconciles
+21584,1715,Mumbai Indians won by 81 runs,runs,81,81,False,reconciles
+21585,1715,Gujarat Titans won by 62 runs,runs,62,62,False,reconciles
+21586,1715,Chennai Super Kings Won by 5 wickets  (DLS method),wickets,5,5,True,dls_adjusted_not_directly_comparable
+19959,1718,West Indies won by 3 wickets,wickets,3,3,True,dls_adjusted_not_directly_comparable
+19960,1718,South Africa Won by 6 wickets,wickets,6,6,False,reconciles
+19961,1718,West Indies Won by 7 runs,runs,7,7,False,reconciles
+21177,1719,New Zealand Won by 9 Wickets,wickets,9,9,False,reconciles
+21178,1719,New Zealand Won by 4 Wickets,wickets,4,4,False,reconciles
+20133,1742,Bangladesh Won by 6 Wickets,wickets,6,6,False,reconciles
+20134,1742,Bangladesh Won  by 4 Wickets,wickets,4,4,False,reconciles
+20135,1742,Bangladesh won by 16 runs,runs,16,16,False,reconciles
+21070,1769,Bangladesh Won by 22 Runs (DLS method),runs,22,126,True,dls_adjusted_not_directly_comparable
+21071,1769,Bangladesh Won by 77 Runs,runs,77,77,True,dls_adjusted_not_directly_comparable
+21072,1769,Ireland Won by 7 Wickets,wickets,7,7,False,reconciles
+20878,1792,Afghanistan Won by 6 Wickets,wickets,6,6,False,reconciles
+20879,1792,Afghanistan Won by 7 Wickets,wickets,7,7,False,reconciles
+20880,1792,Pakistan Won by 66 Runs,runs,66,66,False,reconciles
+21403,1799,Pakistan Won by 88 Runs,runs,88,88,False,reconciles
+21404,1799,Pakistan Won by 38 runs,runs,38,38,False,reconciles
+21405,1799,New Zealand Won by 4 Runs,runs,4,4,False,reconciles
+21407,1799,New Zealand Won by 6 wickets,wickets,6,6,False,reconciles
+23673,1885,Bangladesh Won by 2 wickets,wickets,2,2,False,reconciles
+23674,1885,Bangladesh Won by 6 Wickets(D/L Method),wickets,6,6,True,dls_adjusted_not_directly_comparable
+24350,1913,West Indies Won   by 4 runs,runs,4,4,False,reconciles
+24351,1913,West Indies Won by 2 wickets,wickets,2,2,False,reconciles
+24352,1913,India Won by 7 Wickets,wickets,7,7,False,reconciles
+24353,1913,India won by 9 wickets,wickets,9,9,False,reconciles
+24354,1913,West Indies Won by 8 wickets,wickets,8,8,False,reconciles
+24792,1997,New Zealand Won by 19 Runs,runs,19,19,False,reconciles
+24793,1997,United Arab Emirates Won by 7 Wickets,wickets,7,7,False,reconciles
+24794,1997,New Zealand Won by 32 Runs,runs,32,32,False,reconciles
+24822,1998,India Won by 2 Runs (DLS method),runs,2,92,True,dls_adjusted_not_directly_comparable
+24823,1998,India Won by 33 Runs,runs,33,33,False,reconciles
+25158,1999,England won by 7 wickets,wickets,7,7,False,reconciles
+25159,1999,England Won by 95 runs,runs,95,95,False,reconciles
+25160,1999,New Zealand Won by 74 runs,runs,74,74,False,reconciles
+25161,1999,New Zealand Won by 6 Wickets,wickets,6,6,False,reconciles
+25155,2000,Australia Won by 111 Runs,runs,111,111,False,reconciles
+25156,2000,Australia won by 8 wickets,wickets,8,8,False,reconciles
+25157,2000,Australia Won by 5 Wickets,wickets,5,5,False,reconciles
+27060,2046,India won by 2 wickets,wickets,2,2,False,reconciles
+27061,2046,India won by 44 runs,runs,44,44,False,reconciles
+27062,2046,Australia Won by 5 Wickets,wickets,5,5,False,reconciles
+27063,2046,India Won by 20 runs,runs,20,20,False,reconciles
+27064,2046,India won by 6 runs,runs,6,6,False,reconciles
+28046,2047,South Africa won by 5 wickets (DLS),wickets,5,5,True,dls_adjusted_not_directly_comparable
+28047,2047,India won by 106 runs,runs,106,106,False,reconciles
+28063,2048,West Indies Won by 4 Wickets,wickets,4,4,False,reconciles
+28064,2048,West Indies won by 10 runs,runs,10,10,False,reconciles
+28065,2048,England Won By 7 Wickets,wickets,7,7,False,reconciles
+28066,2048,England Won by 75 Runs,runs,75,75,False,reconciles
+28067,2048,West Indies Won by 4 Wickets,wickets,4,4,False,reconciles
+28332,2058,Bangladesh won by 5 wickets,wickets,5,5,False,reconciles
+28334,2058,New Zealand won by 17runs (DLS Method),runs,17,15,True,dls_adjusted_not_directly_comparable
+28960,2059,India Won by 6 Wickets,wickets,6,6,False,reconciles
+28961,2059,India Won by 6 Wickets,wickets,6,6,False,reconciles
+28963,2060,New Zealand won by 46 runs,runs,46,46,False,reconciles
+28964,2060,New Zealand Won by 21 Runs,runs,21,21,False,reconciles
+28965,2060,New Zealand Won by 45 Runs,runs,45,45,False,reconciles
+28966,2060,New Zealand Won by 7 wickets,wickets,7,7,False,reconciles
+28967,2060,Pakistan Won by 42 Runs,runs,42,42,False,reconciles
+29815,2061,Australia Won by 11 runs,runs,11,11,False,reconciles
+29816,2061,Australia Won by 34 Runs,runs,34,34,False,reconciles
+29817,2061,West Indies Won by 37 runs,runs,37,37,False,reconciles
+29982,2062,Australia Won by 6 wickets,wickets,6,6,False,reconciles
+29983,2062,Australia Won by 72 Runs,runs,72,72,False,reconciles
+29984,2062,Australia Won by 27 Runs (DLS method),runs,27,20,True,dls_adjusted_not_directly_comparable
+28057,2188,Zimbabwe Won By 1 Wicket,wickets,1,1,False,reconciles
+28058,2188,Ireland Won by 4 Wickets,wickets,4,4,False,reconciles
+28059,2188,Ireland Won By 6 Wickets,wickets,6,6,False,reconciles
+30056,2193,Chennai Super Kings Won by 6 Wickets,wickets,6,6,False,reconciles
+30057,2193,Punjab Kings Won by 4 Wickets,wickets,4,4,False,reconciles
+30058,2193,Kolkata Knight Riders won by 4 runs,runs,4,4,False,reconciles
+30059,2193,Rajasthan Royals won by 20 runs,runs,20,20,False,reconciles
+30060,2193,Gujarat Titans won by 6 runs,runs,6,6,False,reconciles
+30061,2193,Royal Challengers Bengaluru won by 4 wickets,wickets,4,4,False,reconciles
+30062,2193,Chennai Super Kings won by 63 runs,runs,63,63,False,reconciles
+30063,2193,Sunrisers Hyderabad won by 31 runs,runs,31,31,False,reconciles
+30064,2193,Rajasthan Royals won by 12 runs,runs,12,12,False,reconciles
+30065,2193,Kolkata Knight Riders won by 7 wickets,wickets,7,7,False,reconciles
+30066,2193,Lucknow Super Giants won by 21 runs,runs,21,21,False,reconciles
+30067,2193,Gujarat Titans Won by 7 wickets,wickets,7,7,False,reconciles
+30068,2193,Delhi Capitals Won by 20 runs,runs,20,20,False,reconciles
+30069,2193,Rajasthan Royals Won by 6 wickets,wickets,6,6,False,reconciles
+30070,2193,Lucknow Super Giants Won by 28 runs,runs,28,28,False,reconciles
+30071,2193,Kolkata Knight Riders Won by 106 runs,runs,106,106,False,reconciles
+30072,2193,Punjab Kings Won by 3 wickets,wickets,3,3,False,reconciles
+30073,2193,Sunrisers Hyderabad Won by 6 wickets,wickets,6,6,False,reconciles
+30074,2193,Rajasthan Royals Won by 6 Wickets,wickets,6,6,False,reconciles
+30075,2193,Mumbai Indians Won by 29 runs,runs,29,29,False,reconciles
+30076,2193,Lucknow Super Giants Won by 33 runs,runs,33,33,False,reconciles
+31240,2193,Chennai Super Kings Won by 7 wickets,wickets,7,7,False,reconciles
+31241,2193,Sunrisers Hyderabad Won by 2 runs,runs,2,2,False,reconciles
+31242,2193,Gujarat Titans Won by 3 wickets,wickets,3,3,False,reconciles
+31243,2193,Mumbai Indians Won by 7 wickets,wickets,7,7,False,reconciles
+31244,2193,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+31245,2193,Rajasthan Royals Won by 3 wickets,wickets,3,3,False,reconciles
+31246,2193,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+31247,2193,Chennai Super Kings Won by 20 runs,runs,20,20,False,reconciles
+31248,2193,Sunrisers Hyderabad Won by 25 runs,runs,25,25,False,reconciles
+31249,2193,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+31250,2193,Rajasthan Royals Won by 2 wickets,wickets,2,2,False,reconciles
+31251,2193,Mumbai Indians Won by 9 runs,runs,9,9,False,reconciles
+31252,2193,Lucknow Super Giants Won by 8 wickets,wickets,8,8,False,reconciles
+31253,2193,Sunrisers Hyderabad Won by 67 runs,runs,67,67,False,reconciles
+31254,2193,Kolkata Knight Riders Won by 1 runs,runs,1,1,False,reconciles
+31255,2193,Gujarat Titans Won by 3 wickets,wickets,3,3,False,reconciles
+31256,2193,Rajasthan Royals Won by 9 wickets,wickets,9,9,False,reconciles
+31257,2193,Lucknow Super Giants Won by 6 wickets,wickets,6,6,False,reconciles
+31258,2193,Delhi Capitals Won by 4 runs,runs,4,4,False,reconciles
+31259,2193,Royal Challengers Bengaluru Won by 35 runs,runs,35,35,False,reconciles
+31260,2193,Punjab Kings Won by 8 wickets,wickets,8,8,False,reconciles
+31261,2193,Delhi Capitals Won by 10 runs,runs,10,10,False,reconciles
+31262,2193,Rajasthan Royals Won by 7 wickets,wickets,7,7,False,reconciles
+31263,2193,Royal Challengers Bengaluru Won by 9 wickets,wickets,9,9,False,reconciles
+31264,2193,Chennai Super Kings Won by 78 runs,runs,78,78,False,reconciles
+31265,2193,Kolkata Knight Riders Won by 7 wickets,wickets,7,7,False,reconciles
+31266,2193,Lucknow Super Giants Won by 4 wickets,wickets,4,4,False,reconciles
+31267,2193,Punjab Kings Won by 7 wickets,wickets,7,7,False,reconciles
+31268,2193,Sunrisers Hyderabad Won by 1 runs,runs,1,1,False,reconciles
+31269,2193,Kolkata Knight Riders Won by 24 runs,runs,24,24,False,reconciles
+31270,2193,Royal Challengers Bengaluru Won by 4 wickets,wickets,4,4,False,reconciles
+31271,2193,Chennai Super Kings Won by 28 runs,runs,28,28,False,reconciles
+31272,2193,Kolkata Knight Riders Won by 98 runs,runs,98,98,False,reconciles
+31273,2193,Mumbai Indians Won by 7 wickets,wickets,7,7,False,reconciles
+31274,2193,Delhi Capitals Won by 20 runs,runs,20,20,False,reconciles
+31275,2193,Sunrisers Hyderabad Won by 10 wickets,wickets,10,10,False,reconciles
+31276,2193,Royal Challengers Bengaluru Won by 60 runs,runs,60,60,False,reconciles
+31277,2193,Gujarat Titans Won by 35 runs,runs,35,35,False,reconciles
+31278,2193,Kolkata Knight Riders Won by 18 runs,runs,18,18,False,reconciles
+31279,2193,Chennai Super Kings Won by 5 wickets,wickets,5,5,False,reconciles
+31280,2193,Royal Challengers Bengaluru Won by 47 runs,runs,47,47,False,reconciles
+31282,2193,Delhi Capitals Won by 19 runs,runs,19,19,False,reconciles
+31283,2193,Punjab Kings Won by 5 wickets,wickets,5,5,False,reconciles
+31285,2193,Lucknow Super Giants Won by 18 runs,runs,18,18,False,reconciles
+31286,2193,Royal Challengers Bengaluru Won by 27 runs,runs,27,27,False,reconciles
+31287,2193,Sunrisers Hyderabad Won by 4 wickets,wickets,4,4,False,reconciles
+31289,2193,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+31290,2193,Rajasthan Royals Won by 4 wickets,wickets,4,4,False,reconciles
+31291,2193,Sunrisers Hyderabad Won by 36 runs,runs,36,36,False,reconciles
+31292,2193,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+28957,2229,Sri Lanka Won By 3 Wickets,wickets,3,3,False,reconciles
+28958,2229,Zimbabwe Won by 4 Wickets,wickets,4,4,False,reconciles
+28959,2229,Sri Lanka Won by 9 Wickets,wickets,9,9,False,reconciles
+29924,2267,Sri Lanka Won by 4 runs,runs,4,4,False,reconciles
+29925,2267,Sri Lanka Won by 72 Runs,runs,72,72,False,reconciles
+29926,2267,Afghanistan won by 3 runs,runs,3,3,False,reconciles
+30728,2269,Ireland won by 38 runs,runs,38,38,False,reconciles
+30729,2269,Afghanistan Won By 10Runs,runs,10,10,False,reconciles
+30730,2269,Afghanistan won by 57 runs,runs,57,57,False,reconciles
+30341,2305,Sri Lanka won by 3 runs,runs,3,3,False,reconciles
+30342,2305,Bangladesh won by 8 wickets,wickets,8,8,False,reconciles
+30343,2305,Sri Lanka won by 28 runs,runs,28,28,False,reconciles
+31708,2350,Pakistan Won by 7 wickets,wickets,7,7,False,reconciles
+31709,2350,New Zealand Won by 7 wickets,wickets,7,7,False,reconciles
+31710,2350,New Zealand Won by 4 runs,runs,4,4,False,reconciles
+31711,2350,Pakistan Won by 9 runs,runs,9,9,False,reconciles
+32611,2354,England Won by 23 runs,runs,23,23,False,reconciles
+32613,2354,England Won by 7 wickets,wickets,7,7,False,reconciles
+32132,2371,Bangladesh Won by 8 wickets,wickets,8,8,False,reconciles
+32133,2371,Bangladesh Won by 6 wickets,wickets,6,6,False,reconciles
+32134,2371,Bangladesh Won by 9 runs,runs,9,9,False,reconciles
+32135,2371,Bangladesh Won by 5 runs,runs,5,5,False,reconciles
+32136,2371,Zimbabwe Won by 8 wickets,wickets,8,8,False,reconciles
+33803,2372,Zimbabwe Won by 13 runs,runs,13,13,False,reconciles
+33804,2372,India Won by 100 runs,runs,100,100,False,reconciles
+33805,2372,India Won by 23 runs,runs,23,23,False,reconciles
+33806,2372,India Won by 10 wickets,wickets,10,10,False,reconciles
+33807,2372,India Won by 42 runs,runs,42,42,False,reconciles
+37354,2387,Australia Won by 29 runs,runs,29,29,True,dls_adjusted_not_directly_comparable
+37355,2387,Australia Won by 13 runs,runs,13,13,False,reconciles
+37356,2387,Australia Won by 7 wickets,wickets,7,7,False,reconciles
+32290,2395,Ireland Won by 5 wickets,wickets,5,5,False,reconciles
+32291,2395,Pakistan Won by 7 wickets,wickets,7,7,False,reconciles
+32292,2395,Pakistan Won by 6 wickets,wickets,6,6,False,reconciles
+32620,2398,Netherlands Won by 41 runs,runs,41,41,False,reconciles
+32621,2398,Ireland Won by 1 runs,runs,1,1,False,reconciles
+32623,2398,Scotland Won by 71 runs,runs,71,71,False,reconciles
+32624,2398,Ireland Won by 5 wickets,wickets,5,5,False,reconciles
+32625,2398,Ireland Won by 3 runs,runs,3,3,False,reconciles
+38795,2442,South Africa Won by 11 runs,runs,11,11,False,reconciles
+38796,2442,South Africa Won by 7 wickets,wickets,7,7,False,reconciles
+32617,2452,West Indies Won by 28 runs,runs,28,28,False,reconciles
+32618,2452,West Indies Won by 16 runs,runs,16,16,False,reconciles
+32619,2452,West Indies Won by 8 wickets,wickets,8,8,False,reconciles
+36096,2453,West Indies Won by 7 wickets,wickets,7,7,False,reconciles
+36097,2453,West Indies Won by 30 runs,runs,30,30,False,reconciles
+36098,2453,West Indies Won by 8 wickets (DLS),wickets,8,8,True,dls_adjusted_not_directly_comparable
+37349,2455,England Won by 8 wickets,wickets,8,8,False,reconciles
+37350,2455,England Won by 7 wickets,wickets,7,7,False,reconciles
+37351,2455,England Won by 3 wickets,wickets,3,3,False,reconciles
+37352,2455,West Indies Won by 5 wickets,wickets,5,5,False,reconciles
+38842,2457,Bangladesh Won by 7 runs,runs,7,7,False,reconciles
+38843,2457,Bangladesh Won by 27 runs,runs,27,27,False,reconciles
+38844,2457,Bangladesh Won by 80 runs,runs,80,80,False,reconciles
+37276,2512,India Won by 7 wickets,wickets,7,7,False,reconciles
+37277,2512,India Won by 86 runs,runs,86,86,False,reconciles
+37278,2512,India Won by 133 runs,runs,133,133,False,reconciles
+40036,2513,India Won by 7 wickets,wickets,7,7,False,reconciles
+40037,2513,India Won by 2 wickets,wickets,2,2,False,reconciles
+40038,2513,England Won by 26 runs,runs,26,26,False,reconciles
+40039,2513,India Won by 15 runs,runs,15,15,False,reconciles
+40040,2513,India Won by 150 runs,runs,150,150,False,reconciles
+34427,2542,India Won by 43 runs,runs,43,43,False,reconciles
+34428,2542,India Won by 7 wickets(D/L Method),wickets,7,7,True,dls_adjusted_not_directly_comparable
+36562,2548,Australia Won by 28 runs,runs,28,28,False,reconciles
+36563,2548,England Won by 3 wickets,wickets,3,3,False,reconciles
+36559,2561,Australia Won by 7 wickets,wickets,7,7,False,reconciles
+36560,2561,Australia Won by 70 runs,runs,70,70,False,reconciles
+36561,2561,Australia Won by 6 wickets,wickets,6,6,False,reconciles
+37014,2562,South Africa Won by 8 wickets,wickets,8,8,False,reconciles
+37015,2562,Ireland Won by 10 runs,runs,10,10,False,reconciles
+35423,2605,Netherlands Won by 5 wickets,wickets,5,5,False,reconciles
+35425,2605,Netherlands Won by 102 runs,runs,102,102,False,reconciles
+35427,2605,Canada Won by 8 runs,runs,8,8,False,reconciles
+35428,2605,United States Of America Won by 20 runs,runs,20,20,False,reconciles
+35429,2605,Netherlands Won by 4 runs,runs,4,4,False,reconciles
+36199,2626,England Won by 21 runs,runs,21,21,False,reconciles
+36200,2626,England Won by 4 wickets,wickets,4,4,False,reconciles
+36201,2626,England Won by 37 runs,runs,37,37,False,reconciles
+36208,2628,South Africa Won by 14 runs(DLS method),runs,14,43,True,dls_adjusted_not_directly_comparable
+36209,2628,England Won by 146 runs,runs,146,146,False,reconciles
+37085,2670,Bangladesh A Won by 5 wickets,wickets,5,5,False,reconciles
+37086,2670,Afghanistan A Won by 11 runs,runs,11,11,False,reconciles
+37087,2670,United Arab Emirates Won by 4 wickets,wickets,4,4,False,reconciles
+37088,2670,India A Won by 7 runs,runs,7,7,False,reconciles
+37089,2670,Sri Lanka A Won by 42 runs,runs,42,42,False,reconciles
+37090,2670,Afghanistan A Won by 4 wickets,wickets,4,4,False,reconciles
+37091,2670,Pakistan A Won by 74 runs,runs,74,74,False,reconciles
+37092,2670,India A Won by 7 wickets,wickets,7,7,False,reconciles
+37093,2670,Hong Kong Won by 5 wickets,wickets,5,5,False,reconciles
+37094,2670,Sri Lanka A Won by 19 runs,runs,19,19,False,reconciles
+37095,2670,Pakistan A Won by 114 runs,runs,114,114,False,reconciles
+37096,2670,India A Won by 6 wickets,wickets,6,6,False,reconciles
+37097,2670,Sri Lanka A Won by 7 wickets,wickets,7,7,False,reconciles
+37098,2670,Afghanistan A Won by 20 runs,runs,20,20,False,reconciles
+37099,2670,Afghanistan A Won by 7 wickets,wickets,7,7,False,reconciles
+37553,2692,West Indies Won by 5 wickets,wickets,5,5,False,reconciles
+37554,2692,Sri Lanka Won by 73 runs,runs,73,73,False,reconciles
+37555,2692,Sri Lanka Won by 9 wickets,wickets,9,9,False,reconciles
+37894,2716,Sri Lanka Won by 4 wickets,wickets,4,4,False,reconciles
+37895,2716,New Zealand Won by 5 runs,runs,5,5,False,reconciles
+37940,2718,India Won by 61 runs,runs,61,61,False,reconciles
+37941,2718,South Africa Won by 3 wickets,wickets,3,3,False,reconciles
+37942,2718,India Won by 11 runs,runs,11,11,False,reconciles
+37943,2718,India Won by 135 runs,runs,135,135,False,reconciles
+37926,2722,Pakistan Won by 57 runs,runs,57,57,False,reconciles
+37927,2722,Pakistan Won by 10 wickets,wickets,10,10,False,reconciles
+37928,2722,Zimbabwe Won by 2 wickets,wickets,2,2,False,reconciles
+40694,2725,Royal Challengers Bengaluru Won by 7 wickets,wickets,7,7,False,reconciles
+40695,2725,Sunrisers Hyderabad Won by 44 runs,runs,44,44,False,reconciles
+40696,2725,Chennai Super Kings Won by 4 wickets,wickets,4,4,False,reconciles
+40697,2725,Delhi Capitals Won by 1 wickets,wickets,1,1,False,reconciles
+40698,2725,Punjab Kings Won by 11 runs,runs,11,11,False,reconciles
+40699,2725,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+40700,2725,Lucknow Super Giants Won by 5 wickets,wickets,5,5,False,reconciles
+40701,2725,Royal Challengers Bengaluru Won by 50 runs,runs,50,50,False,reconciles
+40702,2725,Gujarat Titans Won by 36 runs,runs,36,36,False,reconciles
+40703,2725,Delhi Capitals Won by 7 wickets,wickets,7,7,False,reconciles
+40704,2725,Rajasthan Royals Won by 6 runs,runs,6,6,False,reconciles
+40705,2725,Mumbai Indians Won by 8 wickets,wickets,8,8,False,reconciles
+40706,2725,Punjab Kings Won by 8 wickets,wickets,8,8,False,reconciles
+40707,2725,Gujarat Titans Won by 8 wickets,wickets,8,8,False,reconciles
+40708,2725,Kolkata Knight Riders Won by 80 runs,runs,80,80,False,reconciles
+40709,2725,Lucknow Super Giants Won by 12 runs,runs,12,12,False,reconciles
+40710,2725,Delhi Capitals Won by 25 runs,runs,25,25,False,reconciles
+40711,2725,Rajasthan Royals Won by 50 runs,runs,50,50,False,reconciles
+40712,2725,Lucknow Super Giants Won by 4 runs,runs,4,4,False,reconciles
+40713,2725,Gujarat Titans Won by 7 wickets,wickets,7,7,False,reconciles
+40714,2725,Royal Challengers Bengaluru Won by 12 runs,runs,12,12,False,reconciles
+40715,2725,Punjab Kings Won by 18 runs,runs,18,18,False,reconciles
+40716,2725,Gujarat Titans Won by 58 runs,runs,58,58,False,reconciles
+40717,2725,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+40718,2725,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+40719,2725,Lucknow Super Giants Won by 6 wickets,wickets,6,6,False,reconciles
+40720,2725,Sunrisers Hyderabad Won by 8 wickets,wickets,8,8,False,reconciles
+40721,2725,Royal Challengers Bengaluru Won by 9 wickets,wickets,9,9,False,reconciles
+40722,2725,Mumbai Indians Won by 12 runs,runs,12,12,False,reconciles
+40723,2725,Chennai Super Kings Won by 5 wickets,wickets,5,5,False,reconciles
+40724,2725,Punjab Kings Won by 16 runs,runs,16,16,False,reconciles
+40726,2725,Mumbai Indians Won by 4 wickets,wickets,4,4,False,reconciles
+40727,2725,Punjab Kings Won by 5 wickets,wickets,5,5,True,dls_adjusted_not_directly_comparable
+40728,2725,Gujarat Titans Won by 7 wickets,wickets,7,7,False,reconciles
+40729,2725,Lucknow Super Giants Won by 2 runs,runs,2,2,False,reconciles
+40730,2725,Royal Challengers Bengaluru Won by 7 wickets,wickets,7,7,False,reconciles
+40731,2725,Mumbai Indians Won by 9 wickets,wickets,9,9,False,reconciles
+40732,2725,Gujarat Titans Won by 39 runs,runs,39,39,False,reconciles
+40733,2725,Delhi Capitals Won by 8 wickets,wickets,8,8,False,reconciles
+40734,2725,Mumbai Indians Won by 7 wickets,wickets,7,7,False,reconciles
+40735,2725,Royal Challengers Bengaluru Won by 11 runs,runs,11,11,False,reconciles
+40736,2725,Sunrisers Hyderabad Won by 5 wickets,wickets,5,5,False,reconciles
+40738,2725,Mumbai Indians Won by 54 runs,runs,54,54,False,reconciles
+40739,2725,Royal Challengers Bengaluru Won by 6 wickets,wickets,6,6,False,reconciles
+40740,2725,Rajasthan Royals Won by 8 wickets,wickets,8,8,False,reconciles
+40741,2725,Kolkata Knight Riders Won by 14 runs,runs,14,14,False,reconciles
+40742,2725,Punjab Kings Won by 4 wickets,wickets,4,4,False,reconciles
+40743,2725,Mumbai Indians Won by 100 runs,runs,100,100,False,reconciles
+40744,2725,Gujarat Titans Won by 38 runs,runs,38,38,False,reconciles
+40745,2725,Royal Challengers Bengaluru Won by 2 runs,runs,2,2,False,reconciles
+40746,2725,Kolkata Knight Riders Won by 1 run,runs,1,1,False,reconciles
+40747,2725,Punjab Kings Won by 37 runs,runs,37,37,False,reconciles
+40749,2725,Gujarat Titans Won by 3 wickets (DLS Method),wickets,3,3,True,dls_adjusted_not_directly_comparable
+40750,2725,Chennai Super Kings Won by 2 wickets,wickets,2,2,False,reconciles
+40752,2725,Royal Challengers Bengaluru Won by 6 wickets,wickets,6,6,False,reconciles
+40753,2725,Sunrisers Hyderabad Won by 110 runs,runs,110,110,False,reconciles
+40754,2725,Punjab Kings Won by 7 wickets,wickets,7,7,False,reconciles
+40755,2725,Gujarat Titans Won by 10 wickets,wickets,10,10,False,reconciles
+40756,2725,Rajasthan Royals Won by 6 wickets,wickets,6,6,False,reconciles
+40757,2725,Sunrisers Hyderabad Won by 42 runs,runs,42,42,False,reconciles
+40758,2725,Lucknow Super Giants Won by 33 runs,runs,33,33,False,reconciles
+40759,2725,Mumbai Indians Won by 59 runs,runs,59,59,False,reconciles
+40760,2725,Punjab Kings Won by 10 runs,runs,10,10,False,reconciles
+40762,2725,Chennai Super Kings Won by 83 runs,runs,83,83,False,reconciles
+40763,2725,Sunrisers Hyderabad Won by 6 wickets,wickets,6,6,False,reconciles
+40764,2725,Royal Challengers Bengaluru Won by 8 wickets,wickets,8,8,False,reconciles
+40765,2725,Mumbai Indians Won by 20 runs,runs,20,20,False,reconciles
+40766,2725,Punjab Kings Won by 5 wickets,wickets,5,5,False,reconciles
+40767,2725,Royal Challengers Bengaluru Won by 6 runs,runs,6,6,False,reconciles
+43057,2725,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+38626,2753,Zimbabwe Won by 4 wickets,wickets,4,4,False,reconciles
+38627,2753,Afghanistan Won by 50 runs,runs,50,50,False,reconciles
+38628,2753,Afghanistan Won by 3 wickets,wickets,3,3,False,reconciles
+38632,2755,New Zealand Won by 8 runs,runs,8,8,False,reconciles
+38633,2755,New Zealand Won by 45 runs,runs,45,45,False,reconciles
+38634,2755,Sri Lanka Won by 7 runs,runs,7,7,False,reconciles
+39808,2793,New Zealand Won by 9 wickets,wickets,9,9,False,reconciles
+39809,2793,New Zealand Won by 5 wickets,wickets,5,5,True,dls_adjusted_not_directly_comparable
+39810,2793,Pakistan Won by 9 wickets,wickets,9,9,False,reconciles
+39811,2793,New Zealand Won by 115 runs,runs,115,115,False,reconciles
+39812,2793,New Zealand Won by 8 wickets,wickets,8,8,False,reconciles
+39984,2801,Zimbabwe Won by 3 wickets,wickets,3,3,False,reconciles
+41504,2873,West Indies Won by 62 runs,runs,62,62,False,reconciles
+41505,2874,Australia Won by 3 wickets,wickets,3,3,False,reconciles
+41506,2874,Australia Won by 8 wickets,wickets,8,8,False,reconciles
+41507,2874,Australia Won By 6 Wickets,wickets,6,6,False,reconciles
+41508,2874,Australia Won by 3 wickets,wickets,3,3,False,reconciles
+41509,2874,Australia Won by 3 wickets,wickets,3,3,False,reconciles
+41510,2875,Pakistan Won by 14 runs,runs,14,14,False,reconciles
+41511,2875,West Indies Won by 2 wickets,wickets,2,2,False,reconciles
+41512,2875,Pakistan Won by 13 runs,runs,13,13,False,reconciles
+41849,2906,South Africa Won by 9 wickets,wickets,9,9,False,reconciles
+41850,2906,South Africa Won by 7 wickets,wickets,7,7,False,reconciles
+41851,2906,West Indies Won by 6 runs(DLS Method),runs,6,4,True,dls_adjusted_not_directly_comparable
+41969,2912,Australia Won by 17 runs,runs,17,17,False,reconciles
+41970,2912,South Africa Won by 53 runs,runs,53,53,False,reconciles
+41971,2912,Australia Won by 2 wickets,wickets,2,2,False,reconciles
+41976,2915,Australia Won by 4 wickets,wickets,4,4,False,reconciles
+41977,2915,India Won by 5 wickets,wickets,5,5,False,reconciles
+41978,2915,India Won by 48 runs,runs,48,48,False,reconciles
+42027,2921,India Won by 101 runs,runs,101,101,False,reconciles
+42028,2921,South Africa Won by 51 runs,runs,51,51,False,reconciles
+42029,2921,India Won by 7 wickets,wickets,7,7,False,reconciles
+42031,2921,India Won by 30 runs,runs,30,30,False,reconciles
+42742,2973,Pakistan Won by 37 runs,runs,37,37,False,reconciles
+42743,2973,Pakistan Won by 57 runs,runs,57,57,False,reconciles
+42744,2973,Pakistan Won by 7 wickets,wickets,7,7,False,reconciles
+42783,2975,Bangladesh Won by 27 runs,runs,27,27,False,reconciles
+42784,2975,United Arab Emirates Won by 2 wickets,wickets,2,2,False,reconciles
+43171,2975,United Arab Emirates Won by 7 wickets,wickets,7,7,False,reconciles
+43592,3020,Sri Lanka Won by 7 wickets,wickets,7,7,False,reconciles
+43594,3020,Bangladesh Won by 83 runs,runs,83,83,False,reconciles
+43595,3020,Bangladesh Won by 8 wickets,wickets,8,8,False,reconciles
+44265,3074,Bangladesh Won by 7 wickets,wickets,7,7,False,reconciles
+44266,3074,Bangladesh Won by 8 runs,runs,8,8,False,reconciles
+44267,3074,Pakistan Won by 74 runs,runs,74,74,False,reconciles
+45391,3126,England Won by 4 wickets,wickets,4,4,False,reconciles
+45392,3126,England Won by 125 runs,runs,125,125,False,reconciles
+45393,3126,England Won by 9 wickets,wickets,9,9,False,reconciles
+45394,3126,England Won by 56 runs,runs,56,56,False,reconciles
+45489,3128,England Won by 119 runs,runs,119,119,False,reconciles
+45490,3128,England Won by 6 wickets,wickets,6,6,False,reconciles
+45491,3128,England Won by 8 wickets,wickets,8,8,False,reconciles
+45495,3133,Afghanistan Won by 94 runs,runs,94,94,False,reconciles
+45496,3133,India Won by 9 wickets,wickets,9,9,False,reconciles
+45497,3133,Bangladesh Won by 7 wickets,wickets,7,7,False,reconciles
+45498,3133,Pakistan Won by 93 runs,runs,93,93,False,reconciles
+45499,3133,Sri Lanka Won by 6 wickets,wickets,6,6,False,reconciles
+45500,3133,India Won by 7 wickets,wickets,7,7,False,reconciles
+45501,3133,United Arab Emirates Won by 42 runs,runs,42,42,False,reconciles
+45502,3133,Sri Lanka Won by 4 wickets,wickets,4,4,False,reconciles
+45503,3133,Bangladesh Won by 8 runs,runs,8,8,False,reconciles
+45504,3133,Pakistan Won by 41 runs,runs,41,41,False,reconciles
+45505,3133,Sri Lanka Won by 6 wickets,wickets,6,6,False,reconciles
+45506,3133,India Won by 21 runs,runs,21,21,False,reconciles
+45507,3133,Bangladesh Won by 4 wickets,wickets,4,4,False,reconciles
+45508,3133,India Won by 6 wickets,wickets,6,6,False,reconciles
+45509,3133,Pakistan Won by 5 wickets,wickets,5,5,False,reconciles
+45510,3133,India Won by 41 runs,runs,41,41,False,reconciles
+45511,3133,Pakistan Won by 11 runs,runs,11,11,False,reconciles
+45513,3133,India Won by 5 wickets,wickets,5,5,False,reconciles
+45851,3159,Pakistan Won by 39 runs,runs,39,39,False,reconciles
+45852,3159,Pakistan Won by 31 runs,runs,31,31,False,reconciles
+45853,3159,Afghanistan Won by 38 runs,runs,38,38,False,reconciles
+45854,3159,Afghanistan Won by 18 runs,runs,18,18,False,reconciles
+45855,3159,Pakistan Won by 31 runs,runs,31,31,False,reconciles
+45856,3159,Afghanistan Won by 4 runs,runs,4,4,False,reconciles
+45857,3159,Pakistan Won by 75 runs,runs,75,75,False,reconciles
+45903,3162,Sri Lanka Won by 4 wickets,wickets,4,4,False,reconciles
+45904,3162,Zimbabwe Won by 5 wickets,wickets,5,5,False,reconciles
+45905,3162,Sri Lanka Won by 8 wickets,wickets,8,8,False,reconciles
+45906,3163,Bangladesh Won by 8 wickets,wickets,8,8,False,reconciles
+45907,3163,Bangladesh Won by 9 wickets,wickets,9,9,False,reconciles
+46007,3174,England Won by 4 wickets,wickets,4,4,False,reconciles
+46009,3174,England Won by 6 wickets,wickets,6,6,False,reconciles
+46249,3190,Nepal Won by 19 runs,runs,19,19,False,reconciles
+46250,3190,Nepal Won by 90 runs,runs,90,90,False,reconciles
+46251,3190,West Indies Won by 10 wickets,wickets,10,10,False,reconciles
+46310,3197,Australia Won by 6 wickets,wickets,6,6,False,reconciles
+46312,3197,Australia Won by 3 wickets,wickets,3,3,False,reconciles
+46740,3223,South Africa Won by 55 runs,runs,55,55,False,reconciles
+46741,3223,Pakistan Won by 9 wickets,wickets,9,9,False,reconciles
+46742,3223,Pakistan Won by 4 wickets,wickets,4,4,False,reconciles
+46748,3226,England Won by 65 runs,runs,65,65,False,reconciles
+46753,3228,Bangladesh Won by 4 wickets,wickets,4,4,False,reconciles
+46754,3228,Bangladesh Won by 2 wickets,wickets,2,2,False,reconciles
+46755,3228,Bangladesh Won by 6 wickets,wickets,6,6,False,reconciles
+46940,3241,West Indies Won by 16 runs,runs,16,16,False,reconciles
+46941,3241,West Indies Won by 14 runs,runs,14,14,False,reconciles
+46942,3241,West Indies Won by 5 wickets,wickets,5,5,False,reconciles
+47241,3251,Ireland Won by 39 runs,runs,39,39,False,reconciles
+47242,3251,Bangladesh Won by 4 wickets,wickets,4,4,False,reconciles
+47243,3251,Bangladesh Won by 8 wickets,wickets,8,8,False,reconciles
+47260,3254,Afghanistan Won by 53 runs,runs,53,53,False,reconciles
+47261,3254,Afghanistan Won by 7 wickets,wickets,7,7,False,reconciles
+47262,3254,Afghanistan Won by 9 runs,runs,9,9,False,reconciles
+47965,3282,West Indies Won by 7 runs,runs,7,7,False,reconciles
+47966,3282,New Zealand Won by 3 runs,runs,3,3,False,reconciles
+47967,3282,New Zealand Won by 9 runs,runs,9,9,False,reconciles
+47969,3282,New Zealand Won by 8 wickets,wickets,8,8,False,reconciles
+47976,3288,Pakistan Won by 5 wickets,wickets,5,5,False,reconciles
+47977,3288,Zimbabwe Won by 67 runs,runs,67,67,False,reconciles
+47978,3288,Pakistan Won by 7 wickets,wickets,7,7,False,reconciles
+47979,3288,Pakistan Won by 69 runs,runs,69,69,False,reconciles
+47980,3288,Sri Lanka Won by 9 wickets,wickets,9,9,False,reconciles
+47981,3288,Sri Lanka Won by 6 runs,runs,6,6,False,reconciles
+47982,3288,Pakistan Won by 6 wickets,wickets,6,6,False,reconciles
+48015,3289,Pakistan A Won by 40 runs,runs,40,40,False,reconciles
+48016,3289,India A Won by 148 runs,runs,148,148,False,reconciles
+48017,3289,Bangladesh A Won by 8 wickets,wickets,8,8,False,reconciles
+48018,3289,Afghanistan A Won by 3 wickets,wickets,3,3,False,reconciles
+48019,3289,Oman Won by 2 wickets,wickets,2,2,False,reconciles
+48020,3289,Pakistan A Won by 8 wickets,wickets,8,8,False,reconciles
+48021,3289,Sri Lanka A Won by 7 wickets,wickets,7,7,False,reconciles
+48022,3289,Bangladesh A Won by 8 wickets,wickets,8,8,False,reconciles
+48023,3289,Pakistan A Won by 9 wickets,wickets,9,9,False,reconciles
+48024,3289,India A Won by 6 wickets,wickets,6,6,False,reconciles
+48025,3289,Afghanistan A Won by 24 runs,runs,24,24,False,reconciles
+48026,3289,Sri Lanka A Won by 6 runs,runs,6,6,False,reconciles
+48028,3289,Pakistan A Won by 5 runs,runs,5,5,False,reconciles
+50125,3298,Royal Challengers Bengaluru Won by 6 wickets,wickets,6,6,False,reconciles
+50126,3298,Mumbai Indians Won by 6 wickets,wickets,6,6,False,reconciles
+50127,3298,Rajasthan Royals Won by 8 wickets,wickets,8,8,False,reconciles
+50128,3298,Punjab Kings Won by 3 wickets,wickets,3,3,False,reconciles
+50129,3298,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+50130,3298,Sunrisers Hyderabad Won by 65 runs,runs,65,65,False,reconciles
+50131,3298,Punjab Kings Won by 5 wickets,wickets,5,5,False,reconciles
+50132,3298,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+50133,3298,Rajasthan Royals Won by 6 runs,runs,6,6,False,reconciles
+50134,3298,Lucknow Super Giants Won by 5 wickets,wickets,5,5,False,reconciles
+50135,3298,Royal Challengers Bengaluru Won by 43 runs,runs,43,43,False,reconciles
+50137,3298,Rajasthan Royals Won by 27 runs,runs,27,27,True,dls_adjusted_not_directly_comparable
+50138,3298,Gujarat Titans Won by 1 run,runs,1,1,False,reconciles
+50139,3298,Lucknow Super Giants Won by 3 wickets,wickets,3,3,False,reconciles
+50140,3298,Rajasthan Royals Won by 6 wickets,wickets,6,6,False,reconciles
+50141,3298,Punjab Kings Won by 6 wickets,wickets,6,6,False,reconciles
+50142,3298,Chennai Super Kings Won by 23 runs,runs,23,23,False,reconciles
+50143,3298,Gujarat Titans Won by 7 wickets,wickets,7,7,False,reconciles
+50144,3298,Royal Challengers Bengaluru Won by 18 runs,runs,18,18,False,reconciles
+50342,3298,Sunrisers Hyderabad Won by 57 runs,runs,57,57,False,reconciles
+50343,3298,Chennai Super Kings Won by 32 runs,runs,32,32,False,reconciles
+50344,3298,Royal Challengers Bengaluru Won by 5 wickets,wickets,5,5,False,reconciles
+50345,3298,Punjab Kings Won by 7 wickets,wickets,7,7,False,reconciles
+50346,3298,Gujarat Titans Won by 5 wickets,wickets,5,5,False,reconciles
+50347,3298,Delhi Capitals Won by 6 wickets,wickets,6,6,False,reconciles
+50348,3298,Sunrisers Hyderabad Won by 10 runs,runs,10,10,False,reconciles
+50349,3298,Kolkata Knight Riders Won by 4 wickets,wickets,4,4,False,reconciles
+50350,3298,Punjab Kings Won by 54 runs,runs,54,54,False,reconciles
+50351,3298,Mumbai Indians Won by 99 runs,runs,99,99,False,reconciles
+50352,3298,Sunrisers Hyderabad Won by 47 runs,runs,47,47,False,reconciles
+50353,3298,Rajasthan Royals Won by 40 runs,runs,40,40,False,reconciles
+50354,3298,Chennai Super Kings Won by 103 runs,runs,103,103,False,reconciles
+50355,3298,Royal Challengers Bengaluru Won by 5 wickets,wickets,5,5,False,reconciles
+50356,3298,Punjab Kings Won by 6 wickets,wickets,6,6,False,reconciles
+50357,3298,Sunrisers Hyderabad Won by 5 wickets,wickets,5,5,False,reconciles
+50358,3298,Gujarat Titans Won by 8 wickets,wickets,8,8,False,reconciles
+50360,3298,Royal Challengers Bengaluru Won by 9 wickets,wickets,9,9,False,reconciles
+50361,3298,Rajasthan Royals Won by 6 wickets,wickets,6,6,False,reconciles
+50362,3298,Sunrisers Hyderabad Won by 6 wickets,wickets,6,6,False,reconciles
+50363,3298,Gujarat Titans Won by 4 wickets,wickets,4,4,False,reconciles
+50364,3298,Delhi Capitals Won by 7 wickets,wickets,7,7,False,reconciles
+50365,3298,Chennai Super Kings Won by 8 wickets,wickets,8,8,False,reconciles
+50366,3298,Kolkata Knight Riders Won by 7 wickets,wickets,7,7,False,reconciles
+50367,3298,Gujarat Titans Won by 4 wickets,wickets,4,4,False,reconciles
+50368,3298,Mumbai Indians Won by 6 wickets,wickets,6,6,False,reconciles
+50369,3298,Chennai Super Kings Won by 8 wickets,wickets,8,8,False,reconciles
+50370,3298,Sunrisers Hyderabad Won by 33 runs,runs,33,33,False,reconciles
+50371,3298,Lucknow Super Giants Won by 9 runs (DLS method),runs,9,6,True,dls_adjusted_not_directly_comparable
+50372,3298,Kolkata Knight Riders Won by 8 wickets,wickets,8,8,False,reconciles
+50373,3298,Gujarat Titans Won by 77 runs,runs,77,77,False,reconciles
+50374,3298,Chennai Super Kings Won by 5 wickets,wickets,5,5,False,reconciles
+50375,3298,Royal Challengers Bengaluru Won by 2 wickets,wickets,2,2,False,reconciles
+50376,3298,Delhi Capitals Won by 3 wickets,wickets,3,3,False,reconciles
+50377,3298,Gujarat Titans Won by 82 runs,runs,82,82,False,reconciles
+50378,3298,Royal Challengers Bengaluru Won by 6 wickets,wickets,6,6,False,reconciles
+50379,3298,Mumbai Indians Won by 6 wickets,wickets,6,6,False,reconciles
+50380,3298,Lucknow Super Giants Won by 7 wickets,wickets,7,7,False,reconciles
+50381,3298,Kolkata Knight Riders Won by 29 runs,runs,29,29,False,reconciles
+50382,3298,Royal Challengers Bengaluru Won by 23 runs,runs,23,23,False,reconciles
+50383,3298,Delhi Capitals Won by 5 wickets,wickets,5,5,False,reconciles
+50384,3298,Sunrisers Hyderabad Won by 5 wickets,wickets,5,5,False,reconciles
+50385,3298,Rajasthan Royals Won by 7 wickets,wickets,7,7,False,reconciles
+50386,3298,Kolkata Knight Riders Won by 4 wickets,wickets,4,4,False,reconciles
+50387,3298,Gujarat Titans Won by 89 runs,runs,89,89,False,reconciles
+50388,3298,Sunrisers Hyderabad Won by 55 runs,runs,55,55,False,reconciles
+50389,3298,Punjab Kings Won by 7 wickets,wickets,7,7,False,reconciles
+50390,3298,Rajasthan Royals Won by 30 runs,runs,30,30,False,reconciles
+50391,3298,Delhi Capitals Won by 40 runs,runs,40,40,False,reconciles
+50942,3298,Royal Challengers Bengaluru Won by 92 runs,runs,92,92,False,reconciles
+50943,3298,Rajasthan Royals Won by 47 runs,runs,47,47,False,reconciles
+50944,3298,Gujarat Titans Won by 7 wickets,wickets,7,7,False,reconciles
+50945,3298,Royal Challengers Bengaluru Won by 5 wickets,wickets,5,5,False,reconciles
+48466,3313,Ireland Won by 57 runs,runs,57,57,False,reconciles
+48467,3313,Ireland Won by 30 runs,runs,30,30,False,reconciles
+48512,3317,Pakistan Won by 6 wickets,wickets,6,6,False,reconciles
+48514,3317,Sri Lanka Won by 14 runs,runs,14,14,False,reconciles
+48591,3329,India Won by 48 runs,runs,48,48,False,reconciles
+48592,3329,India Won by 7 wickets,wickets,7,7,False,reconciles
+48593,3329,India Won by 8 wickets,wickets,8,8,False,reconciles
+48594,3329,New Zealand Won by 50 runs,runs,50,50,False,reconciles
+48595,3329,India Won by 46 runs,runs,46,46,False,reconciles
+48596,3331,Afghanistan Won by 38 runs,runs,38,38,False,reconciles
+48597,3331,Afghanistan Won by 39 runs,runs,39,39,False,reconciles
+48598,3331,West Indies Won by 13 runs,runs,13,13,False,reconciles
+48610,3334,England Won by 11 runs (DLS method),runs,11,8,True,dls_adjusted_not_directly_comparable
+48611,3334,England Won by 6 wickets(DLS Method),wickets,6,6,True,dls_adjusted_not_directly_comparable
+48612,3334,England Won by 12 runs,runs,12,12,False,reconciles
+48915,3358,Pakistan Won by 22 runs,runs,22,22,False,reconciles
+48916,3358,Pakistan Won by 90 runs,runs,90,90,False,reconciles
+48917,3358,Pakistan Won by 111 runs,runs,111,111,False,reconciles
+49736,3395,South Africa Won by 7 wickets,wickets,7,7,False,reconciles
+49737,3395,New Zealand Won by 68 runs,runs,68,68,False,reconciles
+49738,3395,New Zealand Won by 8 wickets,wickets,8,8,False,reconciles
+49739,3395,South Africa Won by 19 runs,runs,19,19,False,reconciles
+49740,3395,South Africa Won by 33 runs,runs,33,33,False,reconciles
+50188,3433,Bangladesh Won by 6 wickets,wickets,6,6,False,reconciles
+50190,3433,New Zealand Won by 6 wickets (DLS Method),wickets,6,6,True,dls_adjusted_not_directly_comparable
+50340,3446,Ireland Won by 34 runs,runs,34,34,False,reconciles
+50341,3446,Ireland Won by 1 run,runs,1,1,False,reconciles
+50404,3450,India Won by 8 wickets,wickets,8,8,False,reconciles
+50405,3450,West Indies Won by 6 wickets,wickets,6,6,False,reconciles
+50406,3450,India Won by 14 runs,runs,14,14,False,reconciles
+50407,3450,West Indies Won by 24 runs,runs,24,24,False,reconciles
+50503,3464,West Indies Won by 7 wickets,wickets,7,7,False,reconciles
+50504,3464,Sri Lanka Won by 37 runs,runs,37,37,False,reconciles
+50505,3464,West Indies Won by 5 wickets,wickets,5,5,False,reconciles
+50507,3465,India Won by 7 wickets,wickets,7,7,False,reconciles
+50508,3465,India Won by 90 runs,runs,90,90,False,reconciles
+50509,3465,India Won by 35 runs,runs,35,35,False,reconciles
+50597,3482,Australia Won by 4 wickets,wickets,4,4,False,reconciles
+50598,3482,Australia Won by 7 runs,runs,7,7,False,reconciles
+50599,3482,Australia Won by 7 wickets,wickets,7,7,False,reconciles
+51383,3568,Zimbabwe Won by 32 runs,runs,32,32,False,reconciles
+51384,3568,Bangladesh Won by 34 runs,runs,34,34,False,reconciles
+51385,3568,Bangladesh Won by 4 wickets,wickets,4,4,False,reconciles
+54210,3690,India Won by 4 wickets,wickets,4,4,False,reconciles
+54211,3690,India Won by 4 wickets,wickets,4,4,False,reconciles
+54212,3690,India Won by 6 wickets,wickets,6,6,False,reconciles
+54213,3690,New Zealand Won by 87 runs,runs,87,87,False,reconciles
+54214,3690,New Zealand Won by 7 wickets,wickets,7,7,False,reconciles
+54408,3713,India Won by 7 wickets,wickets,7,7,False,reconciles
+54409,3713,India Won by 7 wickets,wickets,7,7,False,reconciles
+54410,3713,India Won by 127 runs,runs,127,127,False,reconciles
+54711,3739,India Won by 2 runs,runs,2,2,True,dls_adjusted_not_directly_comparable
+55078,3765,Pakistan Won by 4 wickets,wickets,4,4,False,reconciles
+55079,3765,Pakistan Won by 82 runs,runs,82,82,False,reconciles
+55080,3765,Sri Lanka Won by 8 wickets,wickets,8,8,False,reconciles
+55559,3787,Afghanistan Won by 37 runs,runs,37,37,False,reconciles
+55560,3787,Afghanistan Won by 19 runs,runs,19,19,False,reconciles
+55561,3787,Afghanistan Won by 7 wickets,wickets,7,7,False,reconciles

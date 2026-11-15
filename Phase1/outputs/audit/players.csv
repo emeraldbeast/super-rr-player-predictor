@@ -1,0 +1,1218 @@
+player_id,player_name,name_variants,display_team,teams_seen,display_name,latest_season
+8,Mahendra Singh Dhoni,Mahendra Singh Dhoni,Chennai Super Kings,Chennai Super Kings,Mahendra Singh Dhoni (Chennai Super Kings; ID 8),2026
+23,Piyush Chawla,Piyush Chawla,Mumbai Indians,Mumbai Indians,Piyush Chawla (Mumbai Indians; ID 23),2024
+28,Ishant Sharma,Ishant Sharma,Gujarat Titans,Gujarat Titans | Delhi Capitals,Ishant Sharma (Gujarat Titans; ID 28),2026
+35,Nathan Bracken,Nathan Bracken,Chennai Super Kings,Chennai Super Kings,Nathan Bracken (Chennai Super Kings; ID 35),2022
+47,Virat Kohli,Virat Kohli,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India,Virat Kohli (Royal Challengers Bengaluru; ID 47),2026
+88,Faf du Plessis,Faf du Plessis,Delhi Capitals,Delhi Capitals | Royal Challengers Bengaluru,Faf du Plessis (Delhi Capitals; ID 88),2025
+109,Wriddhiman Saha,Wriddhiman Saha,Gujarat Titans,Gujarat Titans,Wriddhiman Saha (Gujarat Titans; ID 109),2024
+126,Rohit Sharma,Rohit Sharma,Mumbai Indians,Mumbai Indians | India,Rohit Sharma (Mumbai Indians; ID 126),2026
+142,Shikhar Dhawan,Shikhar Dhawan,Punjab Kings,Punjab Kings,Shikhar Dhawan (Punjab Kings; ID 142),2024
+143,Dinesh Karthik,Dinesh Karthik,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India,Dinesh Karthik (Royal Challengers Bengaluru; ID 143),2024
+147,Pradeep Sangwan,Pradeep Sangwan,Gujarat Titans,Gujarat Titans,Pradeep Sangwan (Gujarat Titans; ID 147),2023
+152,Ravindra Jadeja,Ravindra Jadeja,Rajasthan Royals,Rajasthan Royals | Chennai Super Kings | India,Ravindra Jadeja (Rajasthan Royals; ID 152),2026
+158,Amit Mishra,Amit Mishra,Lucknow Super Giants,Lucknow Super Giants,Amit Mishra (Lucknow Super Giants; ID 158),2024
+161,Dwayne Bravo,Dwayne Bravo,Chennai Super Kings,Chennai Super Kings,Dwayne Bravo (Chennai Super Kings; ID 161),2022
+167,Ajinkya Rahane,Ajinkya Rahane,Kolkata Knight Riders,Kolkata Knight Riders | Chennai Super Kings,Ajinkya Rahane (Kolkata Knight Riders; ID 167),2026
+169,Robin Uthappa,Robin Uthappa,Chennai Super Kings,Chennai Super Kings,Robin Uthappa (Chennai Super Kings; ID 169),2022
+198,Manish Pandey,Manish Pandey,Kolkata Knight Riders,Kolkata Knight Riders | Delhi Capitals | Lucknow Super Giants,Manish Pandey (Kolkata Knight Riders; ID 198),2026
+220,David Warner,David Warner,Delhi Capitals,Delhi Capitals | Australia,David Warner (Delhi Capitals; ID 220),2024
+223,Steven Smith,Steven Smith,Australia,Australia,Steven Smith (Australia; ID 223),2024
+224,Moises Henriques,Moises Henriques,Australia,Australia,Moises Henriques (Australia; ID 224),2022
+232,Tom Cooper,Tom Cooper,Netherlands,Netherlands,Tom Cooper (Netherlands; ID 232),2022
+250,Aaron Finch,Aaron Finch,Australia,Australia | Kolkata Knight Riders,Aaron Finch (Australia; ID 250),2022
+274,Martin Guptill,Martin Guptill,New Zealand,New Zealand,Martin Guptill (New Zealand; ID 274),2022/23
+278,Tim Southee,Tim Southee,New Zealand,New Zealand | Kolkata Knight Riders,Tim Southee (New Zealand; ID 278),2024
+286,Kane Richardson,Kane Richardson,Australia,Australia,Kane Richardson (Australia; ID 286),2023
+295,Wayne Parnell,Wayne Parnell,South Africa,South Africa | Royal Challengers Bengaluru,Wayne Parnell (South Africa; ID 295),2023
+305,Ravichandran Ashwin,Ravichandran Ashwin,Chennai Super Kings,Chennai Super Kings | Rajasthan Royals | India,Ravichandran Ashwin (Chennai Super Kings; ID 305),2025
+332,Angelo Mathews,Angelo Mathews,Sri Lanka,Sri Lanka,Angelo Mathews (Sri Lanka; ID 332),2024
+344,Sheldon Jackson,Sheldon Jackson,Kolkata Knight Riders,Kolkata Knight Riders,Sheldon Jackson (Kolkata Knight Riders; ID 344),2022
+360,Bhuvneshwar Kumar,Bhuvneshwar Kumar,India,India | Royal Challengers Bengaluru | Sunrisers Hyderabad,Bhuvneshwar Kumar (India; ID 360),2026
+393,Kedar Jadhav,Kedar Jadhav,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kedar Jadhav (Royal Challengers Bengaluru; ID 393),2023
+395,Karn Sharma,Karn Sharma,Mumbai Indians,Mumbai Indians | Royal Challengers Bengaluru,Karn Sharma (Mumbai Indians; ID 395),2025
+403,Umesh Yadav,Umesh Yadav,Gujarat Titans,Gujarat Titans | Kolkata Knight Riders | India,Umesh Yadav (Gujarat Titans; ID 403),2024
+418,Richard Berrington,Richard Berrington,Scotland,Scotland,Richard Berrington (Scotland; ID 418),2024
+443,Paul Stirling,Paul Stirling,Ireland,Ireland,Paul Stirling (Ireland; ID 443),2026
+456,Pieter Seelaar,Pieter Seelaar,Netherlands,Netherlands,Pieter Seelaar (Netherlands; ID 456),2022
+470,Mohammad Amir,Mohammad Amir,Pakistan,Pakistan,Mohammad Amir (Pakistan; ID 470),2024
+478,Eoin Morgan,Eoin Morgan,England,England,Eoin Morgan (England; ID 478),2022
+479,Adil Rashid,Adil Rashid,England,England | Sunrisers Hyderabad,Adil Rashid (England; ID 479),2026
+492,Andre Fletcher,Andre Fletcher,West Indies,West Indies,Andre Fletcher (West Indies; ID 492),2024
+494,Kieron Pollard,Kieron Pollard,Mumbai Indians,Mumbai Indians | West Indies,Kieron Pollard (Mumbai Indians; ID 494),2022
+499,Shakib Al Hasan,Shakib Al Hasan,Bangladesh,Bangladesh | Kolkata Knight Riders,Shakib Al Hasan (Bangladesh; ID 499),2024
+505,Mushfiqur Rahim,Mushfiqur Rahim,Bangladesh,Bangladesh,Mushfiqur Rahim (Bangladesh; ID 505),2022
+507,Mohammad Mahmudullah,Mohammad Mahmudullah,Bangladesh,Bangladesh,Mohammad Mahmudullah (Bangladesh; ID 507),2024
+535,Ambati Rayudu,Ambati Rayudu,Chennai Super Kings,Chennai Super Kings,Ambati Rayudu (Chennai Super Kings; ID 535),2023
+722,Liam Dawson,Liam Dawson,England,England,Liam Dawson (England; ID 722),2026
+728,Dawid Malan,Dawid Malan,England,England,Dawid Malan (England; ID 728),2023
+741,Garry Park,Garry Park,England,England,Garry Park (England; ID 741),2023
+757,Sybrand Engelbrecht,Sybrand Engelbrecht,Netherlands,Netherlands,Sybrand Engelbrecht (Netherlands; ID 757),2024
+768,Reeza Hendricks,Reeza Hendricks,South Africa,South Africa,Reeza Hendricks (South Africa; ID 768),2025
+772,Rilee Rossouw,Rilee Rossouw,Punjab Kings,Punjab Kings | South Africa | Delhi Capitals,Rilee Rossouw (Punjab Kings; ID 772),2024
+773,Shadley Van Schalkwyk,Shadley Van Schalkwyk,United States Of America,United States Of America,Shadley Van Schalkwyk (United States Of America; ID 773),2024
+778,Darren Bravo,Darren Bravo,West Indies,West Indies,Darren Bravo (West Indies; ID 778),2022
+781,Sunil Narine,Sunil Narine,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine (Kolkata Knight Riders; ID 781),2026
+786,Chris Jordan,Chris Jordan,England,England | Mumbai Indians | Chennai Super Kings,Chris Jordan (England; ID 786),2024
+796,Matthew Wade,Matthew Wade,Gujarat Titans,Gujarat Titans | Australia,Matthew Wade (Gujarat Titans; ID 796),2024
+813,Jos Buttler,Jos Buttler,England,England | Gujarat Titans | Rajasthan Royals,Jos Buttler (England; ID 813),2026
+818,Mitchell Marsh,Mitchell Marsh,Australia,Australia | Lucknow Super Giants | Delhi Capitals,Mitchell Marsh (Australia; ID 818),2026
+820,Nathan Coulter Nile,Nathan Coulter Nile,Rajasthan Royals,Rajasthan Royals,Nathan Coulter Nile (Rajasthan Royals; ID 820),2022
+829,Mitchell Starc,Mitchell Starc,Delhi Capitals,Delhi Capitals | Australia | Kolkata Knight Riders,Mitchell Starc (Delhi Capitals; ID 829),2026
+830,Josh Hazlewood,Josh Hazlewood,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Australia,Josh Hazlewood (Royal Challengers Bengaluru; ID 830),2026
+838,Glenn Maxwell,Glenn Maxwell,Australia,Australia | Punjab Kings | Royal Challengers Bengaluru,Glenn Maxwell (Australia; ID 838),2025
+914,Krishnappa Gowtham,Krishnappa Gowtham,Lucknow Super Giants,Lucknow Super Giants,Krishnappa Gowtham (Lucknow Super Giants; ID 914),2024
+930,Karun Nair,Karun Nair,Delhi Capitals,Delhi Capitals | Lucknow Super Giants | Rajasthan Royals,Karun Nair (Delhi Capitals; ID 930),2026
+953,Lokesh Rahul,Lokesh Rahul,Delhi Capitals,Delhi Capitals | Lucknow Super Giants | India,Lokesh Rahul (Delhi Capitals; ID 953),2026
+985,Brendan Taylor,Brendan Taylor,Zimbabwe,Zimbabwe,Brendan Taylor (Zimbabwe; ID 985),2025
+988,Graeme Cremer,Graeme Cremer,Zimbabwe,Zimbabwe,Graeme Cremer (Zimbabwe; ID 988),2025
+992,Mayank Agarwal,Mayank Agarwal,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Sunrisers Hyderabad | Punjab Kings,Mayank Agarwal (Royal Challengers Bengaluru; ID 992),2025
+1028,Varun Aaron,Varun Aaron,Gujarat Titans,Gujarat Titans,Varun Aaron (Gujarat Titans; ID 1028),2022
+1039,Mandeep Singh,Mandeep Singh,Kolkata Knight Riders,Kolkata Knight Riders | Delhi Capitals,Mandeep Singh (Kolkata Knight Riders; ID 1039),2023
+1040,Harpreet Bhatia,Harpreet Bhatia,United Arab Emirates,United Arab Emirates | Punjab Kings,Harpreet Bhatia (United Arab Emirates; ID 1040),2026
+1045,David Wiese,David Wiese,Kolkata Knight Riders,Kolkata Knight Riders,David Wiese (Kolkata Knight Riders; ID 1045),2023
+1071,Jaydev Unadkat,Jaydev Unadkat,Sunrisers Hyderabad,Sunrisers Hyderabad | Lucknow Super Giants | Mumbai Indians,Jaydev Unadkat (Sunrisers Hyderabad; ID 1071),2026
+1077,David Miller,David Miller,Delhi Capitals,Delhi Capitals | South Africa | Lucknow Super Giants | Gujarat Titans,David Miller (Delhi Capitals; ID 1077),2026
+1100,Dinesh Chandimal,Dinesh Chandimal,Sri Lanka,Sri Lanka,Dinesh Chandimal (Sri Lanka; ID 1100),2025
+1101,George Dockrell,George Dockrell,Ireland,Ireland,George Dockrell (Ireland; ID 1101),2026
+1102,Noor Ali Zadran,Noor Ali Zadran,Afghanistan,Afghanistan,Noor Ali Zadran (Afghanistan; ID 1102),2024
+1104,Mohammad Shahzad,Mohammad Shahzad,Afghanistan,Afghanistan,Mohammad Shahzad (Afghanistan; ID 1104),2023
+1107,Mohammad Nabi,Mohammad Nabi,Afghanistan,Afghanistan | Mumbai Indians | Kolkata Knight Riders,Mohammad Nabi (Afghanistan; ID 1107),2026
+1109,Samiullah Shinwari,Samiullah Shinwari,Afghanistan,Afghanistan,Samiullah Shinwari (Afghanistan; ID 1109),2022
+1116,Craig Ervine,Craig Ervine,Zimbabwe,Zimbabwe,Craig Ervine (Zimbabwe; ID 1116),2024
+1159,Tendai Chatara,Tendai Chatara,Zimbabwe,Zimbabwe,Tendai Chatara (Zimbabwe; ID 1159),2024
+1171,Chris Woakes,Chris Woakes,Punjab Kings,Punjab Kings | England,Chris Woakes (Punjab Kings; ID 1171),2024
+1183,Alex Hales,Alex Hales,England,England | Kolkata Knight Riders,Alex Hales (England; ID 1183),2022
+1187,Jason Roy,Jason Roy,Kolkata Knight Riders,Kolkata Knight Riders | England | Gujarat Titans,Jason Roy (Kolkata Knight Riders; ID 1187),2024
+1195,Ben Stokes,Ben Stokes,Chennai Super Kings,Chennai Super Kings | England,Ben Stokes (Chennai Super Kings; ID 1195),2023
+1205,Jonny Bairstow,Jonny Bairstow,Mumbai Indians,Mumbai Indians | England | Punjab Kings,Jonny Bairstow (Mumbai Indians; ID 1205),2025
+1210,James Vince,James Vince,England,England,James Vince (England; ID 1210),2022
+1219,David Willey,David Willey,Lucknow Super Giants,Lucknow Super Giants | Royal Challengers Bengaluru | England,David Willey (Lucknow Super Giants; ID 1219),2024
+1233,Gary Ballance,Gary Ballance,Zimbabwe,Zimbabwe,Gary Ballance (Zimbabwe; ID 1233),2023
+1318,Andre Russell,Andre Russell,West Indies,West Indies | Kolkata Knight Riders,Andre Russell (West Indies; ID 1318),2025
+1327,Johnson Charles,Johnson Charles,West Indies,West Indies | Kolkata Knight Riders,Johnson Charles (West Indies; ID 1327),2026
+1389,Sean Abbott,Sean Abbott,Australia,Australia | Sunrisers Hyderabad,Sean Abbott (Australia; ID 1389),2026
+1440,Rahul Tripathi,Rahul Tripathi,Kolkata Knight Riders,Kolkata Knight Riders | Chennai Super Kings | Sunrisers Hyderabad | India,Rahul Tripathi (Kolkata Knight Riders; ID 1440),2026
+1481,Kusal Perera,Kusal Perera,Sri Lanka,Sri Lanka,Kusal Perera (Sri Lanka; ID 1481),2026
+1487,Adam Milne,Adam Milne,New Zealand,New Zealand | Rajasthan Royals | Chennai Super Kings,Adam Milne (New Zealand; ID 1487),2026
+1541,Sean Williams,Sean Williams,Zimbabwe,Zimbabwe,Sean Williams (Zimbabwe; ID 1541),2025
+1556,David Payne,David Payne,Sunrisers Hyderabad,Sunrisers Hyderabad | England,David Payne (Sunrisers Hyderabad; ID 1556),2026
+1566,Mohammed Shami,Mohammed Shami,Lucknow Super Giants,Lucknow Super Giants | Sunrisers Hyderabad | India | Gujarat Titans,Mohammed Shami (Lucknow Super Giants; ID 1566),2026
+1568,Kane Williamson,Kane Williamson,Gujarat Titans,Gujarat Titans | New Zealand | Sunrisers Hyderabad,Kane Williamson (Gujarat Titans; ID 1568),2024
+1596,Moeen Ali,Moeen Ali,Kolkata Knight Riders,Kolkata Knight Riders | England | Chennai Super Kings,Moeen Ali (Kolkata Knight Riders; ID 1596),2025
+1600,Benny Howell,Benny Howell,Punjab Kings,Punjab Kings,Benny Howell (Punjab Kings; ID 1600),2022
+1612,Yuzvendra Chahal,Yuzvendra Chahal,Punjab Kings,Punjab Kings | Rajasthan Royals | India,Yuzvendra Chahal (Punjab Kings; ID 1612),2026
+1617,Rishi Dhawan,Rishi Dhawan,Punjab Kings,Punjab Kings,Rishi Dhawan (Punjab Kings; ID 1617),2024
+1649,Regis Chakabva,Regis Chakabva,Zimbabwe,Zimbabwe,Regis Chakabva (Zimbabwe; ID 1649),2023
+1699,Suryakumar Yadav,Suryakumar Yadav,India,India | Mumbai Indians,Suryakumar Yadav (India; ID 1699),2026
+1701,Swapnil Singh,Swapnil Singh,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Lucknow Super Giants,Swapnil Singh (Royal Challengers Bengaluru; ID 1701),2026
+1758,Patrick Cummins,Patrick Cummins,Sunrisers Hyderabad,Sunrisers Hyderabad | Australia | Kolkata Knight Riders,Patrick Cummins (Sunrisers Hyderabad; ID 1758),2026
+1772,Sheldon Cottrell,Sheldon Cottrell,West Indies,West Indies,Sheldon Cottrell (West Indies; ID 1772),2023
+1791,Wesley Barresi,Wesley Barresi,Netherlands,Netherlands,Wesley Barresi (Netherlands; ID 1791),2024
+1801,Nitish Kumar,Nitish Kumar,United States Of America,United States Of America,Nitish Kumar (United States Of America; ID 1801),2024
+1810,Devon Thomas,Devon Thomas,West Indies,West Indies,Devon Thomas (West Indies; ID 1810),2022
+1813,Deepak Chahar,Deepak Chahar,Mumbai Indians,Mumbai Indians | Chennai Super Kings | India,Deepak Chahar (Mumbai Indians; ID 1813),2026
+1829,Shahbaz Nadeem,Shahbaz Nadeem,Lucknow Super Giants,Lucknow Super Giants,Shahbaz Nadeem (Lucknow Super Giants; ID 1829),2022
+1924,Sam Billings,Sam Billings,Kolkata Knight Riders,Kolkata Knight Riders | England,Sam Billings (Kolkata Knight Riders; ID 1924),2022
+1941,Devon Conway,Devon Conway,New Zealand,New Zealand | Chennai Super Kings,Devon Conway (New Zealand; ID 1941),2026
+1944,Keshav Maharaj,Keshav Maharaj,South Africa,South Africa | Mumbai Indians | Rajasthan Royals,Keshav Maharaj (South Africa; ID 1944),2026
+2001,Yashodha Lanka,Yashodha Lanka,Sri Lanka A,Sri Lanka A,Yashodha Lanka (Sri Lanka A; ID 2001),2024
+2003,Bhanuka Rajapaksa,Bhanuka Rajapaksa,Sri Lanka,Sri Lanka | Punjab Kings,Bhanuka Rajapaksa (Sri Lanka; ID 2003),2025
+2054,Jason Behrendorff,Jason Behrendorff,Mumbai Indians,Mumbai Indians | Australia | Royal Challengers Bengaluru,Jason Behrendorff (Mumbai Indians; ID 2054),2024
+2101,Quinton de Kock,Quinton de Kock,Mumbai Indians,Mumbai Indians | South Africa | Kolkata Knight Riders | Lucknow Super Giants,Quinton de Kock (Mumbai Indians; ID 2101),2026
+2210,Sabbir Rahman,Sabbir Rahman,Bangladesh,Bangladesh,Sabbir Rahman (Bangladesh; ID 2210),2022/23
+2213,Soumya Sarkar,Soumya Sarkar,Bangladesh,Bangladesh,Soumya Sarkar (Bangladesh; ID 2213),2026
+2214,Gulbadin Naib,Gulbadin Naib,Afghanistan,Afghanistan | Delhi Capitals,Gulbadin Naib (Afghanistan; ID 2214),2026
+2218,Anamul Haque,Anamul Haque,Bangladesh,Bangladesh,Anamul Haque (Bangladesh; ID 2218),2024
+2246,Tom Latham,Tom Latham,New Zealand,New Zealand,Tom Latham (New Zealand; ID 2246),2026
+2249,Taijul Islam,Taijul Islam,Bangladesh,Bangladesh,Taijul Islam (Bangladesh; ID 2249),2024
+2258,Sanju Samson,Sanju Samson,India,India | Chennai Super Kings | Rajasthan Royals,Sanju Samson (India; ID 2258),2026
+2261,Harshal Patel,Harshal Patel,Sunrisers Hyderabad,Sunrisers Hyderabad | Punjab Kings | Royal Challengers Bengaluru | India,Harshal Patel (Sunrisers Hyderabad; ID 2261),2026
+2293,Junaid Siddiqui,Junaid Siddiqui,Canada,Canada,Junaid Siddiqui (Canada; ID 2293),2024
+2296,Safyaan Sharif,Safyaan Sharif,Scotland,Scotland,Safyaan Sharif (Scotland; ID 2296),2024
+2299,Gurkeerat Singh Mann,Gurkeerat Singh Mann,Gujarat Titans,Gujarat Titans,Gurkeerat Singh Mann (Gujarat Titans; ID 2299),2022
+2304,Tymal Mills,Tymal Mills,England,England | Mumbai Indians,Tymal Mills (England; ID 2304),2023
+2315,Reece Topley,Reece Topley,Mumbai Indians,Mumbai Indians | England | Royal Challengers Bengaluru,Reece Topley (Mumbai Indians; ID 2315),2025
+2320,Trent Boult,Trent Boult,Mumbai Indians,Mumbai Indians | Rajasthan Royals | New Zealand,Trent Boult (Mumbai Indians; ID 2320),2026
+2321,Olly Stone,Olly Stone,England,England,Olly Stone (England; ID 2321),2022
+2334,Dwaine Pretorius,Dwaine Pretorius,Chennai Super Kings,Chennai Super Kings | South Africa,Dwaine Pretorius (Chennai Super Kings; ID 2334),2023
+2343,Beuran Hendricks,Beuran Hendricks,South Africa,South Africa,Beuran Hendricks (South Africa; ID 2343),2023
+2351,Danushka Gunathilaka,Danushka Gunathilaka,Sri Lanka,Sri Lanka,Danushka Gunathilaka (Sri Lanka; ID 2351),2022
+2359,Prenelan Subrayen,Prenelan Subrayen,South Africa,South Africa,Prenelan Subrayen (South Africa; ID 2359),2026
+2361,Temba Bavuma,Temba Bavuma,South Africa,South Africa,Temba Bavuma (South Africa; ID 2361),2025
+2364,Ashton Agar,Ashton Agar,Australia,Australia,Ashton Agar (Australia; ID 2364),2022
+2367,Travis Head,Travis Head,Australia,Australia | Sunrisers Hyderabad,Travis Head (Australia; ID 2367),2026
+2373,Ashton Turner,Ashton Turner,Lucknow Super Giants,Lucknow Super Giants | Australia,Ashton Turner (Lucknow Super Giants; ID 2373),2024
+2379,Ben Duckett,Ben Duckett,England,England | Delhi Capitals,Ben Duckett (England; ID 2379),2026
+2382,Jamie Overton,Jamie Overton,England,England | Chennai Super Kings,Jamie Overton (England; ID 2382),2026
+2386,Niroshan Dickwella,Niroshan Dickwella,Sri Lanka,Sri Lanka,Niroshan Dickwella (Sri Lanka; ID 2386),2024
+2399,Dushmantha Chameera,Dushmantha Chameera,Sri Lanka,Sri Lanka | Delhi Capitals | Kolkata Knight Riders | Lucknow Super Giants,Dushmantha Chameera (Sri Lanka; ID 2399),2026
+2407,Dhananjaya de Silva,Dhananjaya de Silva,Sri Lanka,Sri Lanka,Dhananjaya de Silva (Sri Lanka; ID 2407),2026
+2410,Akshdeep Nath,Akshdeep Nath,United Arab Emirates,United Arab Emirates,Akshdeep Nath (United Arab Emirates; ID 2410),2026
+2411,Sandeep Sharma,Sandeep Sharma,Rajasthan Royals,Rajasthan Royals | Punjab Kings,Sandeep Sharma (Rajasthan Royals; ID 2411),2026
+2412,Smit Patel,Smit Patel,United States Of America,United States Of America,Smit Patel (United States Of America; ID 2412),2024
+2416,Kyle Mayers,Kyle Mayers,West Indies,West Indies | Lucknow Super Giants,Kyle Mayers (West Indies; ID 2416),2025
+2417,Akeal Hosein,Akeal Hosein,West Indies,West Indies | Chennai Super Kings | Sunrisers Hyderabad,Akeal Hosein (West Indies; ID 2417),2026
+2418,Justin Greaves,Justin Greaves,West Indies,West Indies,Justin Greaves (West Indies; ID 2418),2026
+2436,Dasun Shanaka,Dasun Shanaka,Sri Lanka,Sri Lanka | Rajasthan Royals | Gujarat Titans,Dasun Shanaka (Sri Lanka; ID 2436),2026
+2439,Akila Dananjaya,Akila Dananjaya,Sri Lanka,Sri Lanka,Akila Dananjaya (Sri Lanka; ID 2439),2024
+2442,Lahiru Madushanka,Lahiru Madushanka,Sri Lanka,Sri Lanka,Lahiru Madushanka (Sri Lanka; ID 2442),2022
+2463,Ryan Burl,Ryan Burl,Zimbabwe,Zimbabwe,Ryan Burl (Zimbabwe; ID 2463),2026
+2467,NP Mayavo,NP Mayavo,Zimbabwe,Zimbabwe,NP Mayavo (Zimbabwe; ID 2467),2025
+2483,Lizaad Williams,Lizaad Williams,South Africa,South Africa | Mumbai Indians | Delhi Capitals,Lizaad Williams (South Africa; ID 2483),2025
+2485,Babar Azam,Babar Azam,Pakistan,Pakistan,Babar Azam (Pakistan; ID 2485),2026
+2490,Mohammad Nawaz,Mohammad Nawaz,Pakistan,Pakistan,Mohammad Nawaz (Pakistan; ID 2490),2026
+2523,Will Young,Will Young,New Zealand,New Zealand,Will Young (New Zealand; ID 2523),2024
+2526,Ish Sodhi,Ish Sodhi,New Zealand,New Zealand,Ish Sodhi (New Zealand; ID 2526),2026
+2531,Joe Root,Joe Root,Rajasthan Royals,Rajasthan Royals,Joe Root (Rajasthan Royals; ID 2531),2023
+2533,Najibullah Zadran,Najibullah Zadran,Afghanistan,Afghanistan,Najibullah Zadran (Afghanistan; ID 2533),2026
+2534,Rahmat Shah,Rahmat Shah,Afghanistan,Afghanistan,Rahmat Shah (Afghanistan; ID 2534),2025
+2573,Evin Lewis,Evin Lewis,West Indies,West Indies | Lucknow Super Giants,Evin Lewis (West Indies; ID 2573),2026
+2633,Jason Holder,Jason Holder,West Indies,West Indies | Gujarat Titans | Rajasthan Royals | Lucknow Super Giants,Jason Holder (West Indies; ID 2633),2026
+2636,Adam Zampa,Adam Zampa,Australia,Australia | Sunrisers Hyderabad | Rajasthan Royals,Adam Zampa (Australia; ID 2636),2026
+2639,Marcus Stoinis,Marcus Stoinis,Australia,Australia | Punjab Kings | Lucknow Super Giants,Marcus Stoinis (Australia; ID 2639),2026
+2650,Raymon Reifer,Raymon Reifer,West Indies,West Indies,Raymon Reifer (West Indies; ID 2650),2023
+2661,Shamarh Brooks,Shamarh Brooks,West Indies,West Indies,Shamarh Brooks (West Indies; ID 2661),2023
+2671,Liton Das,Liton Das,Bangladesh,Bangladesh | Kolkata Knight Riders,Liton Das (Bangladesh; ID 2671),2026
+2680,Nurul Hasan,Nurul Hasan,Bangladesh,Bangladesh,Nurul Hasan (Bangladesh; ID 2680),2026
+2681,Taskin Ahmed,Taskin Ahmed,Bangladesh,Bangladesh,Taskin Ahmed (Bangladesh; ID 2681),2026
+2687,Roston Chase,Roston Chase,West Indies,West Indies,Roston Chase (West Indies; ID 2687),2026
+2750,Alex Carey,Alex Carey,Australia,Australia,Alex Carey (Australia; ID 2750),2025
+2756,Shashank Singh,Shashank Singh,Punjab Kings,Punjab Kings | Sunrisers Hyderabad,Shashank Singh (Punjab Kings; ID 2756),2026
+2781,Ravikumar Samarth,Ravikumar Samarth,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravikumar Samarth (Sunrisers Hyderabad; ID 2781),2022
+2790,Praveen Dubey,Praveen Dubey,Punjab Kings,Punjab Kings | Delhi Capitals,Praveen Dubey (Punjab Kings; ID 2790),2026
+2847,Shardul Thakur,Shardul Thakur,Mumbai Indians,Mumbai Indians | Lucknow Super Giants | Chennai Super Kings | Kolkata Knight Riders | Delhi Capitals | India,Shardul Thakur (Mumbai Indians; ID 2847),2026
+2852,Jagadeesha Suchith,Jagadeesha Suchith,Sunrisers Hyderabad,Sunrisers Hyderabad,Jagadeesha Suchith (Sunrisers Hyderabad; ID 2852),2022
+2860,KS Bharat,KS Bharat,Kolkata Knight Riders,Kolkata Knight Riders | Gujarat Titans | Delhi Capitals,KS Bharat (Kolkata Knight Riders; ID 2860),2024
+2862,Sachin Baby,Sachin Baby,Sunrisers Hyderabad,Sunrisers Hyderabad,Sachin Baby (Sunrisers Hyderabad; ID 2862),2025
+2863,Sandeep Warrier,Sandeep Warrier,Gujarat Titans,Gujarat Titans | Mumbai Indians,Sandeep Warrier (Gujarat Titans; ID 2863),2024
+2869,Ankit Rajpoot,Ankit Rajpoot,Lucknow Super Giants,Lucknow Super Giants,Ankit Rajpoot (Lucknow Super Giants; ID 2869),2022
+2872,Siddarth Kaul,Siddarth Kaul,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Siddarth Kaul (Royal Challengers Bengaluru; ID 2872),2023
+2876,Axar Patel,Axar Patel,India,India | Delhi Capitals,Axar Patel (India; ID 2876),2026
+2877,Vijay Shankar,Vijay Shankar,Chennai Super Kings,Chennai Super Kings | Gujarat Titans,Vijay Shankar (Chennai Super Kings; ID 2877),2025
+2878,Mohit Sharma,Mohit Sharma,Delhi Capitals,Delhi Capitals | Gujarat Titans,Mohit Sharma (Delhi Capitals; ID 2878),2025
+2884,Manan Vohra,Manan Vohra,Lucknow Super Giants,Lucknow Super Giants,Manan Vohra (Lucknow Super Giants; ID 2884),2023
+2887,Harmeet Singh,Harmeet Singh,United States Of America,United States Of America,Harmeet Singh (United States Of America; ID 2887),2024
+2892,Asif Ali,Asif Ali,Pakistan,Pakistan,Asif Ali (Pakistan; ID 2892),2022/23
+2921,Fakhar Zaman,Fakhar Zaman,Pakistan,Pakistan,Fakhar Zaman (Pakistan; ID 2921),2026
+2930,Rassie van der Dussen,Rassie van der Dussen,South Africa,South Africa | Rajasthan Royals,Rassie van der Dussen (South Africa; ID 2930),2025
+2933,Jasprit Bumrah,Jasprit Bumrah,India,India | Mumbai Indians,Jasprit Bumrah (India; ID 2933),2026
+2972,Yasim Murtaza,Yasim Murtaza,Hong Kong,Hong Kong,Yasim Murtaza (Hong Kong; ID 2972),2025
+2983,Richmond Mutumbami,Richmond Mutumbami,Zimbabwe,Zimbabwe,Richmond Mutumbami (Zimbabwe; ID 2983),2022
+2984,Sikandar Raza,Sikandar Raza,Zimbabwe,Zimbabwe | Punjab Kings,Sikandar Raza (Zimbabwe; ID 2984),2026
+2985,Mark Wood,Mark Wood,England,England | Lucknow Super Giants,Mark Wood (England; ID 2985),2025
+2996,Stephanus Myburgh,Stephanus Myburgh,Netherlands,Netherlands,Stephanus Myburgh (Netherlands; ID 2996),2022
+2997,Paul van Meekeren,Paul van Meekeren,Netherlands,Netherlands,Paul van Meekeren (Netherlands; ID 2997),2025
+3024,Mohammad Rizwan,Mohammad Rizwan,Pakistan,Pakistan,Mohammad Rizwan (Pakistan; ID 3024),2024
+3033,Usman Qadir,Usman Qadir,Pakistan,Pakistan,Usman Qadir (Pakistan; ID 3033),2022/23
+3038,Hussain Talat,Hussain Talat,Pakistan,Pakistan,Hussain Talat (Pakistan; ID 3038),2025
+3040,Kashif Daud,Kashif Daud,United Arab Emirates,United Arab Emirates,Kashif Daud (United Arab Emirates; ID 3040),2022
+3056,Iftikhar Ahmed,Iftikhar Ahmed,Pakistan,Pakistan,Iftikhar Ahmed (Pakistan; ID 3056),2024
+3077,Usama Mir,Usama Mir,Pakistan,Pakistan,Usama Mir (Pakistan; ID 3077),2024
+3083,Mohammad Ali,Mohammad Ali,Pakistan,Pakistan,Mohammad Ali (Pakistan; ID 3083),2024
+3091,Sahibzada Farhan,Sahibzada Farhan,Pakistan,Pakistan,Sahibzada Farhan (Pakistan; ID 3091),2026
+3097,Shan Masood,Shan Masood,Pakistan,Pakistan,Shan Masood (Pakistan; ID 3097),2023
+3125,Nicholas Pooran,Nicholas Pooran,Lucknow Super Giants,Lucknow Super Giants | West Indies | Sunrisers Hyderabad,Nicholas Pooran (Lucknow Super Giants; ID 3125),2026
+3135,Yannic Cariah,Yannic Cariah,West Indies,West Indies,Yannic Cariah (West Indies; ID 3135),2023
+3144,Thomas Curran,Thomas Curran,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Thomas Curran (Royal Challengers Bengaluru; ID 3144),2024
+3174,Matt Henry,Matt Henry,New Zealand,New Zealand | Chennai Super Kings | Lucknow Super Giants,Matt Henry (New Zealand; ID 3174),2026
+3238,Milind Kumar,Milind Kumar,United States Of America,United States Of America,Milind Kumar (United States Of America; ID 3238),2024
+3253,Rohan Mustafa,Rohan Mustafa,United Arab Emirates,United Arab Emirates,Rohan Mustafa (United Arab Emirates; ID 3253),2022
+3255,Ahmed Raza 1,Ahmed Raza 1,United Arab Emirates,United Arab Emirates,Ahmed Raza 1 (United Arab Emirates; ID 3255),2022
+3260,Hashmatullah Shahidi,Hashmatullah Shahidi,Afghanistan,Afghanistan,Hashmatullah Shahidi (Afghanistan; ID 3260),2024
+3272,Fabian Allen,Fabian Allen,West Indies,West Indies | Mumbai Indians,Fabian Allen (West Indies; ID 3272),2025
+3275,Alzarri Joseph,Alzarri Joseph,West Indies,West Indies | Royal Challengers Bengaluru | Gujarat Titans,Alzarri Joseph (West Indies; ID 3275),2025
+3276,Gudakesh Motie,Gudakesh Motie,West Indies,West Indies,Gudakesh Motie (West Indies; ID 3276),2026
+3280,Nazmul Hossain Shanto,Nazmul Hossain Shanto,Bangladesh,Bangladesh,Nazmul Hossain Shanto (Bangladesh; ID 3280),2025
+3281,Mosaddek Hossain,Mosaddek Hossain,Bangladesh,Bangladesh,Mosaddek Hossain (Bangladesh; ID 3281),2026
+3282,Mehidy Hasan Miraz,Mehidy Hasan Miraz,Bangladesh,Bangladesh,Mehidy Hasan Miraz (Bangladesh; ID 3282),2025
+3285,Abu Haider,Abu Haider,Bangladesh A,Bangladesh A,Abu Haider (Bangladesh A; ID 3285),2025
+3297,Shimron Hetmyer,Shimron Hetmyer,West Indies,West Indies | Rajasthan Royals,Shimron Hetmyer (West Indies; ID 3297),2026
+3298,Jofra Archer,Jofra Archer,England,England | Rajasthan Royals | Mumbai Indians,Jofra Archer (England; ID 3298),2026
+3299,Andrew Tye,Andrew Tye,Lucknow Super Giants,Lucknow Super Giants,Andrew Tye (Lucknow Super Giants; ID 3299),2022
+3304,Munim Shahriar,Munim Shahriar,Bangladesh,Bangladesh,Munim Shahriar (Bangladesh; ID 3304),2022
+3306,Afsar Zazai,Afsar Zazai,Afghanistan,Afghanistan,Afsar Zazai (Afghanistan; ID 3306),2023
+3320,Jayant Yadav,Jayant Yadav,Gujarat Titans,Gujarat Titans,Jayant Yadav (Gujarat Titans; ID 3320),2026
+3323,Jimmy Neesham,Jimmy Neesham,New Zealand,New Zealand | Rajasthan Royals,Jimmy Neesham (New Zealand; ID 3323),2026
+3330,Hardik Pandya,Hardik Pandya,India,India | Mumbai Indians | Gujarat Titans,Hardik Pandya (India; ID 3330),2026
+3337,Jeremy Gordon,Jeremy Gordon,Canada,Canada,Jeremy Gordon (Canada; ID 3337),2024
+3361,Michael Leask,Michael Leask,Scotland,Scotland,Michael Leask (Scotland; ID 3361),2024
+3371,Jamie Atkinson,Jamie Atkinson,Hong Kong,Hong Kong,Jamie Atkinson (Hong Kong; ID 3371),2022
+3373,Aizaz Khan,Aizaz Khan,Hong Kong,Hong Kong,Aizaz Khan (Hong Kong; ID 3373),2025
+3374,Mark Chapman,Mark Chapman,New Zealand,New Zealand,Mark Chapman (New Zealand; ID 3374),2026
+3377,Babar Hayat,Babar Hayat,Hong Kong,Hong Kong,Babar Hayat (Hong Kong; ID 3377),2025
+3382,Nizakat Khan,Nizakat Khan,Hong Kong,Hong Kong,Nizakat Khan (Hong Kong; ID 3382),2025
+3383,Kinchit Shah,Kinchit Shah,Hong Kong,Hong Kong,Kinchit Shah (Hong Kong; ID 3383),2025
+3415,Matthew Cross,Matthew Cross,Scotland,Scotland,Matthew Cross (Scotland; ID 3415),2024
+3445,Khalid Kail,Khalid Kail,Oman,Oman,Khalid Kail (Oman; ID 3445),2024
+3451,Baba Indrajith,Baba Indrajith,Kolkata Knight Riders,Kolkata Knight Riders,Baba Indrajith (Kolkata Knight Riders; ID 3451),2022
+3462,Writtick Chatterjee,Writtick Chatterjee,Punjab Kings,Punjab Kings,Writtick Chatterjee (Punjab Kings; ID 3462),2022
+3469,Shreyas Gopal,Shreyas Gopal,Chennai Super Kings,Chennai Super Kings | Mumbai Indians | Sunrisers Hyderabad,Shreyas Gopal (Chennai Super Kings; ID 3469),2026
+3479,Chama Milind,Chama Milind,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chama Milind (Royal Challengers Bengaluru; ID 3479),2022
+3489,Salman Agha,Salman Agha,Pakistan,Pakistan,Salman Agha (Pakistan; ID 3489),2026
+3539,Ben McDermott,Ben McDermott,Australia,Australia,Ben McDermott (Australia; ID 3539),2025
+3543,Shahidullah Kamal,Shahidullah Kamal,Afghanistan,Afghanistan | Afghanistan A,Shahidullah Kamal (Afghanistan; ID 3543),2026
+3544,Usman Ghani,Usman Ghani,Afghanistan,Afghanistan,Usman Ghani (Afghanistan; ID 3544),2023
+3545,Ihsanullah Janat,Ihsanullah Janat,Afghanistan,Afghanistan,Ihsanullah Janat (Afghanistan; ID 3545),2022
+3546,Nasir Jamal,Nasir Jamal,Afghanistan,Afghanistan,Nasir Jamal (Afghanistan; ID 3546),2024
+3550,Sharafuddin Ashraf,Sharafuddin Ashraf,Afghanistan,Afghanistan | Afghanistan A,Sharafuddin Ashraf (Afghanistan; ID 3550),2026
+3562,Zia-ur-Rehman Akbar,Zia-ur-Rehman Akbar,Afghanistan,Afghanistan,Zia-ur-Rehman Akbar (Afghanistan; ID 3562),2024
+3563,Zahir Khan,Zahir Khan,Afghanistan,Afghanistan,Zahir Khan (Afghanistan; ID 3563),2024
+3578,Imad Wasim,Imad Wasim,Pakistan,Pakistan,Imad Wasim (Pakistan; ID 3578),2024
+3595,Andy McBrine,Andy McBrine,Ireland,Ireland,Andy McBrine (Ireland; ID 3595),2025
+3605,Aiden Markram,Aiden Markram,Lucknow Super Giants,Lucknow Super Giants | South Africa | Sunrisers Hyderabad,Aiden Markram (Lucknow Super Giants; ID 3605),2026
+3613,Shakeel Ahmed,Shakeel Ahmed,Oman,Oman,Shakeel Ahmed (Oman; ID 3613),2025
+3622,Hayden Walsh,Hayden Walsh,West Indies,West Indies,Hayden Walsh (West Indies; ID 3622),2024
+3623,Hasan Ali,Hasan Ali,Pakistan,Pakistan,Hasan Ali (Pakistan; ID 3623),2025
+3627,Andile Phehlukwayo,Andile Phehlukwayo,South Africa,South Africa,Andile Phehlukwayo (South Africa; ID 3627),2024
+3628,Kagiso Rabada,Kagiso Rabada,Gujarat Titans,Gujarat Titans | South Africa | Punjab Kings,Kagiso Rabada (Gujarat Titans; ID 3628),2026
+3629,Corbin Bosch,Corbin Bosch,Mumbai Indians,Mumbai Indians | South Africa | Rajasthan Royals,Corbin Bosch (Mumbai Indians; ID 3629),2026
+3635,Jason Smith,Jason Smith,South Africa,South Africa,Jason Smith (South Africa; ID 3635),2026
+3637,Dayyaan Galiem,Dayyaan Galiem,South Africa,South Africa,Dayyaan Galiem (South Africa; ID 3637),2024
+3639,Brandon King,Brandon King,West Indies,West Indies,Brandon King (West Indies; ID 3639),2026
+3641,Ben Dwarshuis,Ben Dwarshuis,Australia,Australia | Punjab Kings,Ben Dwarshuis (Australia; ID 3641),2026
+3644,Kuldeep Yadav,Kuldeep Yadav,India,India | Delhi Capitals,Kuldeep Yadav (India; ID 3644),2026
+3645,Sarfaraz Khan,Sarfaraz Khan,Chennai Super Kings,Chennai Super Kings | Delhi Capitals,Sarfaraz Khan (Chennai Super Kings; ID 3645),2026
+3647,Shreyas Iyer,Shreyas Iyer,India,India | Punjab Kings | Kolkata Knight Riders,Shreyas Iyer (India; ID 3647),2026
+3648,Deepak Hooda,Deepak Hooda,Chennai Super Kings,Chennai Super Kings | Lucknow Super Giants | India,Deepak Hooda (Chennai Super Kings; ID 3648),2025
+3651,Ricky Bhui,Ricky Bhui,Delhi Capitals,Delhi Capitals,Ricky Bhui (Delhi Capitals; ID 3651),2024
+3653,Avesh Khan,Avesh Khan,Lucknow Super Giants,Lucknow Super Giants | India | Rajasthan Royals,Avesh Khan (Lucknow Super Giants; ID 3653),2026
+3660,Luke Wood,Luke Wood,England,England | Gujarat Titans | Mumbai Indians,Luke Wood (England; ID 3660),2026
+3664,Binura Fernando,Binura Fernando,Sri Lanka,Sri Lanka,Binura Fernando (Sri Lanka; ID 3664),2026
+3669,Sadeera Samarawickrama,Sadeera Samarawickrama,Sri Lanka,Sri Lanka,Sadeera Samarawickrama (Sri Lanka; ID 3669),2024
+3672,Kusal Mendis,Kusal Mendis,Sri Lanka,Sri Lanka | Gujarat Titans,Kusal Mendis (Sri Lanka; ID 3672),2026
+3673,Ramesh Mendis,Ramesh Mendis,Sri Lanka A,Sri Lanka A | Sri Lanka,Ramesh Mendis (Sri Lanka A; ID 3673),2025
+3683,Gavin Main,Gavin Main,Scotland,Scotland,Gavin Main (Scotland; ID 3683),2024
+3686,CB Sole,CB Sole,Scotland,Scotland,CB Sole (Scotland; ID 3686),2024
+3689,Mark Watt,Mark Watt,Scotland,Scotland,Mark Watt (Scotland; ID 3689),2024
+3697,Kyle Jamieson,Kyle Jamieson,New Zealand,New Zealand | Delhi Capitals | Punjab Kings | Chennai Super Kings,Kyle Jamieson (New Zealand; ID 3697),2026
+3700,Tim Seifert,Tim Seifert,New Zealand,New Zealand | Kolkata Knight Riders | Royal Challengers Bengaluru | Delhi Capitals,Tim Seifert (New Zealand; ID 3700),2026
+3720,Craig Young,Craig Young,Ireland,Ireland,Craig Young (Ireland; ID 3720),2026
+3727,Matthew Short,Matthew Short,Australia,Australia | Chennai Super Kings | Punjab Kings,Matthew Short (Australia; ID 3727),2026
+3771,Vivian Kingma,Vivian Kingma,Netherlands,Netherlands,Vivian Kingma (Netherlands; ID 3771),2024
+3772,Logan van Beek,Logan van Beek,Netherlands,Netherlands,Logan van Beek (Netherlands; ID 3772),2024
+3775,Sompal Kami,Sompal Kami,Nepal,Nepal,Sompal Kami (Nepal; ID 3775),2025
+3782,M Shahrukh Khan,M Shahrukh Khan,Gujarat Titans,Gujarat Titans | Punjab Kings,M Shahrukh Khan (Gujarat Titans; ID 3782),2026
+3802,Anshuman Rath,Anshuman Rath,Hong Kong,Hong Kong,Anshuman Rath (Hong Kong; ID 3802),2025
+3831,Arjun Mutreja,Arjun Mutreja,Singapore,Singapore,Arjun Mutreja (Singapore; ID 3831),2022
+3832,Rezza Gaznavi,Rezza Gaznavi,Singapore,Singapore,Rezza Gaznavi (Singapore; ID 3832),2022
+3835,Anish Param,Anish Param,Singapore,Singapore,Anish Param (Singapore; ID 3835),2022
+3839,Amjad Mahboob,Amjad Mahboob,Singapore,Singapore,Amjad Mahboob (Singapore; ID 3839),2022
+3849,Ali Zaheer,Ali Zaheer,Kuwait,Kuwait,Ali Zaheer (Kuwait; ID 3849),2022
+3856,Zeeshan Maqsood,Zeeshan Maqsood,Oman,Oman,Zeeshan Maqsood (Oman; ID 3856),2024
+3858,Jatinder Singh,Jatinder Singh,Oman,Oman,Jatinder Singh (Oman; ID 3858),2025
+3871,Aamir Kaleem,Aamir Kaleem,Oman,Oman,Aamir Kaleem (Oman; ID 3871),2025
+3876,Sufyan Mehmood,Sufyan Mehmood,Oman,Oman,Sufyan Mehmood (Oman; ID 3876),2025
+3882,Steven Taylor,Steven Taylor,United States Of America,United States Of America,Steven Taylor (United States Of America; ID 3882),2024
+3916,Jitesh Sharma,Jitesh Sharma,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India A | India | Punjab Kings,Jitesh Sharma (Royal Challengers Bengaluru; ID 3916),2026
+3926,Rahul Tewatia,Rahul Tewatia,Gujarat Titans,Gujarat Titans,Rahul Tewatia (Gujarat Titans; ID 3926),2026
+3954,Andrew Balbirnie,Andrew Balbirnie,Ireland,Ireland,Andrew Balbirnie (Ireland; ID 3954),2025
+3955,Tom Helm,Tom Helm,England,England,Tom Helm (England; ID 3955),2022
+3967,Tom Kohler,Tom Kohler,Rajasthan Royals,Rajasthan Royals,Tom Kohler (Rajasthan Royals; ID 3967),2024
+3986,Matthew Renshaw,Matthew Renshaw,Australia,Australia,Matthew Renshaw (Australia; ID 3986),2026
+3995,Donald Tiripano,Donald Tiripano,Zimbabwe,Zimbabwe,Donald Tiripano (Zimbabwe; ID 3995),2022
+4007,Ryan Rickelton,Ryan Rickelton,Mumbai Indians,Mumbai Indians | South Africa,Ryan Rickelton (Mumbai Indians; ID 4007),2026
+4077,KL Shrijith,KL Shrijith,Mumbai Indians,Mumbai Indians,KL Shrijith (Mumbai Indians; ID 4077),2025
+4080,KC Cariappa,KC Cariappa,Rajasthan Royals,Rajasthan Royals,KC Cariappa (Rajasthan Royals; ID 4080),2023
+4101,Mitchell Santner,Mitchell Santner,New Zealand,New Zealand | Mumbai Indians | Chennai Super Kings,Mitchell Santner (New Zealand; ID 4101),2026
+4102,George Munsey,George Munsey,Scotland,Scotland,George Munsey (Scotland; ID 4102),2024
+4106,Daryl Mitchell,Daryl Mitchell,New Zealand,New Zealand | Chennai Super Kings | Rajasthan Royals,Daryl Mitchell (New Zealand; ID 4106),2026
+4111,Khushdil Shah,Khushdil Shah,Pakistan,Pakistan,Khushdil Shah (Pakistan; ID 4111),2025
+4117,Ishan Kishan,Ishan Kishan,India,India | Sunrisers Hyderabad | Mumbai Indians,Ishan Kishan (India; ID 4117),2026
+4201,Fareed Malik,Fareed Malik,Afghanistan,Afghanistan,Fareed Malik (Afghanistan; ID 4201),2026
+4211,Vishnu Vinod,Vishnu Vinod,Punjab Kings,Punjab Kings | Mumbai Indians | Sunrisers Hyderabad,Vishnu Vinod (Punjab Kings; ID 4211),2026
+4219,Krunal Pandya,Krunal Pandya,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Lucknow Super Giants,Krunal Pandya (Royal Challengers Bengaluru; ID 4219),2026
+4221,Chris Green,Chris Green,Australia,Australia,Chris Green (Australia; ID 4221),2023
+4227,Marnus Labuschagne,Marnus Labuschagne,Australia,Australia,Marnus Labuschagne (Australia; ID 4227),2024
+4229,George Linde,George Linde,South Africa,South Africa | Lucknow Super Giants,George Linde (South Africa; ID 4229),2026
+4235,Sisanda Magala,Sisanda Magala,South Africa,South Africa | Chennai Super Kings,Sisanda Magala (South Africa; ID 4235),2023
+4237,Tabraiz Shamsi,Tabraiz Shamsi,South Africa,South Africa,Tabraiz Shamsi (South Africa; ID 4237),2025
+4246,Nitish Rana,Nitish Rana,Delhi Capitals,Delhi Capitals | Rajasthan Royals | Kolkata Knight Riders,Nitish Rana (Delhi Capitals; ID 4246),2026
+4248,Pargat Singh,Pargat Singh,Canada,Canada,Pargat Singh (Canada; ID 4248),2024
+4250,Baltej Singh,Baltej Singh,Punjab Kings,Punjab Kings,Baltej Singh (Punjab Kings; ID 4250),2023
+4251,Peter Moor,Peter Moor,Ireland,Ireland,Peter Moor (Ireland; ID 4251),2024
+4260,Heinrich Klaasen,Heinrich Klaasen,Sunrisers Hyderabad,Sunrisers Hyderabad | South Africa,Heinrich Klaasen (Sunrisers Hyderabad; ID 4260),2026
+4265,T Natarajan,T Natarajan,Delhi Capitals,Delhi Capitals | Sunrisers Hyderabad,T Natarajan (Delhi Capitals; ID 4265),2026
+4276,Basil Thampi,Basil Thampi,Mumbai Indians,Mumbai Indians,Basil Thampi (Mumbai Indians; ID 4276),2022
+4288,Navdeep Saini,Navdeep Saini,Kolkata Knight Riders,Kolkata Knight Riders | Rajasthan Royals,Navdeep Saini (Kolkata Knight Riders; ID 4288),2026
+4325,Ashwin Hebbar,Ashwin Hebbar,Delhi Capitals,Delhi Capitals,Ashwin Hebbar (Delhi Capitals; ID 4325),2022
+4369,Shai Hope,Shai Hope,West Indies,West Indies | Delhi Capitals,Shai Hope (West Indies; ID 4369),2026
+4372,Rony Talukder,Rony Talukder,Bangladesh,Bangladesh,Rony Talukder (Bangladesh; ID 4372),2023
+4373,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,Bangladesh | Kolkata Knight Riders | Delhi Capitals | Chennai Super Kings,Mustafizur Rahman (Bangladesh; ID 4373),2026
+4391,Liam Livingstone,Liam Livingstone,Sunrisers Hyderabad,Sunrisers Hyderabad | Royal Challengers Bengaluru | England | Punjab Kings,Liam Livingstone (Sunrisers Hyderabad; ID 4391),2026
+4409,Sam Curran,Sam Curran,England,England | Rajasthan Royals | Chennai Super Kings | Punjab Kings,Sam Curran (England; ID 4409),2026
+4412,Max ODowd,Max ODowd,Netherlands,Netherlands,Max ODowd (Netherlands; ID 4412),2025
+4417,Karan KC,Karan KC,Nepal,Nepal,Karan KC (Nepal; ID 4417),2025
+4438,Jasdeep Singh,Jasdeep Singh,United States Of America,United States Of America,Jasdeep Singh (United States Of America; ID 4438),2024
+4450,Mehran Khan,Mehran Khan,Oman,Oman,Mehran Khan (Oman; ID 4450),2024
+4458,AHT Donald,AHT Donald,England,England,AHT Donald (England; ID 4458),2026
+4460,Jeffrey Vandersay,Jeffrey Vandersay,Sri Lanka,Sri Lanka,Jeffrey Vandersay (Sri Lanka; ID 4460),2025
+4486,BR Sharath,BR Sharath,Gujarat Titans,Gujarat Titans,BR Sharath (Gujarat Titans; ID 4486),2024
+4487,Vyshak Kumar,Vyshak Kumar,Punjab Kings,Punjab Kings | India A | India | Royal Challengers Bengaluru,Vyshak Kumar (Punjab Kings; ID 4487),2026
+4489,Prasidh Krishna,Prasidh Krishna,India,India | Gujarat Titans | Rajasthan Royals,Prasidh Krishna (India; ID 4489),2026
+4494,Abhinav Manohar,Abhinav Manohar,Sunrisers Hyderabad,Sunrisers Hyderabad | Gujarat Titans,Abhinav Manohar (Sunrisers Hyderabad; ID 4494),2025
+4499,Saqib Mahmood,Saqib Mahmood,England,England,Saqib Mahmood (England; ID 4499),2026
+4505,Jhye Richardson,Jhye Richardson,Delhi Capitals,Delhi Capitals | Mumbai Indians | Australia,Jhye Richardson (Delhi Capitals; ID 4505),2024
+4588,Navneet Dhaliwal,Navneet Dhaliwal,Canada,Canada,Navneet Dhaliwal (Canada; ID 4588),2024
+4604,Mitchell Swepson,Mitchell Swepson,Australia,Australia,Mitchell Swepson (Australia; ID 4604),2022
+4636,Bjorn Fortuin,Bjorn Fortuin,South Africa,South Africa,Bjorn Fortuin (South Africa; ID 4636),2025
+4639,Wellington Masakadza,Wellington Masakadza,Zimbabwe,Zimbabwe,Wellington Masakadza (Zimbabwe; ID 4639),2026
+4641,Lungi Ngidi,Lungi Ngidi,Delhi Capitals,Delhi Capitals | South Africa | Royal Challengers Bengaluru,Lungi Ngidi (Delhi Capitals; ID 4641),2026
+4658,Nasum Ahmed,Nasum Ahmed,Bangladesh,Bangladesh,Nasum Ahmed (Bangladesh; ID 4658),2026
+4662,Cole McConchie,Cole McConchie,New Zealand,New Zealand,Cole McConchie (New Zealand; ID 4662),2026
+4663,Henry Nicholls,Henry Nicholls,New Zealand,New Zealand,Henry Nicholls (New Zealand; ID 4663),2024
+4665,Tom Blundell,Tom Blundell,New Zealand,New Zealand,Tom Blundell (New Zealand; ID 4665),2024
+4684,Dane Cleaver,Dane Cleaver,New Zealand,New Zealand,Dane Cleaver (New Zealand; ID 4684),2026
+4686,Joshua Clarkson,Joshua Clarkson,New Zealand,New Zealand,Joshua Clarkson (New Zealand; ID 4686),2026
+4692,Lockie Ferguson,Lockie Ferguson,New Zealand,New Zealand | Punjab Kings | Royal Challengers Bengaluru | Kolkata Knight Riders | Gujarat Titans,Lockie Ferguson (New Zealand; ID 4692),2026
+4695,Nick Kelly,Nick Kelly,New Zealand,New Zealand,Nick Kelly (New Zealand; ID 4695),2026
+4703,Rishabh Pant,Rishabh Pant,Lucknow Super Giants,Lucknow Super Giants | India | Delhi Capitals,Rishabh Pant (Lucknow Super Giants; ID 4703),2026
+4708,Rinku Singh,Rinku Singh,India,India | Kolkata Knight Riders,Rinku Singh (India; ID 4708),2026
+4716,Mayank Dagar,Mayank Dagar,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Sunrisers Hyderabad,Mayank Dagar (Royal Challengers Bengaluru; ID 4716),2024
+4722,Rashid Khan,Rashid Khan,Afghanistan,Afghanistan | Gujarat Titans,Rashid Khan (Afghanistan; ID 4722),2026
+4730,Ali Khan,Ali Khan,United States Of America,United States Of America,Ali Khan (United States Of America; ID 4730),2024
+4736,Josh Inglis,Josh Inglis,Australia,Australia | Lucknow Super Giants | Punjab Kings,Josh Inglis (Australia; ID 4736),2026
+4755,Shivam Dube,Shivam Dube,India,India | Chennai Super Kings,Shivam Dube (India; ID 4755),2026
+4773,Jaker Ali Anik,Jaker Ali Anik,Bangladesh,Bangladesh,Jaker Ali Anik (Bangladesh; ID 4773),2025
+4779,Pieter Willem Mulder,Pieter Willem Mulder,South Africa,South Africa | Sunrisers Hyderabad,Pieter Willem Mulder (South Africa; ID 4779),2026
+4780,Mohammad Saif Hassan,Mohammad Saif Hassan,Bangladesh,Bangladesh | Bangladesh A,Mohammad Saif Hassan (Bangladesh; ID 4780),2026
+4784,Tony de Zorzi,Tony de Zorzi,South Africa,South Africa,Tony de Zorzi (South Africa; ID 4784),2026
+4790,Lutho Sipamla,Lutho Sipamla,South Africa,South Africa,Lutho Sipamla (South Africa; ID 4790),2026
+4793,Dean Foxcroft,Dean Foxcroft,New Zealand,New Zealand,Dean Foxcroft (New Zealand; ID 4793),2026
+4802,Stephen Doheny,Stephen Doheny,Ireland,Ireland,Stephen Doheny (Ireland; ID 4802),2026
+4807,Joshua Little,Joshua Little,Ireland,Ireland | Gujarat Titans,Joshua Little (Ireland; ID 4807),2026
+4812,Harry Tector,Harry Tector,Ireland,Ireland,Harry Tector (Ireland; ID 4812),2026
+4814,Lorcan Tucker,Lorcan Tucker,Ireland,Ireland,Lorcan Tucker (Ireland; ID 4814),2026
+4815,Benjamin White,Benjamin White,Ireland,Ireland,Benjamin White (Ireland; ID 4815),2026
+4816,Khaleel Ahmed,Khaleel Ahmed,Chennai Super Kings,Chennai Super Kings | India | Delhi Capitals,Khaleel Ahmed (Chennai Super Kings; ID 4816),2026
+4817,Anmolpreet Singh,Anmolpreet Singh,Sunrisers Hyderabad,Sunrisers Hyderabad | Mumbai Indians,Anmolpreet Singh (Sunrisers Hyderabad; ID 4817),2024
+4821,Mahipal Lomror,Mahipal Lomror,Mumbai Indians,Mumbai Indians | Gujarat Titans | Royal Challengers Bengaluru,Mahipal Lomror (Mumbai Indians; ID 4821),2026
+4823,Washington Sundar,Washington Sundar,India,India | Gujarat Titans | Sunrisers Hyderabad,Washington Sundar (India; ID 4823),2026
+4824,Zeeshan Ansari,Zeeshan Ansari,Sunrisers Hyderabad,Sunrisers Hyderabad,Zeeshan Ansari (Sunrisers Hyderabad; ID 4824),2026
+4826,George Garton,George Garton,England,England,George Garton (England; ID 4826),2022
+4830,Keacy Carty,Keacy Carty,West Indies,West Indies,Keacy Carty (West Indies; ID 4830),2026
+4833,Jyd Goolie,Jyd Goolie,West Indies,West Indies,Jyd Goolie (West Indies; ID 4833),2025
+4837,Obed McCoy,Obed McCoy,West Indies,West Indies | Rajasthan Royals,Obed McCoy (West Indies; ID 4837),2025
+4838,Keemo Paul,Keemo Paul,West Indies,West Indies,Keemo Paul (West Indies; ID 4838),2026
+4840,Odean Smith,Odean Smith,West Indies,West Indies | Gujarat Titans | Punjab Kings,Odean Smith (West Indies; ID 4840),2023
+4842,Shamar Springer,Shamar Springer,West Indies,West Indies,Shamar Springer (West Indies; ID 4842),2026
+4847,Finn Allen,Finn Allen,New Zealand,New Zealand | Kolkata Knight Riders | Royal Challengers Bengaluru,Finn Allen (New Zealand; ID 4847),2026
+4853,Glenn Phillips,Glenn Phillips,New Zealand,New Zealand | Gujarat Titans | Sunrisers Hyderabad,Glenn Phillips (New Zealand; ID 4853),2026
+4854,Rachin Ravindra,Rachin Ravindra,New Zealand,New Zealand | Kolkata Knight Riders | Chennai Super Kings,Rachin Ravindra (New Zealand; ID 4854),2026
+4856,Benjamin Sears,Benjamin Sears,New Zealand,New Zealand,Benjamin Sears (New Zealand; ID 4856),2026
+4857,Nathan Smith,Nathan Smith,New Zealand,New Zealand,Nathan Smith (New Zealand; ID 4857),2026
+4867,Wesley Madhevere,Wesley Madhevere,Zimbabwe,Zimbabwe,Wesley Madhevere (Zimbabwe; ID 4867),2026
+4870,Kundai Matigimu,Kundai Matigimu,Zimbabwe,Zimbabwe,Kundai Matigimu (Zimbabwe; ID 4870),2026
+4871,Brandon Mavuta,Brandon Mavuta,Zimbabwe,Zimbabwe,Brandon Mavuta (Zimbabwe; ID 4871),2024
+4874,Richard Ngarava,Richard Ngarava,Zimbabwe,Zimbabwe,Richard Ngarava (Zimbabwe; ID 4874),2026
+4876,Milton Shumba,Milton Shumba,Zimbabwe,Zimbabwe,Milton Shumba (Zimbabwe; ID 4876),2026
+4880,Aarif Sheikh,Aarif Sheikh,Nepal,Nepal,Aarif Sheikh (Nepal; ID 4880),2026
+4881,Dipendra Airee,Dipendra Airee,Nepal,Nepal,Dipendra Airee (Nepal; ID 4881),2026
+4882,Kushal Bhurtel,Kushal Bhurtel,Nepal,Nepal,Kushal Bhurtel (Nepal; ID 4882),2026
+4887,Sandeep Lamichhane,Sandeep Lamichhane,Nepal,Nepal,Sandeep Lamichhane (Nepal; ID 4887),2026
+4895,Charith Asalanka,Charith Asalanka,Sri Lanka,Sri Lanka | Mumbai Indians,Charith Asalanka (Sri Lanka; ID 4895),2026
+4900,Wanindu Hasaranga,Wanindu Hasaranga,Sri Lanka,Sri Lanka | Lucknow Super Giants | Rajasthan Royals | Sunrisers Hyderabad | Royal Challengers Bengaluru,Wanindu Hasaranga (Sri Lanka; ID 4900),2026
+4901,Asitha Fernando,Asitha Fernando,Sri Lanka,Sri Lanka,Asitha Fernando (Sri Lanka; ID 4901),2025
+4902,Avishka Fernando,Avishka Fernando,Sri Lanka,Sri Lanka,Avishka Fernando (Sri Lanka; ID 4902),2025
+4903,Lahiru Kumara,Lahiru Kumara,Sri Lanka,Sri Lanka,Lahiru Kumara (Sri Lanka; ID 4903),2023
+4904,Kamindu Mendis,Kamindu Mendis,Sri Lanka,Sri Lanka | Sunrisers Hyderabad,Kamindu Mendis (Sri Lanka; ID 4904),2026
+4926,Shadab Khan,Shadab Khan,Pakistan,Pakistan,Shadab Khan (Pakistan; ID 4926),2026
+4947,Kasun Rajitha,Kasun Rajitha,Sri Lanka,Sri Lanka,Kasun Rajitha (Sri Lanka; ID 4947),2023
+4970,Adil Mehmood,Adil Mehmood,Hong Kong,Hong Kong,Adil Mehmood (Hong Kong; ID 4970),2025
+4974,Mohammad Nadeem,Mohammad Nadeem,Oman,Oman,Mohammad Nadeem (Oman; ID 4974),2025
+4983,Sikander Zulfiqar,Sikander Zulfiqar,Netherlands,Netherlands,Sikander Zulfiqar (Netherlands; ID 4983),2025
+4986,Rovman Powell,Rovman Powell,West Indies,West Indies | Kolkata Knight Riders | Rajasthan Royals | Delhi Capitals,Rovman Powell (West Indies; ID 4986),2026
+5029,Prerak Mankad,Prerak Mankad,Lucknow Super Giants,Lucknow Super Giants | Punjab Kings,Prerak Mankad (Lucknow Super Giants; ID 5029),2024
+5034,Murugan Ashwin,Murugan Ashwin,Rajasthan Royals,Rajasthan Royals | Mumbai Indians,Murugan Ashwin (Rajasthan Royals; ID 5034),2023
+5039,Rajat Patidar,Rajat Patidar,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajat Patidar (Royal Challengers Bengaluru; ID 5039),2026
+5041,Mukesh Kumar,Mukesh Kumar,Delhi Capitals,Delhi Capitals | India,Mukesh Kumar (Delhi Capitals; ID 5041),2026
+5071,Akash Vasisht,Akash Vasisht,Rajasthan Royals,Rajasthan Royals,Akash Vasisht (Rajasthan Royals; ID 5071),2023
+5189,Faheem Ashraf,Faheem Ashraf,Pakistan,Pakistan,Faheem Ashraf (Pakistan; ID 5189),2026
+5231,Oshane Thomas,Oshane Thomas,West Indies,West Indies,Oshane Thomas (West Indies; ID 5231),2024
+5379,Mark Adair,Mark Adair,Ireland,Ireland,Mark Adair (Ireland; ID 5379),2026
+5441,Barry McCarthy,Barry McCarthy,Ireland,Ireland,Barry McCarthy (Ireland; ID 5441),2026
+5547,Nosthush Kenjige,Nosthush Kenjige,United States Of America,United States Of America,Nosthush Kenjige (United States Of America; ID 5547),2024
+5553,Phil Salt,Phil Salt,England,England | Royal Challengers Bengaluru | Kolkata Knight Riders | Delhi Capitals,Phil Salt (England; ID 5553),2026
+5561,Brad Wheal,Brad Wheal,Scotland,Scotland,Brad Wheal (Scotland; ID 5561),2024
+5562,Richard Gleeson,Richard Gleeson,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Mumbai Indians | Chennai Super Kings | England,Richard Gleeson (Royal Challengers Bengaluru; ID 5562),2026
+5566,Tom Abell,Tom Abell,England,England,Tom Abell (England; ID 5566),2023
+5577,Sai Kishore,Sai Kishore,Gujarat Titans,Gujarat Titans | India A,Sai Kishore (Gujarat Titans; ID 5577),2026
+5608,Narayan Jagadeesan,Narayan Jagadeesan,Kolkata Knight Riders,Kolkata Knight Riders | Chennai Super Kings,Narayan Jagadeesan (Kolkata Knight Riders; ID 5608),2023
+5665,Sanjay Yadav,Sanjay Yadav,Mumbai Indians,Mumbai Indians,Sanjay Yadav (Mumbai Indians; ID 5665),2022
+5668,Hari Nishaanth,Hari Nishaanth,Chennai Super Kings,Chennai Super Kings,Hari Nishaanth (Chennai Super Kings; ID 5668),2022
+5680,R Sonu Yadav,R Sonu Yadav,Royal Challengers Bengaluru,Royal Challengers Bengaluru,R Sonu Yadav (Royal Challengers Bengaluru; ID 5680),2023
+5738,Xavier Bartlett,Xavier Bartlett,Australia,Australia | Punjab Kings,Xavier Bartlett (Australia; ID 5738),2026
+5749,Shahid Wasif,Shahid Wasif,Hong Kong,Hong Kong,Shahid Wasif (Hong Kong; ID 5749),2025
+5750,Ehsan Khan,Ehsan Khan,Hong Kong,Hong Kong,Ehsan Khan (Hong Kong; ID 5750),2025
+5808,Karim Janat,Karim Janat,Afghanistan,Afghanistan | Gujarat Titans | Afghanistan A,Karim Janat (Afghanistan; ID 5808),2026
+5809,Naveen ul Haq,Naveen ul Haq,Afghanistan,Afghanistan | Lucknow Super Giants,Naveen ul Haq (Afghanistan; ID 5809),2026
+5827,Wes Agar,Wes Agar,Australia,Australia,Wes Agar (Australia; ID 5827),2024
+5835,Carl Mumba,Carl Mumba,Zimbabwe,Zimbabwe,Carl Mumba (Zimbabwe; ID 5835),2024
+5837,Mahedi Hasan,Mahedi Hasan,Bangladesh,Bangladesh,Mahedi Hasan (Bangladesh; ID 5837),2026
+5838,Shohidul Islam,Shohidul Islam,Bangladesh,Bangladesh,Shohidul Islam (Bangladesh; ID 5838),2022
+5839,Yasir Ali Chowdhury,Yasir Ali Chowdhury,Bangladesh,Bangladesh | Bangladesh A,Yasir Ali Chowdhury (Bangladesh; ID 5839),2026
+5844,Ebadot Hossain,Ebadot Hossain,Bangladesh,Bangladesh,Ebadot Hossain (Bangladesh; ID 5844),2023
+5866,Patrick Kruger,Patrick Kruger,South Africa,South Africa,Patrick Kruger (South Africa; ID 5866),2024
+5872,Habibur Rahman,Habibur Rahman,Bangladesh A,Bangladesh A,Habibur Rahman (Bangladesh A; ID 5872),2025
+5877,Andries Gous,Andries Gous,United States Of America,United States Of America,Andries Gous (United States Of America; ID 5877),2024
+5882,Afif Hossain,Afif Hossain,Bangladesh,Bangladesh,Afif Hossain (Bangladesh; ID 5882),2024
+5892,Blair Tickner,Blair Tickner,New Zealand,New Zealand,Blair Tickner (New Zealand; ID 5892),2026
+5928,Prithvi Shaw,Prithvi Shaw,Delhi Capitals,Delhi Capitals | India,Prithvi Shaw (Delhi Capitals; ID 5928),2026
+5939,Cameron Green,Cameron Green,Australia,Australia | Kolkata Knight Riders | Royal Challengers Bengaluru | Mumbai Indians,Cameron Green (Australia; ID 5939),2026
+5940,Riley Meredith,Riley Meredith,Australia,Australia | Mumbai Indians,Riley Meredith (Australia; ID 5940),2026
+5944,Mohammed Siraj,Mohammed Siraj,India,India | Gujarat Titans | Royal Challengers Bengaluru,Mohammed Siraj (India; ID 5944),2026
+5953,Lakshan Sandakan,Lakshan Sandakan,Sri Lanka,Sri Lanka,Lakshan Sandakan (Sri Lanka; ID 5953),2022
+5977,Khary Pierre,Khary Pierre,West Indies,West Indies,Khary Pierre (West Indies; ID 5977),2026
+5979,Abrar Ahmed,Abrar Ahmed,Pakistan,Pakistan,Abrar Ahmed (Pakistan; ID 5979),2026
+6025,Henry Shipley,Henry Shipley,New Zealand,New Zealand,Henry Shipley (New Zealand; ID 6025),2023
+6034,Shane Snater,Shane Snater,Netherlands,Netherlands,Shane Snater (Netherlands; ID 6034),2022
+6035,Chirag Suri,Chirag Suri,United Arab Emirates,United Arab Emirates,Chirag Suri (United Arab Emirates; ID 6035),2022
+6036,Tejas Baroka,Tejas Baroka,Rajasthan Royals,Rajasthan Royals,Tejas Baroka (Rajasthan Royals; ID 6036),2022
+6038,Pratham Sing,Pratham Sing,Kolkata Knight Riders,Kolkata Knight Riders,Pratham Sing (Kolkata Knight Riders; ID 6038),2022
+6048,Ishan Porel,Ishan Porel,Punjab Kings,Punjab Kings,Ishan Porel (Punjab Kings; ID 6048),2022
+6059,Ruturaj Gaikwad,Ruturaj Gaikwad,Chennai Super Kings,Chennai Super Kings | India,Ruturaj Gaikwad (Chennai Super Kings; ID 6059),2026
+6085,Dan Pascoe,Dan Pascoe,Hong Kong,Hong Kong,Dan Pascoe (Hong Kong; ID 6085),2022
+6097,Brydon Carse,Brydon Carse,England,England | Sunrisers Hyderabad,Brydon Carse (England; ID 6097),2026
+6101,Devang Bulsara,Devang Bulsara,Hong Kong,Hong Kong,Devang Bulsara (Hong Kong; ID 6101),2022
+6160,Chamika Karunaratne,Chamika Karunaratne,Sri Lanka,Sri Lanka | Kolkata Knight Riders,Chamika Karunaratne (Sri Lanka; ID 6160),2025
+6161,Rahul Chahar,Rahul Chahar,Chennai Super Kings,Chennai Super Kings | Sunrisers Hyderabad | India A | Punjab Kings,Rahul Chahar (Chennai Super Kings; ID 6161),2026
+6162,Kulwant Khejroliya,Kulwant Khejroliya,Gujarat Titans,Gujarat Titans | Kolkata Knight Riders,Kulwant Khejroliya (Gujarat Titans; ID 6162),2026
+6166,Jack Edwards,Jack Edwards,Australia,Australia | Sunrisers Hyderabad,Jack Edwards (Australia; ID 6166),2026
+6172,Lasith Croospulle,Lasith Croospulle,Sri Lanka,Sri Lanka | Sri Lanka A,Lasith Croospulle (Sri Lanka; ID 6172),2026
+6176,Ashen Bandara,Ashen Bandara,Sri Lanka,Sri Lanka,Ashen Bandara (Sri Lanka; ID 6176),2023
+6179,Nipun Ransika,Nipun Ransika,Sri Lanka A,Sri Lanka A,Nipun Ransika (Sri Lanka A; ID 6179),2024
+6180,Praveen Jayawickrama,Praveen Jayawickrama,Sri Lanka,Sri Lanka,Praveen Jayawickrama (Sri Lanka; ID 6180),2022
+6188,Simi Singh,Simi Singh,Ireland,Ireland,Simi Singh (Ireland; ID 6188),2022
+6196,Josh Tongue,Josh Tongue,England,England,Josh Tongue (England; ID 6196),2026
+6199,Navin Param,Navin Param,Singapore,Singapore,Navin Param (Singapore; ID 6199),2022
+6202,Anantha Krishna,Anantha Krishna,Singapore,Singapore,Anantha Krishna (Singapore; ID 6202),2022
+6203,Surendran Chandramohan,Surendran Chandramohan,Singapore,Singapore,Surendran Chandramohan (Singapore; ID 6203),2022
+6226,Fred Klaassen,Fred Klaassen,Netherlands,Netherlands,Fred Klaassen (Netherlands; ID 6226),2025
+6237,Manimaran Siddharth,Manimaran Siddharth,Lucknow Super Giants,Lucknow Super Giants,Manimaran Siddharth (Lucknow Super Giants; ID 6237),2026
+6256,Varun Chakravarthy,Varun Chakravarthy,India,India | Kolkata Knight Riders,Varun Chakravarthy (India; ID 6256),2026
+6263,Aaditya AVaradarajan,Aaditya AVaradarajan,Canada,Canada,Aaditya AVaradarajan (Canada; ID 6263),2024
+6272,William Jacks,William Jacks,England,England | Mumbai Indians | Royal Challengers Bengaluru,William Jacks (England; ID 6272),2026
+6273,Tom Banton,Tom Banton,England,England | Gujarat Titans,Tom Banton (England; ID 6273),2026
+6280,Harry Brook,Harry Brook,England,England | Delhi Capitals | Sunrisers Hyderabad,Harry Brook (England; ID 6280),2026
+6281,Abhishek Sharma,Abhishek Sharma,India,India | Sunrisers Hyderabad | India A,Abhishek Sharma (India; ID 6281),2026
+6284,Anukul Roy,Anukul Roy,Kolkata Knight Riders,Kolkata Knight Riders,Anukul Roy (Kolkata Knight Riders; ID 6284),2026
+6285,Kamlesh Nagarkoti,Kamlesh Nagarkoti,Chennai Super Kings,Chennai Super Kings | Delhi Capitals,Kamlesh Nagarkoti (Chennai Super Kings; ID 6285),2025
+6286,Shivam Mavi,Shivam Mavi,Sunrisers Hyderabad,Sunrisers Hyderabad | Lucknow Super Giants | Gujarat Titans | India | Kolkata Knight Riders,Shivam Mavi (Sunrisers Hyderabad; ID 6286),2026
+6287,Yash Thakur,Yash Thakur,India,India | Punjab Kings | India A | Lucknow Super Giants,Yash Thakur (India; ID 6287),2026
+6288,Shubman Gill,Shubman Gill,Gujarat Titans,Gujarat Titans | India,Shubman Gill (Gujarat Titans; ID 6288),2026
+6297,Matthew Parkinson,Matthew Parkinson,England,England,Matthew Parkinson (England; ID 6297),2022
+6314,Devdutt Padikkal,Devdutt Padikkal,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Lucknow Super Giants | Rajasthan Royals,Devdutt Padikkal (Royal Challengers Bengaluru; ID 6314),2026
+6342,Matthew Breetzke,Matthew Breetzke,Lucknow Super Giants,Lucknow Super Giants | South Africa,Matthew Breetzke (Lucknow Super Giants; ID 6342),2026
+6350,Matthew Kuhnemann,Matthew Kuhnemann,Australia,Australia,Matthew Kuhnemann (Australia; ID 6350),2026
+6351,Yarra Prithviraj,Yarra Prithviraj,Gujarat Titans,Gujarat Titans,Yarra Prithviraj (Gujarat Titans; ID 6351),2026
+6354,Spencer Johnson,Spencer Johnson,Australia,Australia | Chennai Super Kings | Kolkata Knight Riders | Gujarat Titans,Spencer Johnson (Australia; ID 6354),2026
+6355,Shaheen Afridi,Shaheen Afridi,Pakistan,Pakistan,Shaheen Afridi (Pakistan; ID 6355),2026
+6356,Khaled Ahmed,Khaled Ahmed,Bangladesh,Bangladesh,Khaled Ahmed (Bangladesh; ID 6356),2025
+6359,Raghu Sharma,Raghu Sharma,Mumbai Indians,Mumbai Indians,Raghu Sharma (Mumbai Indians; ID 6359),2026
+6389,Tanvir Islam,Tanvir Islam,Bangladesh,Bangladesh,Tanvir Islam (Bangladesh; ID 6389),2025
+6395,Josh Philippe,Josh Philippe,Australia,Australia,Josh Philippe (Australia; ID 6395),2026
+6396,Tim David,Tim David,Australia,Australia | Royal Challengers Bengaluru | Mumbai Indians,Tim David (Australia; ID 6396),2026
+6398,Aaron Hardie,Aaron Hardie,Australia,Australia | Punjab Kings,Aaron Hardie (Australia; ID 6398),2026
+6402,Eathan Bosch,Eathan Bosch,South Africa,South Africa,Eathan Bosch (South Africa; ID 6402),2026
+6408,Subhranshu Senapati,Subhranshu Senapati,Chennai Super Kings,Chennai Super Kings,Subhranshu Senapati (Chennai Super Kings; ID 6408),2023
+6423,Riyan Parag,Riyan Parag,Rajasthan Royals,Rajasthan Royals | India,Riyan Parag (Rajasthan Royals; ID 6423),2026
+6428,Upendra Yadav,Upendra Yadav,Sunrisers Hyderabad,Sunrisers Hyderabad,Upendra Yadav (Sunrisers Hyderabad; ID 6428),2024
+6432,Ikram Khil,Ikram Khil,Afghanistan,Afghanistan,Ikram Khil (Afghanistan; ID 6432),2024
+6433,Darwish Rasooli,Darwish Rasooli,Afghanistan,Afghanistan | Afghanistan A,Darwish Rasooli (Afghanistan; ID 6433),2026
+6436,Qais Ahmad,Qais Ahmad,Afghanistan,Afghanistan | Afghanistan A,Qais Ahmad (Afghanistan; ID 6436),2026
+6440,Omair Yousuf,Omair Yousuf,Pakistan,Pakistan | Pakistan A,Omair Yousuf (Pakistan; ID 6440),2025
+6441,Abdullah Shafique,Abdullah Shafique,Pakistan,Pakistan,Abdullah Shafique (Pakistan; ID 6441),2023
+6443,Rohail Nazir,Rohail Nazir,Pakistan A,Pakistan A,Rohail Nazir (Pakistan A; ID 6443),2024
+6448,Ibrahim Zadran,Ibrahim Zadran,Afghanistan,Afghanistan,Ibrahim Zadran (Afghanistan; ID 6448),2026
+6449,Wafadar Momand,Wafadar Momand,Afghanistan,Afghanistan,Wafadar Momand (Afghanistan; ID 6449),2024
+6450,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Afghanistan,Afghanistan | Mumbai Indians | Kolkata Knight Riders,Mujeeb Ur Rahman (Afghanistan; ID 6450),2026
+6457,Urvil Patel,Urvil Patel,Chennai Super Kings,Chennai Super Kings | Gujarat Titans,Urvil Patel (Chennai Super Kings; ID 6457),2026
+6460,Ayush Badoni,Ayush Badoni,Lucknow Super Giants,Lucknow Super Giants | India A,Ayush Badoni (Lucknow Super Giants; ID 6460),2026
+6461,Mayank Rawat,Mayank Rawat,Mumbai Indians,Mumbai Indians,Mayank Rawat (Mumbai Indians; ID 6461),2026
+6464,Arshdeep Singh,Arshdeep Singh,India,India | Punjab Kings,Arshdeep Singh (India; ID 6464),2026
+6466,Atharwa Taide,Atharwa Taide,Sunrisers Hyderabad,Sunrisers Hyderabad | Punjab Kings,Atharwa Taide (Sunrisers Hyderabad; ID 6466),2025
+6467,Anuj Rawat,Anuj Rawat,Gujarat Titans,Gujarat Titans | India A | Royal Challengers Bengaluru,Anuj Rawat (Gujarat Titans; ID 6467),2026
+6473,Nuwanidu Fernando,Nuwanidu Fernando,Sri Lanka A,Sri Lanka A | Sri Lanka,Nuwanidu Fernando (Sri Lanka A; ID 6473),2025
+6483,Nishan Madushka,Nishan Madushka,Sri Lanka A,Sri Lanka A,Nishan Madushka (Sri Lanka A; ID 6483),2025
+6486,Tanush Kotian,Tanush Kotian,India A,India A | Rajasthan Royals,Tanush Kotian (India A; ID 6486),2025
+6487,Priyam Garg,Priyam Garg,Delhi Capitals,Delhi Capitals | Sunrisers Hyderabad,Priyam Garg (Delhi Capitals; ID 6487),2023
+6488,Harvik Desai,Harvik Desai,Mumbai Indians,Mumbai Indians,Harvik Desai (Mumbai Indians; ID 6488),2024
+6489,Darshan Nalkande,Darshan Nalkande,Delhi Capitals,Delhi Capitals | Gujarat Titans,Darshan Nalkande (Delhi Capitals; ID 6489),2025
+6492,Aryan Juyal,Aryan Juyal,Lucknow Super Giants,Lucknow Super Giants | Mumbai Indians,Aryan Juyal (Lucknow Super Giants; ID 6492),2025
+6494,Manoj Bhandage,Manoj Bhandage,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Manoj Bhandage (Royal Challengers Bengaluru; ID 6494),2025
+6497,Muhammad Usman,Muhammad Usman,United Arab Emirates,United Arab Emirates,Muhammad Usman (United Arab Emirates; ID 6497),2022
+6502,Mohammad Boota,Mohammad Boota,United Arab Emirates,United Arab Emirates,Mohammad Boota (United Arab Emirates; ID 6502),2022
+6503,Zahoor Khan,Zahoor Khan,United Arab Emirates,United Arab Emirates,Zahoor Khan (United Arab Emirates; ID 6503),2023
+6506,Mohammad Imran Randhawa,Mohammad Imran Randhawa,Pakistan,Pakistan,Mohammad Imran Randhawa (Pakistan; ID 6506),2026
+6512,Michael Bracewell,Michael Bracewell,New Zealand,New Zealand | Royal Challengers Bengaluru,Michael Bracewell (New Zealand; ID 6512),2026
+6514,Anil Nidamanuru,Anil Nidamanuru,Netherlands,Netherlands,Anil Nidamanuru (Netherlands; ID 6514),2025
+6515,Benjamin Lister,Benjamin Lister,New Zealand,New Zealand,Benjamin Lister (New Zealand; ID 6515),2026
+6518,Daniel Sams,Daniel Sams,Lucknow Super Giants,Lucknow Super Giants | Australia | Mumbai Indians,Daniel Sams (Lucknow Super Giants; ID 6518),2023
+6523,Blessing Muzarabani,Blessing Muzarabani,Zimbabwe,Zimbabwe | Kolkata Knight Riders | Royal Challengers Bengaluru,Blessing Muzarabani (Zimbabwe; ID 6523),2026
+6526,Himmat Singh,Himmat Singh,Lucknow Super Giants,Lucknow Super Giants,Himmat Singh (Lucknow Super Giants; ID 6526),2026
+6565,Katene Clarke,Katene Clarke,New Zealand,New Zealand,Katene Clarke (New Zealand; ID 6565),2026
+6566,Matthew John Fisher,Matthew John Fisher,New Zealand,New Zealand,Matthew John Fisher (New Zealand; ID 6566),2026
+6574,Alick Athanaze,Alick Athanaze,West Indies,West Indies,Alick Athanaze (West Indies; ID 6574),2026
+6591,KM Asif,KM Asif,Rajasthan Royals,Rajasthan Royals | Chennai Super Kings,KM Asif (Rajasthan Royals; ID 6591),2023
+6628,Gerald Coetzee,Gerald Coetzee,South Africa,South Africa | Sunrisers Hyderabad | Gujarat Titans | Mumbai Indians,Gerald Coetzee (South Africa; ID 6628),2026
+6643,Hasan Mahmud,Hasan Mahmud,Bangladesh,Bangladesh,Hasan Mahmud (Bangladesh; ID 6643),2025
+6644,Mahidul Ankon,Mahidul Ankon,Bangladesh A,Bangladesh A | Bangladesh,Mahidul Ankon (Bangladesh A; ID 6644),2025
+6645,Mohammad Sheikh,Mohammad Sheikh,Bangladesh,Bangladesh | Bangladesh A,Mohammad Sheikh (Bangladesh; ID 6645),2025
+6651,Towhid Hridoy,Towhid Hridoy,Bangladesh,Bangladesh | Bangladesh A,Towhid Hridoy (Bangladesh; ID 6651),2026
+6654,Tanay Thyagarajan,Tanay Thyagarajan,Punjab Kings,Punjab Kings,Tanay Thyagarajan (Punjab Kings; ID 6654),2024
+6664,Dion Myers,Dion Myers,Zimbabwe,Zimbabwe,Dion Myers (Zimbabwe; ID 6664),2026
+6669,Mohsin Khan,Mohsin Khan,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan (Lucknow Super Giants; ID 6669),2026
+6671,Lalit Yadav,Lalit Yadav,Delhi Capitals,Delhi Capitals,Lalit Yadav (Delhi Capitals; ID 6671),2024
+6674,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Afghanistan,Afghanistan | Kolkata Knight Riders | Gujarat Titans,Rahmanullah Gurbaz (Afghanistan; ID 6674),2026
+6675,Bahir Mehboob,Bahir Mehboob,Afghanistan,Afghanistan,Bahir Mehboob (Afghanistan; ID 6675),2024
+6676,Azmatullah Omarzai,Azmatullah Omarzai,Afghanistan,Afghanistan | Punjab Kings | Gujarat Titans,Azmatullah Omarzai (Afghanistan; ID 6676),2026
+6677,Mohammad Hasnain,Mohammad Hasnain,Pakistan,Pakistan,Mohammad Hasnain (Pakistan; ID 6677),2024
+6683,Mayank Markande,Mayank Markande,Mumbai Indians,Mumbai Indians | Kolkata Knight Riders | Sunrisers Hyderabad,Mayank Markande (Mumbai Indians; ID 6683),2026
+6697,Shams Mulani,Shams Mulani,Mumbai Indians,Mumbai Indians,Shams Mulani (Mumbai Indians; ID 6697),2024
+6705,Scott McKechnie,Scott McKechnie,Hong Kong,Hong Kong,Scott McKechnie (Hong Kong; ID 6705),2022
+6712,Hamed Khan,Hamed Khan,Hong Kong,Hong Kong,Hamed Khan (Hong Kong; ID 6712),2022
+6725,Sherfane Rutherford,Sherfane Rutherford,West Indies,West Indies | Mumbai Indians | Gujarat Titans | Kolkata Knight Riders | Royal Challengers Bengaluru,Sherfane Rutherford (West Indies; ID 6725),2026
+6726,Romario Shepherd,Romario Shepherd,West Indies,West Indies | Royal Challengers Bengaluru | Mumbai Indians | Lucknow Super Giants | Sunrisers Hyderabad,Romario Shepherd (West Indies; ID 6726),2026
+6727,Zak Crawley,Zak Crawley,England,England,Zak Crawley (England; ID 6727),2025
+6739,Amir Jangoo,Amir Jangoo,West Indies,West Indies,Amir Jangoo (West Indies; ID 6739),2026
+6764,Bukkapatnam Siddharth,Bukkapatnam Siddharth,Oman,Oman,Bukkapatnam Siddharth (Oman; ID 6764),2024
+6772,Chetan Sakariya,Chetan Sakariya,Kolkata Knight Riders,Kolkata Knight Riders | Delhi Capitals,Chetan Sakariya (Kolkata Knight Riders; ID 6772),2025
+6774,Samarth Vyas,Samarth Vyas,Sunrisers Hyderabad,Sunrisers Hyderabad,Samarth Vyas (Sunrisers Hyderabad; ID 6774),2023
+6783,Azam Khan,Azam Khan,Pakistan,Pakistan,Azam Khan (Pakistan; ID 6783),2024
+6784,Hassan Mohammad,Hassan Mohammad,Hong Kong,Hong Kong,Hassan Mohammad (Hong Kong; ID 6784),2025
+6795,Terrance Hinds,Terrance Hinds,West Indies,West Indies,Terrance Hinds (West Indies; ID 6795),2024
+6797,Dominic Drakes,Dominic Drakes,West Indies,West Indies | Gujarat Titans,Dominic Drakes (West Indies; ID 6797),2022
+6806,Tushar Deshpande,Tushar Deshpande,Rajasthan Royals,Rajasthan Royals | India | Chennai Super Kings,Tushar Deshpande (Rajasthan Royals; ID 6806),2026
+6819,Yashasvi Jaiswal,Yashasvi Jaiswal,Rajasthan Royals,Rajasthan Royals | India,Yashasvi Jaiswal (Rajasthan Royals; ID 6819),2026
+6881,Scott Edwards,Scott Edwards,Netherlands,Netherlands,Scott Edwards (Netherlands; ID 6881),2025
+6900,Michael Jones,Michael Jones,Scotland,Scotland,Michael Jones (Scotland; ID 6900),2024
+6919,Tyrone Kane,Tyrone Kane,Ireland,Ireland,Tyrone Kane (Ireland; ID 6919),2023
+6922,Abdul Samad,Abdul Samad,Pakistan,Pakistan | Pakistan A,Abdul Samad (Pakistan; ID 6922),2026
+6926,Matty Potts,Matty Potts,England,England,Matty Potts (England; ID 6926),2025
+6931,Pathum Nissanka,Pathum Nissanka,Sri Lanka,Sri Lanka | Delhi Capitals,Pathum Nissanka (Sri Lanka; ID 6931),2026
+6932,Pramod Madushan,Pramod Madushan,Sri Lanka,Sri Lanka | Sri Lanka A,Pramod Madushan (Sri Lanka; ID 6932),2026
+6984,Saqib Zulfiqar,Saqib Zulfiqar,Netherlands,Netherlands,Saqib Zulfiqar (Netherlands; ID 6984),2025
+6985,Bas de Leede,Bas de Leede,Netherlands,Netherlands,Bas de Leede (Netherlands; ID 6985),2024
+6995,Saad Zafar,Saad Zafar,Canada,Canada,Saad Zafar (Canada; ID 6995),2024
+7001,Dilon Heyliger,Dilon Heyliger,Canada,Canada,Dilon Heyliger (Canada; ID 7001),2024
+7002,Nicholas Kirton,Nicholas Kirton,Canada,Canada,Nicholas Kirton (Canada; ID 7002),2024
+7003,Rayyan Pathan,Rayyan Pathan,Canada,Canada,Rayyan Pathan (Canada; ID 7003),2024
+7008,Gus Atkinson,Gus Atkinson,England,England | Kolkata Knight Riders,Gus Atkinson (England; ID 7008),2026
+7044,Jamie Smith,Jamie Smith,England,England,Jamie Smith (England; ID 7044),2025
+7046,Tinashe Kamunhukamwe,Tinashe Kamunhukamwe,Zimbabwe,Zimbabwe,Tinashe Kamunhukamwe (Zimbabwe; ID 7046),2024
+7049,Kamil Mishara,Kamil Mishara,Sri Lanka,Sri Lanka,Kamil Mishara (Sri Lanka; ID 7049),2026
+7052,Dunith Wellalage,Dunith Wellalage,Sri Lanka,Sri Lanka | Sri Lanka A,Dunith Wellalage (Sri Lanka; ID 7052),2026
+7059,Nehal Wadhera,Nehal Wadhera,Punjab Kings,Punjab Kings | India A | Mumbai Indians,Nehal Wadhera (Punjab Kings; ID 7059),2026
+7060,Arjun Tendulkar,Arjun Tendulkar,Lucknow Super Giants,Lucknow Super Giants | Mumbai Indians,Arjun Tendulkar (Lucknow Super Giants; ID 7060),2026
+7094,Curtis Campher,Curtis Campher,Ireland,Ireland,Curtis Campher (Ireland; ID 7094),2026
+7095,Gideon Peters,Gideon Peters,Delhi Capitals,Delhi Capitals,Gideon Peters (Delhi Capitals; ID 7095),2026
+7120,Rohit Paudel,Rohit Paudel,Nepal,Nepal,Rohit Paudel (Nepal; ID 7120),2025
+7134,Luvnith Sisodia,Luvnith Sisodia,Kolkata Knight Riders,Kolkata Knight Riders | Royal Challengers Bengaluru,Luvnith Sisodia (Kolkata Knight Riders; ID 7134),2026
+7140,Senuran Muthusamy,Senuran Muthusamy,South Africa,South Africa,Senuran Muthusamy (South Africa; ID 7140),2025
+7152,Hazratullah Zazai,Hazratullah Zazai,Afghanistan,Afghanistan,Hazratullah Zazai (Afghanistan; ID 7152),2026
+7155,Sahan Arachchige,Sahan Arachchige,Sri Lanka,Sri Lanka | Sri Lanka A,Sahan Arachchige (Sri Lanka; ID 7155),2026
+7194,Rahul Bhatia,Rahul Bhatia,United Arab Emirates,United Arab Emirates,Rahul Bhatia (United Arab Emirates; ID 7194),2022
+7195,Fahad Nawaz,Fahad Nawaz,United Arab Emirates,United Arab Emirates,Fahad Nawaz (United Arab Emirates; ID 7195),2022
+7197,Jhatavedh Subramanyan,Jhatavedh Subramanyan,Sunrisers Hyderabad,Sunrisers Hyderabad,Jhatavedh Subramanyan (Sunrisers Hyderabad; ID 7197),2024
+7200,Aftab Hussain,Aftab Hussain,Hong Kong,Hong Kong,Aftab Hussain (Hong Kong; ID 7200),2022
+7201,Haroon Arshad,Haroon Arshad,Hong Kong,Hong Kong,Haroon Arshad (Hong Kong; ID 7201),2025
+7216,Prabhsimran Singh,Prabhsimran Singh,India,India | Punjab Kings | India A,Prabhsimran Singh (India; ID 7216),2026
+7227,Nijat Masood,Nijat Masood,Afghanistan,Afghanistan,Nijat Masood (Afghanistan; ID 7227),2024
+7240,FazalHaq Farooqi,FazalHaq Farooqi,Afghanistan,Afghanistan | Rajasthan Royals | Sunrisers Hyderabad,FazalHaq Farooqi (Afghanistan; ID 7240),2026
+7241,Ziaur Rahman,Ziaur Rahman,Afghanistan,Afghanistan,Ziaur Rahman (Afghanistan; ID 7241),2026
+7250,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,Chennai Super Kings,Mukesh Choudhary (Chennai Super Kings; ID 7250),2026
+7260,Dhruv Jurel,Dhruv Jurel,Rajasthan Royals,Rajasthan Royals | India,Dhruv Jurel (Rajasthan Royals; ID 7260),2026
+7269,Sushant Mishra,Sushant Mishra,Rajasthan Royals,Rajasthan Royals | Gujarat Titans | Sunrisers Hyderabad,Sushant Mishra (Rajasthan Royals; ID 7269),2026
+7270,Anrich Nortje,Anrich Nortje,Lucknow Super Giants,Lucknow Super Giants | South Africa | Kolkata Knight Riders | Delhi Capitals,Anrich Nortje (Lucknow Super Giants; ID 7270),2026
+7279,Atharva Ankolekar,Atharva Ankolekar,Mumbai Indians,Mumbai Indians,Atharva Ankolekar (Mumbai Indians; ID 7279),2026
+7304,Sanvir Singh,Sanvir Singh,Sunrisers Hyderabad,Sunrisers Hyderabad,Sanvir Singh (Sunrisers Hyderabad; ID 7304),2024
+7312,Nandre Burger,Nandre Burger,Rajasthan Royals,Rajasthan Royals | South Africa,Nandre Burger (Rajasthan Royals; ID 7312),2026
+7322,Yash Dayal,Yash Dayal,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India | Gujarat Titans,Yash Dayal (Royal Challengers Bengaluru; ID 7322),2026
+7325,Harpreet Brar,Harpreet Brar,Punjab Kings,Punjab Kings,Harpreet Brar (Punjab Kings; ID 7325),2026
+7327,Rasikh Salam,Rasikh Salam,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India A | Delhi Capitals | Kolkata Knight Riders,Rasikh Salam (Royal Challengers Bengaluru; ID 7327),2026
+7338,Haider Ali,Haider Ali,Pakistan A,Pakistan A | Pakistan,Haider Ali (Pakistan A; ID 7338),2024
+7341,Jake McGurk,Jake McGurk,Australia,Australia | Delhi Capitals,Jake McGurk (Australia; ID 7341),2025
+7344,Shoriful Islam,Shoriful Islam,Bangladesh,Bangladesh,Shoriful Islam (Bangladesh; ID 7344),2026
+7354,Al Alis,Al Alis,Bangladesh A,Bangladesh A | Bangladesh,Al Alis (Bangladesh A; ID 7354),2024
+7355,Tayyab Tahir,Tayyab Tahir,Pakistan,Pakistan,Tayyab Tahir (Pakistan; ID 7355),2024
+7364,Haris Rauf,Haris Rauf,Pakistan,Pakistan,Haris Rauf (Pakistan; ID 7364),2025
+7403,Lalit Rajbanshi,Lalit Rajbanshi,Nepal,Nepal,Lalit Rajbanshi (Nepal; ID 7403),2025
+7406,Rizwan CP,Rizwan CP,United Arab Emirates,United Arab Emirates,Rizwan CP (United Arab Emirates; ID 7406),2022
+7409,Sundeep Jora,Sundeep Jora,Nepal,Nepal,Sundeep Jora (Nepal; ID 7409),2026
+7446,Abdul Samad,Abdul Samad,Lucknow Super Giants,Lucknow Super Giants | Sunrisers Hyderabad,Abdul Samad (Lucknow Super Giants; ID 7446),2026
+7456,James McCollum,James McCollum,Ireland,Ireland,James McCollum (Ireland; ID 7456),2024
+7472,Shahbaz Ahmed,Shahbaz Ahmed,Lucknow Super Giants,Lucknow Super Giants | India | Sunrisers Hyderabad | Royal Challengers Bengaluru,Shahbaz Ahmed (Lucknow Super Giants; ID 7472),2026
+7473,Akash Deep,Akash Deep,Kolkata Knight Riders,Kolkata Knight Riders | Lucknow Super Giants | Royal Challengers Bengaluru,Akash Deep (Kolkata Knight Riders; ID 7473),2026
+7498,Abhijeet Tomar,Abhijeet Tomar,Kolkata Knight Riders,Kolkata Knight Riders,Abhijeet Tomar (Kolkata Knight Riders; ID 7498),2022
+7503,Ravi Bishnoi,Ravi Bishnoi,India,India | Rajasthan Royals | Lucknow Super Giants,Ravi Bishnoi (India; ID 7503),2026
+7533,Simarjeet Singh,Simarjeet Singh,Sunrisers Hyderabad,Sunrisers Hyderabad | Chennai Super Kings,Simarjeet Singh (Sunrisers Hyderabad; ID 7533),2025
+7534,Sarthak Ranjan,Sarthak Ranjan,Kolkata Knight Riders,Kolkata Knight Riders,Sarthak Ranjan (Kolkata Knight Riders; ID 7534),2026
+7544,Venkatesh Iyer,Venkatesh Iyer,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Kolkata Knight Riders | India,Venkatesh Iyer (Royal Challengers Bengaluru; ID 7544),2026
+7545,Kuldeep Sen,Kuldeep Sen,Rajasthan Royals,Rajasthan Royals | Punjab Kings,Kuldeep Sen (Rajasthan Royals; ID 7545),2026
+7548,Shivalik Sharma,Shivalik Sharma,Mumbai Indians,Mumbai Indians,Shivalik Sharma (Mumbai Indians; ID 7548),2024
+7553,Ajay Mandal,Ajay Mandal,Delhi Capitals,Delhi Capitals | Chennai Super Kings,Ajay Mandal (Delhi Capitals; ID 7553),2026
+7566,Ben Curran,Ben Curran,Zimbabwe,Zimbabwe,Ben Curran (Zimbabwe; ID 7566),2026
+7574,Kumar Kartikeya Singh,Kumar Kartikeya Singh,Rajasthan Royals,Rajasthan Royals | Mumbai Indians,Kumar Kartikeya Singh (Rajasthan Royals; ID 7574),2025
+7575,Arpit Guleria,Arpit Guleria,Lucknow Super Giants,Lucknow Super Giants,Arpit Guleria (Lucknow Super Giants; ID 7575),2023
+7625,Suryansh Shedge,Suryansh Shedge,India,India | Punjab Kings | India A | Lucknow Super Giants,Suryansh Shedge (India; ID 7625),2026
+7634,Aaron Jones,Aaron Jones,United States Of America,United States Of America,Aaron Jones (United States Of America; ID 7634),2024
+7689,Dilshan Madushanka,Dilshan Madushanka,Sri Lanka,Sri Lanka | Sunrisers Hyderabad | Mumbai Indians,Dilshan Madushanka (Sri Lanka; ID 7689),2026
+7690,Saim Ayub,Saim Ayub,Pakistan,Pakistan,Saim Ayub (Pakistan; ID 7690),2026
+7692,Qasim Akram,Qasim Akram,Pakistan,Pakistan | Pakistan A,Qasim Akram (Pakistan; ID 7692),2024
+7696,Mohammad Wasim,Mohammad Wasim,Pakistan,Pakistan,Mohammad Wasim (Pakistan; ID 7696),2026
+7699,Abbas Afridi,Abbas Afridi,Pakistan,Pakistan | Pakistan A,Abbas Afridi (Pakistan; ID 7699),2025
+7702,Chamindu Wickramasinghe,Chamindu Wickramasinghe,Sri Lanka,Sri Lanka,Chamindu Wickramasinghe (Sri Lanka; ID 7702),2026
+7704,Pavan Rathnayake,Pavan Rathnayake,Sri Lanka,Sri Lanka | Sri Lanka A,Pavan Rathnayake (Sri Lanka; ID 7704),2026
+7708,Kavindu Nadeeshan,Kavindu Nadeeshan,Sri Lanka A,Sri Lanka A,Kavindu Nadeeshan (Sri Lanka A; ID 7708),2024
+7709,Ainsley Ndlovu,Ainsley Ndlovu,Zimbabwe,Zimbabwe,Ainsley Ndlovu (Zimbabwe; ID 7709),2024
+7710,Brandon Glover,Brandon Glover,Netherlands,Netherlands,Brandon Glover (Netherlands; ID 7710),2024
+7741,Gareth Delany,Gareth Delany,Ireland,Ireland,Gareth Delany (Ireland; ID 7741),2026
+7744,Jordan Cox,Jordan Cox,Royal Challengers Bengaluru,Royal Challengers Bengaluru | England,Jordan Cox (Royal Challengers Bengaluru; ID 7744),2026
+7755,Harsh Thaker,Harsh Thaker,Canada,Canada,Harsh Thaker (Canada; ID 7755),2024
+7756,Kaleem Sana,Kaleem Sana,Canada,Canada,Kaleem Sana (Canada; ID 7756),2024
+7761,Ravinderpal Singh,Ravinderpal Singh,Canada,Canada,Ravinderpal Singh (Canada; ID 7761),2024
+7808,Marco Jansen,Marco Jansen,Punjab Kings,Punjab Kings | South Africa | Sunrisers Hyderabad,Marco Jansen (Punjab Kings; ID 7808),2026
+7894,Tony Munyonga,Tony Munyonga,Zimbabwe,Zimbabwe,Tony Munyonga (Zimbabwe; ID 7894),2025
+7896,Akash Singh,Akash Singh,Lucknow Super Giants,Lucknow Super Giants | Sunrisers Hyderabad | Chennai Super Kings,Akash Singh (Lucknow Super Giants; ID 7896),2026
+7897,Namboori Tilak Varma,Namboori Tilak Varma,India,India | Mumbai Indians | India A,Namboori Tilak Varma (India; ID 7897),2026
+7900,Tanzid Hasan,Tanzid Hasan,Bangladesh,Bangladesh,Tanzid Hasan (Bangladesh; ID 7900),2026
+7901,Parvez Emon,Parvez Emon,Bangladesh,Bangladesh | Bangladesh A,Parvez Emon (Bangladesh; ID 7901),2026
+7903,Shamim Hossain,Shamim Hossain,Bangladesh,Bangladesh | Bangladesh A,Shamim Hossain (Bangladesh; ID 7903),2026
+7904,Mohammad Chowdhury,Mohammad Chowdhury,Bangladesh A,Bangladesh A,Mohammad Chowdhury (Bangladesh A; ID 7904),2025
+7905,Tanzim Sakib,Tanzim Sakib,Bangladesh,Bangladesh,Tanzim Sakib (Bangladesh; ID 7905),2026
+7906,Rakibul Hasan,Rakibul Hasan,Bangladesh A,Bangladesh A | Bangladesh,Rakibul Hasan (Bangladesh A; ID 7906),2025
+7908,Mohammad Akbar Ali,Mohammad Akbar Ali,Bangladesh A,Bangladesh A,Mohammad Akbar Ali (Bangladesh A; ID 7908),2025
+7909,Philippe Boissevain,Philippe Boissevain,Netherlands,Netherlands,Philippe Boissevain (Netherlands; ID 7909),2022
+7910,Antonius Staal,Antonius Staal,Netherlands,Netherlands,Antonius Staal (Netherlands; ID 7910),2022
+7911,Oliver Hairs,Oliver Hairs,Scotland,Scotland,Oliver Hairs (Scotland; ID 7911),2024
+7912,Vikramjit Singh,Vikramjit Singh,Netherlands,Netherlands,Vikramjit Singh (Netherlands; ID 7912),2025
+7914,Clayton Floyd,Clayton Floyd,Netherlands,Netherlands,Clayton Floyd (Netherlands; ID 7914),2024
+7915,Monank Patel,Monank Patel,United States Of America,United States Of America,Monank Patel (United States Of America; ID 7915),2024
+7916,Karima Gore,Karima Gore,West Indies,West Indies,Karima Gore (West Indies; ID 7916),2025
+7920,Nathan Ellis,Nathan Ellis,Australia,Australia | Chennai Super Kings | Punjab Kings,Nathan Ellis (Australia; ID 7920),2026
+7924,Kushal Malla,Kushal Malla,Nepal,Nepal,Kushal Malla (Nepal; ID 7924),2026
+7925,Rohan Rangarajan,Rohan Rangarajan,Singapore,Singapore,Rohan Rangarajan (Singapore; ID 7925),2022
+7926,Manpreet Singh,Manpreet Singh,Singapore,Singapore,Manpreet Singh (Singapore; ID 7926),2022
+7927,Janak Prakash,Janak Prakash,Singapore,Singapore,Janak Prakash (Singapore; ID 7927),2022
+7928,Vinoth Baskaran,Vinoth Baskaran,Singapore,Singapore,Vinoth Baskaran (Singapore; ID 7928),2022
+7929,Aryaman Sunil Uchil,Aryaman Sunil Uchil,Singapore,Singapore,Aryaman Sunil Uchil (Singapore; ID 7929),2022
+7931,Aritra Dutta,Aritra Dutta,Singapore,Singapore,Aritra Dutta (Singapore; ID 7931),2022
+7935,Mohammad Ghazanfar,Mohammad Ghazanfar,Hong Kong,Hong Kong,Mohammad Ghazanfar (Hong Kong; ID 7935),2025
+7937,Wasim Ali,Wasim Ali,Oman,Oman,Wasim Ali (Oman; ID 7937),2025
+7938,Sandeep Goud 1,Sandeep Goud 1,Oman,Oman,Sandeep Goud 1 (Oman; ID 7938),2024
+7940,Aqib Ilyas,Aqib Ilyas,Oman,Oman,Aqib Ilyas (Oman; ID 7940),2024
+7942,Jay Odedara,Jay Odedara,Oman,Oman,Jay Odedara (Oman; ID 7942),2025
+7945,Nasrulla Rana,Nasrulla Rana,Hong Kong,Hong Kong,Nasrulla Rana (Hong Kong; ID 7945),2025
+7966,Farmanullah Safi,Farmanullah Safi,Afghanistan A,Afghanistan A,Farmanullah Safi (Afghanistan A; ID 7966),2025
+7967,Noor Ahmad,Noor Ahmad,Afghanistan,Afghanistan | Chennai Super Kings | Gujarat Titans,Noor Ahmad (Afghanistan; ID 7967),2026
+7978,Johnathan Campbell,Johnathan Campbell,Zimbabwe,Zimbabwe,Johnathan Campbell (Zimbabwe; ID 7978),2025
+7981,Imran Mir,Imran Mir,Afghanistan A,Afghanistan A,Imran Mir (Afghanistan A; ID 7981),2025
+8005,Zawar Farid,Zawar Farid,United Arab Emirates,United Arab Emirates,Zawar Farid (United Arab Emirates; ID 8005),2022
+8007,Waheed Ahmed,Waheed Ahmed,United Arab Emirates,United Arab Emirates,Waheed Ahmed (United Arab Emirates; ID 8007),2022
+8009,Junaid Siddique,Junaid Siddique,United Arab Emirates,United Arab Emirates,Junaid Siddique (United Arab Emirates; ID 8009),2026
+8010,Darius D Silva,Darius D Silva,United Arab Emirates,United Arab Emirates,Darius D Silva (United Arab Emirates; ID 8010),2022
+8014,Avi Dixit,Avi Dixit,Singapore,Singapore,Avi Dixit (Singapore; ID 8014),2022
+8015,Kaleemullah,Kaleemullah,Oman,Oman,Kaleemullah (Oman; ID 8015),2024
+8029,Sadiqullah Pacha,Sadiqullah Pacha,Afghanistan A,Afghanistan A,Sadiqullah Pacha (Afghanistan A; ID 8029),2025
+8032,Abdul Malik,Abdul Malik,Afghanistan,Afghanistan,Abdul Malik (Afghanistan; ID 8032),2024
+8033,Abdul Rahmani,Abdul Rahmani,Afghanistan A,Afghanistan A,Abdul Rahmani (Afghanistan A; ID 8033),2024
+8040,Ripal Patel,Ripal Patel,Delhi Capitals,Delhi Capitals,Ripal Patel (Delhi Capitals; ID 8040),2023
+8049,Naseem Shah,Naseem Shah,Pakistan,Pakistan,Naseem Shah (Pakistan; ID 8049),2026
+8085,Suyash Prabhudessai,Suyash Prabhudessai,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Suyash Prabhudessai (Royal Challengers Bengaluru; ID 8085),2024
+8093,Nikhil Chaudhary,Nikhil Chaudhary,Australia,Australia,Nikhil Chaudhary (Australia; ID 8093),2026
+8101,Ashutosh Sharma,Ashutosh Sharma,Delhi Capitals,Delhi Capitals | India A | Punjab Kings,Ashutosh Sharma (Delhi Capitals; ID 8101),2026
+8140,Abid Mangnoo,Abid Mangnoo,Rajasthan Royals,Rajasthan Royals,Abid Mangnoo (Rajasthan Royals; ID 8140),2024
+8141,Auqib Nabi,Auqib Nabi,Delhi Capitals,Delhi Capitals,Auqib Nabi (Delhi Capitals; ID 8141),2026
+8177,Akash Madhwal,Akash Madhwal,Chennai Super Kings,Chennai Super Kings | Rajasthan Royals | Mumbai Indians,Akash Madhwal (Chennai Super Kings; ID 8177),2026
+8182,Donovan Ferreira,Donovan Ferreira,Rajasthan Royals,Rajasthan Royals | South Africa | Delhi Capitals,Donovan Ferreira (Rajasthan Royals; ID 8182),2026
+8217,Ansh Tandon,Ansh Tandon,United Arab Emirates,United Arab Emirates,Ansh Tandon (United Arab Emirates; ID 8217),2024
+8221,Nitish Reddy,Nitish Reddy,India,India | Sunrisers Hyderabad,Nitish Reddy (India; ID 8221),2026
+8238,Sameer Rizvi,Sameer Rizvi,Delhi Capitals,Delhi Capitals | India A | Chennai Super Kings,Sameer Rizvi (Delhi Capitals; ID 8238),2026
+8241,Lokesh Bam,Lokesh Bam,Nepal,Nepal,Lokesh Bam (Nepal; ID 8241),2026
+8244,Pratish GC,Pratish GC,Nepal,Nepal,Pratish GC (Nepal; ID 8244),2026
+8249,Sher Malla,Sher Malla,Nepal,Nepal,Sher Malla (Nepal; ID 8249),2026
+8251,Kumar Kushagra,Kumar Kushagra,India,India | Gujarat Titans | India A | Delhi Capitals,Kumar Kushagra (India; ID 8251),2026
+8266,Sumit Kumar 1,Sumit Kumar 1,Delhi Capitals,Delhi Capitals,Sumit Kumar 1 (Delhi Capitals; ID 8266),2024
+8295,Matthew Forde,Matthew Forde,West Indies,West Indies,Matthew Forde (West Indies; ID 8295),2026
+8298,Ramon Simmonds,Ramon Simmonds,West Indies,West Indies,Ramon Simmonds (West Indies; ID 8298),2026
+8301,Asif Khan,Asif Khan,United Arab Emirates,United Arab Emirates,Asif Khan (United Arab Emirates; ID 8301),2025
+8311,Dan Mousley,Dan Mousley,England,England,Dan Mousley (England; ID 8311),2024
+8326,Jayden Seales,Jayden Seales,West Indies,West Indies,Jayden Seales (West Indies; ID 8326),2026
+8329,Scott Currie,Scott Currie,England,England,Scott Currie (England; ID 8329),2025
+8380,Mohammad Rishad Hossain,Mohammad Rishad Hossain,Bangladesh,Bangladesh,Mohammad Rishad Hossain (Bangladesh; ID 8380),2026
+8388,Ahan Wickramasinghe,Ahan Wickramasinghe,Sri Lanka A,Sri Lanka A,Ahan Wickramasinghe (Sri Lanka A; ID 8388),2025
+8389,Jayden Lennox,Jayden Lennox,New Zealand,New Zealand,Jayden Lennox (New Zealand; ID 8389),2026
+8405,Kanwarpal Tathgur,Kanwarpal Tathgur,Canada,Canada,Kanwarpal Tathgur (Canada; ID 8405),2024
+8408,Shreyas Movva,Shreyas Movva,Canada,Canada,Shreyas Movva (Canada; ID 8408),2024
+8424,Tanveer Sangha,Tanveer Sangha,Australia,Australia,Tanveer Sangha (Australia; ID 8424),2025
+8530,Kartik Tyagi,Kartik Tyagi,Kolkata Knight Riders,Kolkata Knight Riders | Gujarat Titans | Sunrisers Hyderabad,Kartik Tyagi (Kolkata Knight Riders; ID 8530),2026
+8580,Yudhvir Singh,Yudhvir Singh,Rajasthan Royals,Rajasthan Royals | India A | Lucknow Super Giants,Yudhvir Singh (Rajasthan Royals; ID 8580),2026
+8600,Tadiwanashe Marumani,Tadiwanashe Marumani,Zimbabwe,Zimbabwe,Tadiwanashe Marumani (Zimbabwe; ID 8600),2026
+8611,Adithya Ashok,Adithya Ashok,New Zealand,New Zealand,Adithya Ashok (New Zealand; ID 8611),2023
+8614,William ORourke,William ORourke,New Zealand,New Zealand | Lucknow Super Giants,William ORourke (New Zealand; ID 8614),2025
+8623,Kristian Clarke,Kristian Clarke,New Zealand,New Zealand,Kristian Clarke (New Zealand; ID 8623),2026
+8632,Aaqib Khan,Aaqib Khan,India A,India A,Aaqib Khan (India A; ID 8632),2024
+8634,Ashwani Kumar,Ashwani Kumar,Mumbai Indians,Mumbai Indians,Ashwani Kumar (Mumbai Indians; ID 8634),2026
+8637,Vriitya Aravind,Vriitya Aravind,United Arab Emirates,United Arab Emirates,Vriitya Aravind (United Arab Emirates; ID 8637),2023
+8638,Basil Hameed,Basil Hameed,United Arab Emirates,United Arab Emirates,Basil Hameed (United Arab Emirates; ID 8638),2026
+8639,Kartik Meiyappan,Kartik Meiyappan,United Arab Emirates,United Arab Emirates,Kartik Meiyappan (United Arab Emirates; ID 8639),2022
+8647,Sediqullah Atal,Sediqullah Atal,Afghanistan,Afghanistan | Afghanistan A | Delhi Capitals,Sediqullah Atal (Afghanistan; ID 8647),2026
+8652,Mohammad Ishaq,Mohammad Ishaq,Afghanistan,Afghanistan | Afghanistan A,Mohammad Ishaq (Afghanistan; ID 8652),2026
+8653,Rahmanullah Zadran,Rahmanullah Zadran,Afghanistan A,Afghanistan A,Rahmanullah Zadran (Afghanistan A; ID 8653),2025
+8654,Cooper Connolly,Cooper Connolly,Australia,Australia | Punjab Kings,Cooper Connolly (Australia; ID 8654),2026
+8661,Matheesha Pathirana,Matheesha Pathirana,Sri Lanka,Sri Lanka | Kolkata Knight Riders | Chennai Super Kings,Matheesha Pathirana (Sri Lanka; ID 8661),2026
+8662,Kevin Kasuza,Kevin Kasuza,Zimbabwe,Zimbabwe,Kevin Kasuza (Zimbabwe; ID 8662),2023
+8664,Victor Nyauchi,Victor Nyauchi,Zimbabwe,Zimbabwe,Victor Nyauchi (Zimbabwe; ID 8664),2023
+8719,Aryan Lakra,Aryan Lakra,United Arab Emirates,United Arab Emirates,Aryan Lakra (United Arab Emirates; ID 8719),2022
+8723,Mohammed Faraazuddin,Mohammed Faraazuddin,United Arab Emirates,United Arab Emirates,Mohammed Faraazuddin (United Arab Emirates; ID 8723),2025
+8726,Alishan Sharafu,Alishan Sharafu,United Arab Emirates,United Arab Emirates,Alishan Sharafu (United Arab Emirates; ID 8726),2026
+8727,Sanchit Sharma,Sanchit Sharma,United Arab Emirates,United Arab Emirates,Sanchit Sharma (United Arab Emirates; ID 8727),2025
+8729,Haider Shah,Haider Shah,United Arab Emirates,United Arab Emirates,Haider Shah (United Arab Emirates; ID 8729),2025
+8739,Muhammad Irfan,Muhammad Irfan,Pakistan A,Pakistan A | Pakistan,Muhammad Irfan (Pakistan A; ID 8739),2025
+8741,Mohammad Haris,Mohammad Haris,Pakistan,Pakistan | Pakistan A,Mohammad Haris (Pakistan; ID 8741),2025
+8743,Muhammad Shehzad,Muhammad Shehzad,Pakistan A,Pakistan A,Muhammad Shehzad (Pakistan A; ID 8743),2025
+8746,Vaibhav Arora,Vaibhav Arora,Kolkata Knight Riders,Kolkata Knight Riders | India A | Punjab Kings,Vaibhav Arora (Kolkata Knight Riders; ID 8746),2026
+8763,Duan Jansen,Duan Jansen,Mumbai Indians,Mumbai Indians,Duan Jansen (Mumbai Indians; ID 8763),2023
+8771,Rubin Hermann,Rubin Hermann,South Africa,South Africa,Rubin Hermann (South Africa; ID 8771),2026
+8805,Ottneil Baartman,Ottneil Baartman,South Africa,South Africa,Ottneil Baartman (South Africa; ID 8805),2026
+8852,Mihlal Mpongwana,Mihlal Mpongwana,South Africa,South Africa,Mihlal Mpongwana (South Africa; ID 8852),2024
+15269,Mohammed Aslam,Mohammed Aslam,Kuwait,Kuwait,Mohammed Aslam (Kuwait; ID 15269),2022
+15271,Usmangani Ibrahim Patel,Usmangani Ibrahim Patel,Kuwait,Kuwait,Usmangani Ibrahim Patel (Kuwait; ID 15271),2022
+15274,Ravija Sandaruwan,Ravija Sandaruwan,Kuwait,Kuwait,Ravija Sandaruwan (Kuwait; ID 15274),2022
+15275,Mohammad Amin,Mohammad Amin,Kuwait,Kuwait,Mohammad Amin (Kuwait; ID 15275),2022
+15278,Muhammad Kashif,Muhammad Kashif,Kuwait,Kuwait,Muhammad Kashif (Kuwait; ID 15278),2022
+15279,Shiraz Khan,Shiraz Khan,Kuwait,Kuwait,Shiraz Khan (Kuwait; ID 15279),2022
+15280,Sayed Monib,Sayed Monib,Kuwait,Kuwait,Sayed Monib (Kuwait; ID 15280),2022
+15303,Bilal Tahir,Bilal Tahir,Kuwait,Kuwait,Bilal Tahir (Kuwait; ID 15303),2022
+15551,Ackeem Auguste,Ackeem Auguste,West Indies,West Indies,Ackeem Auguste (West Indies; ID 15551),2026
+15629,Shayan Jahangir,Shayan Jahangir,United States Of America,United States Of America,Shayan Jahangir (United States Of America; ID 15629),2024
+16284,Habibur Rahman Sohan,Habibur Rahman Sohan,Bangladesh A,Bangladesh A,Habibur Rahman Sohan (Bangladesh A; ID 16284),2025
+16498,Sultan Ahmad,Sultan Ahmad,United Arab Emirates,United Arab Emirates,Sultan Ahmad (United Arab Emirates; ID 16498),2022
+16536,Makoto Taniyama,Makoto Taniyama,Japan,Japan,Makoto Taniyama (Japan; ID 16536),2026
+16559,Alexander Patmore,Alexander Patmore,Japan,Japan,Alexander Patmore (Japan; ID 16559),2026
+16565,Kohei Kubota,Kohei Kubota,Japan,Japan,Kohei Kubota (Japan; ID 16565),2026
+16606,Tsuyoshi Takada,Tsuyoshi Takada,Japan,Japan,Tsuyoshi Takada (Japan; ID 16606),2026
+17315,Lovepreet bajwa,Lovepreet bajwa,United Arab Emirates,United Arab Emirates,Lovepreet bajwa (United Arab Emirates; ID 17315),2023
+17413,Neil Rock,Neil Rock,Ireland,Ireland,Neil Rock (Ireland; ID 17413),2025
+17418,Matthew Foster,Matthew Foster,Ireland,Ireland,Matthew Foster (Ireland; ID 17418),2024
+17419,Tim Tector,Tim Tector,Ireland,Ireland,Tim Tector (Ireland; ID 17419),2026
+17424,Graham Hume,Graham Hume,Ireland,Ireland,Graham Hume (Ireland; ID 17424),2025
+17430,Conor Olphert,Conor Olphert,Ireland,Ireland,Conor Olphert (Ireland; ID 17430),2023
+17432,Ross Adair,Ross Adair,Ireland,Ireland,Ross Adair (Ireland; ID 17432),2026
+17898,Bilal Sami,Bilal Sami,Afghanistan A,Afghanistan A | Afghanistan,Bilal Sami (Afghanistan A; ID 17898),2025
+17909,Riaz Hassan,Riaz Hassan,Afghanistan,Afghanistan,Riaz Hassan (Afghanistan; ID 17909),2024
+17910,Mohammad Akram,Mohammad Akram,Afghanistan,Afghanistan,Mohammad Akram (Afghanistan; ID 17910),2026
+17911,Nangeyalia Kharote,Nangeyalia Kharote,Afghanistan,Afghanistan | Afghanistan A,Nangeyalia Kharote (Afghanistan; ID 17911),2026
+17918,Abdullah Tarakhail,Abdullah Tarakhail,Afghanistan,Afghanistan,Abdullah Tarakhail (Afghanistan; ID 17918),2026
+17919,Mohammad Saleem Safi,Mohammad Saleem Safi,Afghanistan,Afghanistan | Afghanistan A,Mohammad Saleem Safi (Afghanistan; ID 17919),2025
+17937,Zubaid Akbari,Zubaid Akbari,Afghanistan,Afghanistan | Afghanistan A,Zubaid Akbari (Afghanistan; ID 17937),2026
+18206,Tom Hartley,Tom Hartley,England,England,Tom Hartley (England; ID 18206),2025
+18592,Ijaz Ahmad Mehri,Ijaz Ahmad Mehri,Afghanistan A,Afghanistan A,Ijaz Ahmad Mehri (Afghanistan A; ID 18592),2025
+18824,Faran Afzal,Faran Afzal,England,England,Faran Afzal (England; ID 18824),2023
+19012,Zeeshan Ali,Zeeshan Ali,Hong Kong,Hong Kong,Zeeshan Ali (Hong Kong; ID 19012),2025
+19016,Aliyaan Zahir Mohammad,Aliyaan Zahir Mohammad,Hong Kong,Hong Kong,Aliyaan Zahir Mohammad (Hong Kong; ID 19016),2022
+19020,Ateeq Iqbal,Ateeq Iqbal,Hong Kong,Hong Kong,Ateeq Iqbal (Hong Kong; ID 19020),2025
+19043,Dhananjay Rao,Dhananjay Rao,Hong Kong,Hong Kong,Dhananjay Rao (Hong Kong; ID 19043),2022
+19050,Adit Gorawara,Adit Gorawara,Hong Kong,Hong Kong,Adit Gorawara (Hong Kong; ID 19050),2022
+19098,Pyla Avinash,Pyla Avinash,Punjab Kings,Punjab Kings,Pyla Avinash (Punjab Kings; ID 19098),2026
+19124,Anas Khan,Anas Khan,Hong Kong,Hong Kong,Anas Khan (Hong Kong; ID 19124),2025
+19125,Ayush Shukla,Ayush Shukla,Hong Kong,Hong Kong,Ayush Shukla (Hong Kong; ID 19125),2025
+19132,Khurram Shehzad,Khurram Shehzad,Pakistan A,Pakistan A,Khurram Shehzad (Pakistan A; ID 19132),2025
+19145,Aamer Jamal,Aamer Jamal,Pakistan,Pakistan,Aamer Jamal (Pakistan; ID 19145),2024
+19147,Faraz Akram,Faraz Akram,Zimbabwe,Zimbabwe,Faraz Akram (Zimbabwe; ID 19147),2024
+19307,Tharindu Rathnayake,Tharindu Rathnayake,Sri Lanka,Sri Lanka,Tharindu Rathnayake (Sri Lanka; ID 19307),2026
+19309,Lahiru Udara,Lahiru Udara,Sri Lanka,Sri Lanka | Sri Lanka A,Lahiru Udara (Sri Lanka; ID 19309),2026
+19312,Nuwan Thushara,Nuwan Thushara,Sri Lanka,Sri Lanka | Royal Challengers Bengaluru | Mumbai Indians,Nuwan Thushara (Sri Lanka; ID 19312),2026
+19315,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,Sri Lanka,Sri Lanka | Sri Lanka A | Sunrisers Hyderabad,Vijayakanth Viyaskanth (Sri Lanka; ID 19315),2026
+19316,Maheesh Theekshana,Maheesh Theekshana,Sri Lanka,Sri Lanka | Rajasthan Royals | Chennai Super Kings,Maheesh Theekshana (Sri Lanka; ID 19316),2026
+19530,Shahnawaz Dhani,Shahnawaz Dhani,Pakistan A,Pakistan A | Pakistan,Shahnawaz Dhani (Pakistan A; ID 19530),2024
+19535,Rejaur Rahman Raja,Rejaur Rahman Raja,Bangladesh A,Bangladesh A | Bangladesh,Rejaur Rahman Raja (Bangladesh A; ID 19535),2024
+19714,Abishek Porel,Abishek Porel,Delhi Capitals,Delhi Capitals | India A,Abishek Porel (Delhi Capitals; ID 19714),2026
+19754,Raja Khan,Raja Khan,United Arab Emirates,United Arab Emirates,Raja Khan (United Arab Emirates; ID 19754),2025
+19781,Mitchell Owen,Mitchell Owen,Australia,Australia | Punjab Kings,Mitchell Owen (Australia; ID 19781),2026
+19892,Theo van Woerkom,Theo van Woerkom,Ireland,Ireland,Theo van Woerkom (Ireland; ID 19892),2024
+19894,Mitchell Hay,Mitchell Hay,New Zealand,New Zealand,Mitchell Hay (New Zealand; ID 19894),2025
+19902,Tim Pringle,Tim Pringle,Netherlands,Netherlands,Tim Pringle (Netherlands; ID 19902),2025
+19969,Mubasir Khan,Mubasir Khan,Pakistan A,Pakistan A,Mubasir Khan (Pakistan A; ID 19969),2025
+19998,Rajvardhan Hangargekar,Rajvardhan Hangargekar,Lucknow Super Giants,Lucknow Super Giants | Chennai Super Kings,Rajvardhan Hangargekar (Lucknow Super Giants; ID 19998),2025
+20005,Arshad Khan,Arshad Khan,Gujarat Titans,Gujarat Titans | Lucknow Super Giants | Mumbai Indians,Arshad Khan (Gujarat Titans; ID 20005),2026
+20006,Ramandeep Singh,Ramandeep Singh,Kolkata Knight Riders,Kolkata Knight Riders | India A | India | Mumbai Indians,Ramandeep Singh (Kolkata Knight Riders; ID 20006),2026
+20023,Karan Sharma,Karan Sharma,Lucknow Super Giants,Lucknow Super Giants,Karan Sharma (Lucknow Super Giants; ID 20023),2023
+20029,Rahul Buddhi,Rahul Buddhi,Mumbai Indians,Mumbai Indians,Rahul Buddhi (Mumbai Indians; ID 20029),2022
+20077,Yuvraj Chaudhary,Yuvraj Chaudhary,Lucknow Super Giants,Lucknow Super Giants,Yuvraj Chaudhary (Lucknow Super Giants; ID 20077),2025
+20114,Ansh Patel,Ansh Patel,Punjab Kings,Punjab Kings,Ansh Patel (Punjab Kings; ID 20114),2022
+20163,Aasif Sheikh,Aasif Sheikh,Nepal,Nepal,Aasif Sheikh (Nepal; ID 20163),2025
+20172,Rashid Khan,Rashid Khan,Nepal,Nepal,Rashid Khan (Nepal; ID 20172),2026
+20175,Nandan Yadav,Nandan Yadav,Nepal,Nepal,Nandan Yadav (Nepal; ID 20175),2026
+20187,Narayan Joshi,Narayan Joshi,Nepal,Nepal,Narayan Joshi (Nepal; ID 20187),2026
+20192,Hemanta Dhami,Hemanta Dhami,Nepal,Nepal,Hemanta Dhami (Nepal; ID 20192),2026
+20229,Mohammad Ali,Mohammad Ali,Pakistan,Pakistan,Mohammad Ali (Pakistan; ID 20229),2025
+20310,Ahmed Daniyal,Ahmed Daniyal,Pakistan A,Pakistan A | Pakistan,Ahmed Daniyal (Pakistan A; ID 20310),2025
+20316,Shahab Alam,Shahab Alam,Nepal,Nepal,Shahab Alam (Nepal; ID 20316),2026
+20327,Usman Khan,Usman Khan,Pakistan,Pakistan,Usman Khan (Pakistan; ID 20327),2026
+20693,Kuldip Yadav,Kuldip Yadav,Chennai Super Kings,Chennai Super Kings | Rajasthan Royals,Kuldip Yadav (Chennai Super Kings; ID 20693),2026
+20694,Bhagath Varma,Bhagath Varma,Chennai Super Kings,Chennai Super Kings,Bhagath Varma (Chennai Super Kings; ID 20694),2023
+20702,Tristan Stubbs,Tristan Stubbs,Delhi Capitals,Delhi Capitals | South Africa | Mumbai Indians,Tristan Stubbs (Delhi Capitals; ID 20702),2026
+20704,Salman Mirza,Salman Mirza,Pakistan,Pakistan | Pakistan A,Salman Mirza (Pakistan; ID 20704),2026
+20802,Abdul Basith,Abdul Basith,Rajasthan Royals,Rajasthan Royals,Abdul Basith (Rajasthan Royals; ID 20802),2023
+20894,Aman Khan,Aman Khan,Chennai Super Kings,Chennai Super Kings | Delhi Capitals | Kolkata Knight Riders,Aman Khan (Chennai Super Kings; ID 20894),2026
+20989,Vivrant Sharma,Vivrant Sharma,Sunrisers Hyderabad,Sunrisers Hyderabad,Vivrant Sharma (Sunrisers Hyderabad; ID 20989),2023
+21182,Utkarsh Srivastava,Utkarsh Srivastava,United States Of America,United States Of America,Utkarsh Srivastava (United States Of America; ID 21182),2024
+21192,Ahan Trivedi,Ahan Trivedi,Hong Kong,Hong Kong,Ahan Trivedi (Hong Kong; ID 21192),2022
+21194,Bilal Akhtar,Bilal Akhtar,Hong Kong,Hong Kong,Bilal Akhtar (Hong Kong; ID 21194),2022
+21196,Mohammad Waheed,Mohammad Waheed,Hong Kong,Hong Kong,Mohammad Waheed (Hong Kong; ID 21196),2025
+21197,Wajid Shah,Wajid Shah,Hong Kong,Hong Kong,Wajid Shah (Hong Kong; ID 21197),2022
+21283,Vikas Sharma,Vikas Sharma,Hong Kong,Hong Kong,Vikas Sharma (Hong Kong; ID 21283),2022
+21388,Martin Coetzee,Martin Coetzee,Hong Kong,Hong Kong,Martin Coetzee (Hong Kong; ID 21388),2025
+21777,Tafadzwa Tsiga,Tafadzwa Tsiga,Zimbabwe,Zimbabwe,Tafadzwa Tsiga (Zimbabwe; ID 21777),2026
+21780,Ernest Masuku,Ernest Masuku,Zimbabwe,Zimbabwe,Ernest Masuku (Zimbabwe; ID 21780),2026
+21781,Clive Madande,Clive Madande,Zimbabwe,Zimbabwe,Clive Madande (Zimbabwe; ID 21781),2026
+21784,Brad Evans,Brad Evans,Zimbabwe,Zimbabwe,Brad Evans (Zimbabwe; ID 21784),2026
+21786,Tanaka Chivanga,Tanaka Chivanga,Zimbabwe,Zimbabwe,Tanaka Chivanga (Zimbabwe; ID 21786),2026
+21787,Takudzwanashe Kaitano,Takudzwanashe Kaitano,Zimbabwe,Zimbabwe,Takudzwanashe Kaitano (Zimbabwe; ID 21787),2024
+21790,Tashinga Musekiwa,Tashinga Musekiwa,Zimbabwe,Zimbabwe,Tashinga Musekiwa (Zimbabwe; ID 21790),2026
+21791,J Gumbie,J Gumbie,Zimbabwe,Zimbabwe,J Gumbie (Zimbabwe; ID 21791),2024
+21978,Amir Naqvi,Amir Naqvi,Zimbabwe,Zimbabwe,Amir Naqvi (Zimbabwe; ID 21978),2024
+22134,Luke Jongwe,Luke Jongwe,Zimbabwe,Zimbabwe,Luke Jongwe (Zimbabwe; ID 22134),2024
+22137,Fionn Hand,Fionn Hand,Ireland,Ireland,Fionn Hand (Ireland; ID 22137),2025
+22187,Ryan Klein,Ryan Klein,Netherlands,Netherlands,Ryan Klein (Netherlands; ID 22187),2025
+22188,Aryan Dutt,Aryan Dutt,Netherlands,Netherlands,Aryan Dutt (Netherlands; ID 22188),2025
+22189,Musa Ahmad,Musa Ahmad,Netherlands,Netherlands,Musa Ahmad (Netherlands; ID 22189),2024
+22471,Matthew Humphreys,Matthew Humphreys,Ireland,Ireland,Matthew Humphreys (Ireland; ID 22471),2026
+22515,Shiran Fernando,Shiran Fernando,Sri Lanka,Sri Lanka,Shiran Fernando (Sri Lanka; ID 22515),2022
+22565,Muhammad Waseem,Muhammad Waseem,United Arab Emirates,United Arab Emirates,Muhammad Waseem (United Arab Emirates; ID 22565),2026
+22870,Abdul Gaffar,Abdul Gaffar,Bangladesh A,Bangladesh A,Abdul Gaffar (Bangladesh A; ID 22870),2025
+22920,Jacob Duffy,Jacob Duffy,New Zealand,New Zealand | Royal Challengers Bengaluru,Jacob Duffy (New Zealand; ID 22920),2026
+23195,Gavin Hoey,Gavin Hoey,Ireland,Ireland,Gavin Hoey (Ireland; ID 23195),2026
+23311,Jacob Bethell,Jacob Bethell,England,England | Royal Challengers Bengaluru,Jacob Bethell (England; ID 23311),2026
+23408,Amit Kumar,Amit Kumar,Sunrisers Hyderabad,Sunrisers Hyderabad,Amit Kumar (Sunrisers Hyderabad; ID 23408),2026
+23450,Sai Sudharsan,Sai Sudharsan,Gujarat Titans,Gujarat Titans | India,Sai Sudharsan (Gujarat Titans; ID 23450),2026
+23467,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,Chennai Super Kings | India A,Gurjapneet Singh (Chennai Super Kings; ID 23467),2026
+24017,Brian Bennett,Brian Bennett,Zimbabwe,Zimbabwe,Brian Bennett (Zimbabwe; ID 24017),2026
+24217,Sebastiaan Braat,Sebastiaan Braat,Netherlands,Netherlands,Sebastiaan Braat (Netherlands; ID 24217),2025
+24239,Rafiullah,Rafiullah,Oman,Oman,Rafiullah (Oman; ID 24239),2024
+24243,Ubaid Ullah,Ubaid Ullah,Oman,Oman,Ubaid Ullah (Oman; ID 24243),2025
+24245,Shoaib Khan,Shoaib Khan,Oman,Oman,Shoaib Khan (Oman; ID 24245),2024
+24346,Mohamed Shafeeq,Mohamed Shafeeq,Kuwait,Kuwait,Mohamed Shafeeq (Kuwait; ID 24346),2022
+24366,Kashyap Prajapati,Kashyap Prajapati,Oman,Oman,Kashyap Prajapati (Oman; ID 24366),2024
+24370,Pruthvikumar Damubhai,Pruthvikumar Damubhai,Oman,Oman,Pruthvikumar Damubhai (Oman; ID 24370),2025
+24372,Muzahir Raza,Muzahir Raza,Oman,Oman,Muzahir Raza (Oman; ID 24372),2025
+24381,Shariz Ahmad,Shariz Ahmad,Netherlands,Netherlands,Shariz Ahmad (Netherlands; ID 24381),2025
+24473,Sonny Baker,Sonny Baker,England,England,Sonny Baker (England; ID 24473),2026
+24475,Rehan Ahmed,Rehan Ahmed,England,England | Delhi Capitals,Rehan Ahmed (England; ID 24475),2026
+24479,James Coles,James Coles,England,England,James Coles (England; ID 24479),2026
+24489,Abhishek Paradkar,Abhishek Paradkar,United States Of America,United States Of America,Abhishek Paradkar (United States Of America; ID 24489),2024
+24754,Atif Mehmood,Atif Mehmood,England,England,Atif Mehmood (England; ID 24754),2023
+24767,Ripon Mondol,Ripon Mondol,Bangladesh,Bangladesh | Bangladesh A,Ripon Mondol (Bangladesh; ID 24767),2026
+24772,Suliman Safi,Suliman Safi,Afghanistan,Afghanistan,Suliman Safi (Afghanistan; ID 24772),2025
+24773,Bilal Ahmad Tarin,Bilal Ahmad Tarin,Afghanistan,Afghanistan,Bilal Ahmad Tarin (Afghanistan; ID 24773),2025
+24775,M.Naveed Zadran,M.Naveed Zadran,Afghanistan,Afghanistan,M.Naveed Zadran (Afghanistan; ID 24775),2024
+24779,Ijaz Ahmadzai,Ijaz Ahmadzai,Afghanistan,Afghanistan | Afghanistan A,Ijaz Ahmadzai (Afghanistan; ID 24779),2026
+24780,Yama Arab,Yama Arab,Afghanistan A,Afghanistan A,Yama Arab (Afghanistan A; ID 24780),2025
+24803,Gulshan Jha,Gulshan Jha,Nepal,Nepal,Gulshan Jha (Nepal; ID 24803),2026
+24812,Chris Greaves,Chris Greaves,Scotland,Scotland,Chris Greaves (Scotland; ID 24812),2024
+24887,Innocent Kaia,Innocent Kaia,Zimbabwe,Zimbabwe,Innocent Kaia (Zimbabwe; ID 24887),2026
+24978,Jack Jarvis,Jack Jarvis,Scotland,Scotland,Jack Jarvis (Scotland; ID 24978),2024
+24982,Charlie Tear,Charlie Tear,Scotland,Scotland,Charlie Tear (Scotland; ID 24982),2024
+25011,Liam Mccarthy,Liam Mccarthy,Ireland,Ireland,Liam Mccarthy (Ireland; ID 25011),2026
+25017,Olivier Elenbaas,Olivier Elenbaas,Netherlands,Netherlands,Olivier Elenbaas (Netherlands; ID 25017),2024
+25030,Zaman Khan,Zaman Khan,Pakistan A,Pakistan A | Pakistan,Zaman Khan (Pakistan A; ID 25030),2024
+25048,Umran Malik,Umran Malik,Kolkata Knight Riders,Kolkata Knight Riders | Sunrisers Hyderabad | India,Umran Malik (Kolkata Knight Riders; ID 25048),2026
+25063,Santosh Yadav,Santosh Yadav,Nepal,Nepal,Santosh Yadav (Nepal; ID 25063),2026
+25091,Ayan Khan,Ayan Khan,Oman,Oman,Ayan Khan (Oman; ID 25091),2024
+25128,Nqabayomzi Peter,Nqabayomzi Peter,South Africa,South Africa,Nqabayomzi Peter (South Africa; ID 25128),2025
+25132,Praful Hinge,Praful Hinge,Sunrisers Hyderabad,Sunrisers Hyderabad,Praful Hinge (Sunrisers Hyderabad; ID 25132),2026
+25138,Harsh Dubey,Harsh Dubey,India,India | Sunrisers Hyderabad | India A,Harsh Dubey (India; ID 25138),2026
+25139,Shubham Dubey,Shubham Dubey,Rajasthan Royals,Rajasthan Royals,Shubham Dubey (Rajasthan Royals; ID 25139),2026
+25213,Dewald Brevis,Dewald Brevis,Chennai Super Kings,Chennai Super Kings | South Africa | Mumbai Indians,Dewald Brevis (Chennai Super Kings; ID 25213),2026
+25216,Andile Simelane,Andile Simelane,South Africa,South Africa,Andile Simelane (South Africa; ID 25216),2026
+25231,Samay Shrivastava,Samay Shrivastava,Oman,Oman,Samay Shrivastava (Oman; ID 25231),2025
+25341,Mahfuzur Rabby,Mahfuzur Rabby,Bangladesh A,Bangladesh A,Mahfuzur Rabby (Bangladesh A; ID 25341),2025
+25353,Numan Shah,Numan Shah,Afghanistan A,Afghanistan A,Numan Shah (Afghanistan A; ID 25353),2024
+25369,Hashim Khalil Gurbaz,Hashim Khalil Gurbaz,Afghanistan,Afghanistan,Hashim Khalil Gurbaz (Afghanistan; ID 25369),2024
+25501,Meet Bhavsar,Meet Bhavsar,Kuwait,Kuwait,Meet Bhavsar (Kuwait; ID 25501),2022
+25502,Adnan Idrees,Adnan Idrees,Kuwait,Kuwait,Adnan Idrees (Kuwait; ID 25502),2022
+25503,Nawaf Ahmed,Nawaf Ahmed,Kuwait,Kuwait,Nawaf Ahmed (Kuwait; ID 25503),2022
+25507,Edson Silva,Edson Silva,Kuwait,Kuwait,Edson Silva (Kuwait; ID 25507),2022
+25534,Chad Bowes,Chad Bowes,New Zealand,New Zealand,Chad Bowes (New Zealand; ID 25534),2024
+25541,Michael Rippon,Michael Rippon,New Zealand,New Zealand,Michael Rippon (New Zealand; ID 25541),2023
+25554,Darren Walker,Darren Walker,England,England,Darren Walker (England; ID 25554),2023
+25667,Anunay Singh,Anunay Singh,Rajasthan Royals,Rajasthan Royals,Anunay Singh (Rajasthan Royals; ID 25667),2022
+25669,Priyansh Arya,Priyansh Arya,Punjab Kings,Punjab Kings | India A,Priyansh Arya (Punjab Kings; ID 25669),2026
+25679,Salil Arora,Salil Arora,Sunrisers Hyderabad,Sunrisers Hyderabad,Salil Arora (Sunrisers Hyderabad; ID 25679),2026
+25787,Khuzaima Tanvir,Khuzaima Tanvir,United Arab Emirates,United Arab Emirates,Khuzaima Tanvir (United Arab Emirates; ID 25787),2026
+25809,Juanoy Drysdale,Juanoy Drysdale,United States Of America,United States Of America,Juanoy Drysdale (United States Of America; ID 25809),2024
+26197,Avinash Singh,Avinash Singh,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Avinash Singh (Royal Challengers Bengaluru; ID 26197),2023
+26514,Nimesh Vimukthi,Nimesh Vimukthi,Sri Lanka A,Sri Lanka A,Nimesh Vimukthi (Sri Lanka A; ID 26514),2024
+26519,Janith Liyanage,Janith Liyanage,Sri Lanka,Sri Lanka,Janith Liyanage (Sri Lanka; ID 26519),2026
+26530,Treveen Mathew,Treveen Mathew,Sri Lanka,Sri Lanka | Sri Lanka A,Treveen Mathew (Sri Lanka; ID 26530),2026
+26646,Rahul Chopra,Rahul Chopra,United Arab Emirates,United Arab Emirates,Rahul Chopra (United Arab Emirates; ID 26646),2026
+26663,Kwena Maphaka,Kwena Maphaka,Rajasthan Royals,Rajasthan Royals | South Africa | Mumbai Indians,Kwena Maphaka (Rajasthan Royals; ID 26663),2026
+26728,Jordan Hermann,Jordan Hermann,South Africa,South Africa,Jordan Hermann (South Africa; ID 26728),2026
+26795,Joel Davies,Joel Davies,Australia,Australia,Joel Davies (Australia; ID 26795),2026
+26830,Nishant Kumar Sindhu,Nishant Kumar Sindhu,Gujarat Titans,Gujarat Titans | India A | Chennai Super Kings,Nishant Kumar Sindhu (Gujarat Titans; ID 26830),2026
+26832,Aneeshwar Gautam Narendra,Aneeshwar Gautam Narendra,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Aneeshwar Gautam Narendra (Royal Challengers Bengaluru; ID 26832),2022
+26834,Raj Bawa,Raj Bawa,Mumbai Indians,Mumbai Indians | Punjab Kings,Raj Bawa (Mumbai Indians; ID 26834),2026
+26836,Vicky Ostwal,Vicky Ostwal,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Delhi Capitals,Vicky Ostwal (Royal Challengers Bengaluru; ID 26836),2026
+26839,Haseebullah Khan,Haseebullah Khan,Pakistan,Pakistan | Pakistan A,Haseebullah Khan (Pakistan; ID 26839),2024
+26843,Maaz Sadaqat,Maaz Sadaqat,Pakistan,Pakistan | Pakistan A,Maaz Sadaqat (Pakistan; ID 26843),2026
+26845,Mehran Mumtaz,Mehran Mumtaz,Pakistan A,Pakistan A,Mehran Mumtaz (Pakistan A; ID 26845),2024
+26848,Ghazi Ghouri,Ghazi Ghouri,Pakistan A,Pakistan A,Ghazi Ghouri (Pakistan A; ID 26848),2025
+26854,SM Meherob Hasan,SM Meherob Hasan,Bangladesh A,Bangladesh A,SM Meherob Hasan (Bangladesh A; ID 26854),2025
+26858,Ariful Islam,Ariful Islam,Bangladesh A,Bangladesh A,Ariful Islam (Bangladesh A; ID 26858),2025
+26861,Reuben Wilson,Reuben Wilson,Ireland,Ireland,Reuben Wilson (Ireland; ID 26861),2026
+26906,Angkrish Raghuvanshi,Angkrish Raghuvanshi,Kolkata Knight Riders,Kolkata Knight Riders,Angkrish Raghuvanshi (Kolkata Knight Riders; ID 26906),2026
+26909,Yash Dhull,Yash Dhull,Delhi Capitals,Delhi Capitals,Yash Dhull (Delhi Capitals; ID 26909),2024
+26911,Harnoor Pannu,Harnoor Pannu,Punjab Kings,Punjab Kings,Harnoor Pannu (Punjab Kings; ID 26911),2026
+26913,Shaik Rasheed,Shaik Rasheed,India A,India A | Chennai Super Kings,Shaik Rasheed (India A; ID 26913),2025
+26916,Yasir Mohammad,Yasir Mohammad,United States Of America,United States Of America,Yasir Mohammad (United States Of America; ID 26916),2024
+26922,Ashish Odedra,Ashish Odedra,Oman,Oman,Ashish Odedra (Oman; ID 26922),2025
+26988,Jitenkumar Ramanandi,Jitenkumar Ramanandi,Oman,Oman,Jitenkumar Ramanandi (Oman; ID 26988),2025
+27004,Hassnain Shah,Hassnain Shah,Oman,Oman,Hassnain Shah (Oman; ID 27004),2025
+27057,Pratik Athavale,Pratik Athavale,Oman,Oman,Pratik Athavale (Oman; ID 27057),2024
+27059,Karan Sonavale,Karan Sonavale,Oman,Oman,Karan Sonavale (Oman; ID 27059),2025
+27071,Vinayak Shukla,Vinayak Shukla,Oman,Oman,Vinayak Shukla (Oman; ID 27071),2025
+27137,Hammad Mirza,Hammad Mirza,Oman,Oman,Hammad Mirza (Oman; ID 27137),2025
+27146,Imran Muhammad,Imran Muhammad,Oman,Oman,Imran Muhammad (Oman; ID 27146),2025
+27259,Jishan Alam,Jishan Alam,Bangladesh A,Bangladesh A,Jishan Alam (Bangladesh A; ID 27259),2025
+27364,Simranjeet Kang,Simranjeet Kang,United Arab Emirates,United Arab Emirates,Simranjeet Kang (United Arab Emirates; ID 27364),2026
+27373,Muhammad Farooq,Muhammad Farooq,United Arab Emirates,United Arab Emirates,Muhammad Farooq (United Arab Emirates; ID 27373),2026
+27380,Harshit Kaushik,Harshit Kaushik,United Arab Emirates,United Arab Emirates | Kolkata Knight Riders,Harshit Kaushik (United Arab Emirates; ID 27380),2026
+27390,Matiullah Khan,Matiullah Khan,United Arab Emirates,United Arab Emirates,Matiullah Khan (United Arab Emirates; ID 27390),2025
+27391,Vishnu Sukumaran,Vishnu Sukumaran,United Arab Emirates,United Arab Emirates,Vishnu Sukumaran (United Arab Emirates; ID 27391),2024
+27460,Ali Naseer,Ali Naseer,United Arab Emirates,United Arab Emirates,Ali Naseer (United Arab Emirates; ID 27460),2023
+27462,Adhitya Shetty,Adhitya Shetty,United Arab Emirates,United Arab Emirates,Adhitya Shetty (United Arab Emirates; ID 27462),2022
+27464,Aayan Afzal Khan,Aayan Afzal Khan,United Arab Emirates,United Arab Emirates,Aayan Afzal Khan (United Arab Emirates; ID 27464),2025
+27465,Nilansh Keswani,Nilansh Keswani,United Arab Emirates,United Arab Emirates,Nilansh Keswani (United Arab Emirates; ID 27465),2026
+27466,Dhruv Parashar,Dhruv Parashar,United Arab Emirates,United Arab Emirates,Dhruv Parashar (United Arab Emirates; ID 27466),2026
+27469,Aryansh Sharma,Aryansh Sharma,United Arab Emirates,United Arab Emirates,Aryansh Sharma (United Arab Emirates; ID 27469),2026
+27471,Jash Giyanani,Jash Giyanani,United Arab Emirates,United Arab Emirates,Jash Giyanani (United Arab Emirates; ID 27471),2026
+27504,Dushan Hemantha,Dushan Hemantha,Sri Lanka,Sri Lanka | Sri Lanka A,Dushan Hemantha (Sri Lanka; ID 27504),2025
+27516,Ihsanullah Ihsanullah,Ihsanullah Ihsanullah,Pakistan,Pakistan,Ihsanullah Ihsanullah (Pakistan; ID 27516),2023
+27517,Yasir Khan,Yasir Khan,Pakistan A,Pakistan A,Yasir Khan (Pakistan A; ID 27517),2025
+27743,DT Doram,DT Doram,Netherlands,Netherlands,DT Doram (Netherlands; ID 27743),2025
+27956,Prashant Solanki,Prashant Solanki,Kolkata Knight Riders,Kolkata Knight Riders | Chennai Super Kings,Prashant Solanki (Kolkata Knight Riders; ID 27956),2026
+27959,Hrithik Shokeen,Hrithik Shokeen,India A,India A | Mumbai Indians,Hrithik Shokeen (India A; ID 27959),2024
+27960,Mayank Yadav,Mayank Yadav,India,India | Lucknow Super Giants,Mayank Yadav (India; ID 27960),2026
+27962,Saurav Chauhan,Saurav Chauhan,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Saurav Chauhan (Royal Challengers Bengaluru; ID 27962),2024
+27964,Anshul Kamboj,Anshul Kamboj,Chennai Super Kings,Chennai Super Kings | India A | Mumbai Indians,Anshul Kamboj (Chennai Super Kings; ID 27964),2026
+27970,Gurnoor Brar,Gurnoor Brar,Gujarat Titans,Gujarat Titans | India A | Punjab Kings,Gurnoor Brar (Gujarat Titans; ID 27970),2026
+27987,Rishiv Joshi,Rishiv Joshi,Canada,Canada,Rishiv Joshi (Canada; ID 27987),2024
+28018,Ashok Sharma,Ashok Sharma,India,India | Gujarat Titans | Rajasthan Royals | Kolkata Knight Riders,Ashok Sharma (India; ID 28018),2026
+28019,Ramesh Kumar,Ramesh Kumar,Kolkata Knight Riders,Kolkata Knight Riders,Ramesh Kumar (Kolkata Knight Riders; ID 28019),2022
+28020,Shubham Garhwal,Shubham Garhwal,Rajasthan Royals,Rajasthan Royals,Shubham Garhwal (Rajasthan Royals; ID 28020),2022
+28021,Saurabh Dubey,Saurabh Dubey,Kolkata Knight Riders,Kolkata Knight Riders | Sunrisers Hyderabad,Saurabh Dubey (Kolkata Knight Riders; ID 28021),2026
+28185,Kamil Pooran,Kamil Pooran,West Indies,West Indies,Kamil Pooran (West Indies; ID 28185),2026
+28655,Muhammad Rohid,Muhammad Rohid,United Arab Emirates,United Arab Emirates,Muhammad Rohid (United Arab Emirates; ID 28655),2026
+28664,Zahid Ali,Zahid Ali,United Arab Emirates,United Arab Emirates,Zahid Ali (United Arab Emirates; ID 28664),2025
+28756,Haider Ali,Haider Ali,United Arab Emirates,United Arab Emirates,Haider Ali (United Arab Emirates; ID 28756),2026
+28788,Tanish Suri,Tanish Suri,United Arab Emirates,United Arab Emirates,Tanish Suri (United Arab Emirates; ID 28788),2024
+28908,Vincent Masekesa,Vincent Masekesa,Zimbabwe,Zimbabwe,Vincent Masekesa (Zimbabwe; ID 28908),2026
+28911,John Masara,John Masara,Zimbabwe,Zimbabwe,John Masara (Zimbabwe; ID 28911),2022
+28915,Trevor Gwandu,Trevor Gwandu,Zimbabwe,Zimbabwe,Trevor Gwandu (Zimbabwe; ID 28915),2025
+28967,Tim Robinson,Tim Robinson,New Zealand,New Zealand,Tim Robinson (New Zealand; ID 28967),2026
+28970,Connor Esterhuizen,Connor Esterhuizen,South Africa,South Africa | Gujarat Titans,Connor Esterhuizen (South Africa; ID 28970),2026
+28978,Muhammad Farooq,Muhammad Farooq,United Arab Emirates,United Arab Emirates,Muhammad Farooq (United Arab Emirates; ID 28978),2024
+29066,Zakary Foulkes,Zakary Foulkes,New Zealand,New Zealand | Chennai Super Kings,Zakary Foulkes (New Zealand; ID 29066),2026
+29075,Aadil Ansari,Aadil Ansari,Nepal,Nepal,Aadil Ansari (Nepal; ID 29075),2025
+29080,Muhammad Khan,Muhammad Khan,United Arab Emirates,United Arab Emirates,Muhammad Khan (United Arab Emirates; ID 29080),2025
+29558,Muhammad Arfan,Muhammad Arfan,United Arab Emirates,United Arab Emirates,Muhammad Arfan (United Arab Emirates; ID 29558),2026
+29699,Ibrahim Takahashi,Ibrahim Takahashi,Japan,Japan,Ibrahim Takahashi (Japan; ID 29699),2026
+29706,Wataru Miyauchi,Wataru Miyauchi,Japan,Japan,Wataru Miyauchi (Japan; ID 29706),2026
+29709,Reo Sakurano,Reo Sakurano,Japan,Japan,Reo Sakurano (Japan; ID 29709),2026
+29833,Bashir Ahmad,Bashir Ahmad,Afghanistan,Afghanistan,Bashir Ahmad (Afghanistan; ID 29833),2025
+29834,Basir Ahamad,Basir Ahamad,Nepal,Nepal,Basir Ahamad (Nepal; ID 29834),2026
+29862,Ali Hassan,Ali Hassan,Hong Kong,Hong Kong,Ali Hassan (Hong Kong; ID 29862),2025
+29888,Harshit Rana,Harshit Rana,India,India | Kolkata Knight Riders,Harshit Rana (India; ID 29888),2026
+30925,Bradley Currie,Bradley Currie,Scotland,Scotland,Bradley Currie (Scotland; ID 30925),2024
+30927,Saiteja Mukkamalla,Saiteja Mukkamalla,United States Of America,United States Of America,Saiteja Mukkamalla (United States Of America; ID 30927),2024
+31107,Yasin Patel,Yasin Patel,Kuwait,Kuwait,Yasin Patel (Kuwait; ID 31107),2022
+31156,Shahrukh Quddus,Shahrukh Quddus,Kuwait,Kuwait,Shahrukh Quddus (Kuwait; ID 31156),2022
+31205,Ruchit Ahir,Ruchit Ahir,Mumbai Indians,Mumbai Indians,Ruchit Ahir (Mumbai Indians; ID 31205),2026
+31227,Vidhwath Kaverappa,Vidhwath Kaverappa,Punjab Kings,Punjab Kings,Vidhwath Kaverappa (Punjab Kings; ID 31227),2024
+31513,Ethan Dsouza,Ethan Dsouza,United Arab Emirates,United Arab Emirates,Ethan Dsouza (United Arab Emirates; ID 31513),2025
+31518,Akshat Raghuwanshi,Akshat Raghuwanshi,Lucknow Super Giants,Lucknow Super Giants,Akshat Raghuwanshi (Lucknow Super Giants; ID 31518),2026
+31529,Robin Minz,Robin Minz,Mumbai Indians,Mumbai Indians | Gujarat Titans,Robin Minz (Mumbai Indians; ID 31529),2026
+31834,Neil Anant Karnik,Neil Anant Karnik,Singapore,Singapore,Neil Anant Karnik (Singapore; ID 31834),2022
+31835,Akshay Roopak Puri,Akshay Roopak Puri,Singapore,Singapore,Akshay Roopak Puri (Singapore; ID 31835),2022
+31836,Aman Desai,Aman Desai,Singapore,Singapore,Aman Desai (Singapore; ID 31836),2022
+32244,Tripurana Vijay,Tripurana Vijay,Delhi Capitals,Delhi Capitals,Tripurana Vijay (Delhi Capitals; ID 32244),2026
+32399,Aaron Johnson,Aaron Johnson,Canada,Canada,Aaron Johnson (Canada; ID 32399),2024
+32401,Akhil Kumar,Akhil Kumar,Canada,Canada,Akhil Kumar (Canada; ID 32401),2024
+32705,Faridoon Dawoodzai,Faridoon Dawoodzai,Afghanistan,Afghanistan | Afghanistan A,Faridoon Dawoodzai (Afghanistan; ID 32705),2026
+32862,Allah Ghazanfar,Allah Ghazanfar,Afghanistan,Afghanistan | Mumbai Indians | Afghanistan A | Kolkata Knight Riders,Allah Ghazanfar (Afghanistan; ID 32862),2026
+33009,John Turner,John Turner,England,England,John Turner (England; ID 33009),2024
+33067,Ravichandran Smaran,Ravichandran Smaran,Sunrisers Hyderabad,Sunrisers Hyderabad,Ravichandran Smaran (Sunrisers Hyderabad; ID 33067),2026
+33095,Macneil Noronha,Macneil Noronha,Chennai Super Kings,Chennai Super Kings,Macneil Noronha (Chennai Super Kings; ID 33095),2026
+33114,Milan Rathnayake,Milan Rathnayake,Sri Lanka,Sri Lanka | Sri Lanka A,Milan Rathnayake (Sri Lanka; ID 33114),2026
+33351,Vikas Puri,Vikas Puri,Singapore,Singapore,Vikas Puri (Singapore; ID 33351),2022
+33437,Jeevan Santhanam,Jeevan Santhanam,Singapore,Singapore,Jeevan Santhanam (Singapore; ID 33437),2022
+33438,Vihaan Maheshwar,Vihaan Maheshwar,Singapore,Singapore,Vihaan Maheshwar (Singapore; ID 33438),2022
+33439,Aryaveer Chaudhry,Aryaveer Chaudhry,Singapore,Singapore,Aryaveer Chaudhry (Singapore; ID 33439),2022
+33440,Adwitya Bhargava,Adwitya Bhargava,Singapore,Singapore,Adwitya Bhargava (Singapore; ID 33440),2022
+33441,Abdul Rahman Bhadelia,Abdul Rahman Bhadelia,Singapore,Singapore,Abdul Rahman Bhadelia (Singapore; ID 33441),2022
+33442,Fahad Choudhary,Fahad Choudhary,United Arab Emirates,United Arab Emirates,Fahad Choudhary (United Arab Emirates; ID 33442),2022
+33443,Sabir Ali,Sabir Ali,United Arab Emirates,United Arab Emirates,Sabir Ali (United Arab Emirates; ID 33443),2022
+33523,Arjun Saud,Arjun Saud,Nepal,Nepal,Arjun Saud (Nepal; ID 33523),2026
+33675,Mohammad Naeem,Mohammad Naeem,Pakistan A,Pakistan A,Mohammad Naeem (Pakistan A; ID 33675),2025
+33969,Tinotenda Maposa,Tinotenda Maposa,Zimbabwe,Zimbabwe,Tinotenda Maposa (Zimbabwe; ID 33969),2026
+34118,Irfan Taufiq,Irfan Taufiq,Rajasthan Royals,Rajasthan Royals,Irfan Taufiq (Rajasthan Royals; ID 34118),2022
+34466,Arafat Minhas,Arafat Minhas,Pakistan,Pakistan | Pakistan A,Arafat Minhas (Pakistan; ID 34466),2026
+34485,Sufiyan Muqeem,Sufiyan Muqeem,Pakistan,Pakistan | Pakistan A,Sufiyan Muqeem (Pakistan; ID 34485),2026
+34522,Brandon McMullen,Brandon McMullen,Scotland,Scotland,Brandon McMullen (Scotland; ID 34522),2024
+34527,Jasper John Davidson,Jasper John Davidson,Scotland,Scotland,Jasper John Davidson (Scotland; ID 34527),2024
+34543,Darsh Vora,Darsh Vora,Hong Kong,Hong Kong,Darsh Vora (Hong Kong; ID 34543),2024
+34546,Aryan Bisht,Aryan Bisht,Oman,Oman,Aryan Bisht (Oman; ID 34546),2025
+34694,Haroon Shahid,Haroon Shahid,Kuwait,Kuwait,Haroon Shahid (Kuwait; ID 34694),2022
+34880,Saad Masood,Saad Masood,Pakistan A,Pakistan A,Saad Masood (Pakistan A; ID 34880),2025
+34910,Hassan Eisakhil,Hassan Eisakhil,Afghanistan A,Afghanistan A,Hassan Eisakhil (Afghanistan A; ID 34910),2024
+34928,Kendel Fleming,Kendel Fleming,Japan,Japan,Kendel Fleming (Japan; ID 34928),2026
+34929,Lachlan Lake,Lachlan Lake,Japan,Japan,Lachlan Lake (Japan; ID 34929),2026
+34957,Jafer Chohan,Jafer Chohan,England,England,Jafer Chohan (England; ID 34957),2024
+34969,Manav Suthar,Manav Suthar,Gujarat Titans,Gujarat Titans,Manav Suthar (Gujarat Titans; ID 34969),2026
+34991,Rajan Kumar,Rajan Kumar,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajan Kumar (Royal Challengers Bengaluru; ID 34991),2024
+35071,Kunal Rathore,Kunal Rathore,Rajasthan Royals,Rajasthan Royals,Kunal Rathore (Rajasthan Royals; ID 35071),2025
+35072,Ramakrishna Ghosh,Ramakrishna Ghosh,Chennai Super Kings,Chennai Super Kings,Ramakrishna Ghosh (Chennai Super Kings; ID 35072),2026
+35102,Zikria Islam,Zikria Islam,Oman,Oman,Zikria Islam (Oman; ID 35102),2025
+35120,Narayan Saishiv,Narayan Saishiv,Oman,Oman,Narayan Saishiv (Oman; ID 35120),2025
+35122,Shah Faisal,Shah Faisal,Oman,Oman,Shah Faisal (Oman; ID 35122),2025
+35133,Sufyan Yousuf,Sufyan Yousuf,Oman,Oman,Sufyan Yousuf (Oman; ID 35133),2025
+35318,Sakib Hussain,Sakib Hussain,Sunrisers Hyderabad,Sunrisers Hyderabad | Kolkata Knight Riders,Sakib Hussain (Sunrisers Hyderabad; ID 35318),2026
+35506,Quentin Sampson,Quentin Sampson,West Indies,West Indies,Quentin Sampson (West Indies; ID 35506),2026
+36033,Muhammad Shahdad,Muhammad Shahdad,United Arab Emirates,United Arab Emirates,Muhammad Shahdad (United Arab Emirates; ID 36033),2026
+36153,Syed Haider,Syed Haider,United Arab Emirates,United Arab Emirates,Syed Haider (United Arab Emirates; ID 36153),2024
+36328,Mangesh Yadav,Mangesh Yadav,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mangesh Yadav (Royal Challengers Bengaluru; ID 36328),2026
+36551,Zishan Motara,Zishan Motara,West Indies,West Indies,Zishan Motara (West Indies; ID 36551),2025
+36553,Jediah Blades,Jediah Blades,West Indies,West Indies,Jediah Blades (West Indies; ID 36553),2025
+36981,Himanshu Sharma,Himanshu Sharma,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Himanshu Sharma (Royal Challengers Bengaluru; ID 36981),2024
+36982,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,Royal Challengers Bengaluru | India A | Kolkata Knight Riders,Suyash Sharma (Royal Challengers Bengaluru; ID 36982),2026
+36983,Mohit Rathee,Mohit Rathee,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Punjab Kings,Mohit Rathee (Royal Challengers Bengaluru; ID 36983),2025
+36984,Raghav Goyal,Raghav Goyal,Mumbai Indians,Mumbai Indians,Raghav Goyal (Mumbai Indians; ID 36984),2023
+37052,Naman Dhir,Naman Dhir,India,India | Mumbai Indians | India A,Naman Dhir (India; ID 37052),2026
+37201,Jewel Andrew,Jewel Andrew,West Indies,West Indies,Jewel Andrew (West Indies; ID 37201),2026
+37311,Shiv Mathur,Shiv Mathur,Hong Kong,Hong Kong,Shiv Mathur (Hong Kong; ID 37311),2025
+37559,Nadeem Khan,Nadeem Khan,Oman,Oman,Nadeem Khan (Oman; ID 37559),2025
+37572,Shafiq Jan,Shafiq Jan,Oman,Oman,Shafiq Jan (Oman; ID 37572),2025
+37621,Rajab Hussain,Rajab Hussain,Hong Kong,Hong Kong,Rajab Hussain (Hong Kong; ID 37621),2024
+37731,Musheer Khan,Musheer Khan,Punjab Kings,Punjab Kings,Musheer Khan (Punjab Kings; ID 37731),2026
+37879,Khawaja Nafay,Khawaja Nafay,Pakistan,Pakistan,Khawaja Nafay (Pakistan; ID 37879),2026
+37939,Nahid Rana,Nahid Rana,Bangladesh,Bangladesh,Nahid Rana (Bangladesh; ID 37939),2026
+38044,Mahli Beardman,Mahli Beardman,Australia,Australia,Mahli Beardman (Australia; ID 38044),2026
+38050,Isitha Wijesundera,Isitha Wijesundera,Sri Lanka A,Sri Lanka A,Isitha Wijesundera (Sri Lanka A; ID 38050),2025
+38855,Mohammad Saifuddin,Mohammad Saifuddin,Bangladesh,Bangladesh,Mohammad Saifuddin (Bangladesh; ID 38855),2026
+39374,Muhammad Zohaib,Muhammad Zohaib,United Arab Emirates,United Arab Emirates,Muhammad Zohaib (United Arab Emirates; ID 39374),2026
+39444,Basil Hameed,Basil Hameed,United Arab Emirates,United Arab Emirates,Basil Hameed (United Arab Emirates; ID 39444),2024
+39455,Maruf Mridha,Maruf Mridha,Bangladesh A,Bangladesh A,Maruf Mridha (Bangladesh A; ID 39455),2024
+39461,Wasi Sddiquee,Wasi Sddiquee,Bangladesh A,Bangladesh A,Wasi Sddiquee (Bangladesh A; ID 39461),2024
+39479,Bashir Ahmad,Bashir Ahmad,Afghanistan A,Afghanistan A,Bashir Ahmad (Afghanistan A; ID 39479),2024
+39630,Dinura Kalupahana,Dinura Kalupahana,Sri Lanka A,Sri Lanka A,Dinura Kalupahana (Sri Lanka A; ID 39630),2024
+39637,Garuka Sanketh,Garuka Sanketh,Sri Lanka A,Sri Lanka A,Garuka Sanketh (Sri Lanka A; ID 39637),2025
+39638,Vishen Halambage,Vishen Halambage,Sri Lanka A,Sri Lanka A | Sri Lanka,Vishen Halambage (Sri Lanka A; ID 39638),2025
+39640,Sineth Jayawardena,Sineth Jayawardena,Sri Lanka,Sri Lanka,Sineth Jayawardena (Sri Lanka; ID 39640),2026
+39648,Sohan de Livera,Sohan de Livera,Sri Lanka A,Sri Lanka A,Sohan de Livera (Sri Lanka A; ID 39648),2025
+39657,Eshan Malinga,Eshan Malinga,Sri Lanka,Sri Lanka | Sunrisers Hyderabad | Sri Lanka A,Eshan Malinga (Sri Lanka; ID 39657),2026
+39672,Aarya Desai,Aarya Desai,Kolkata Knight Riders,Kolkata Knight Riders,Aarya Desai (Kolkata Knight Riders; ID 39672),2023
+39991,Parveen Kumar,Parveen Kumar,Canada,Canada,Parveen Kumar (Canada; ID 39991),2024
+40391,Mohammad Faraz Jafri,Mohammad Faraz Jafri,United Arab Emirates,United Arab Emirates,Mohammad Faraz Jafri (United Arab Emirates; ID 40391),2025
+41110,Mayank Kumar,Mayank Kumar,United Arab Emirates,United Arab Emirates,Mayank Kumar (United Arab Emirates; ID 41110),2026
+41503,Yash Punja,Yash Punja,Rajasthan Royals,Rajasthan Royals,Yash Punja (Rajasthan Royals; ID 41503),2026
+41509,Yayin Rai,Yayin Rai,United Arab Emirates,United Arab Emirates,Yayin Rai (United Arab Emirates; ID 41509),2025
+41541,Declan Suzuki,Declan Suzuki,Japan,Japan,Declan Suzuki (Japan; ID 41541),2026
+41863,Josh Hull,Josh Hull,England,England,Josh Hull (England; ID 41863),2024
+42548,Muhammad Jawadullah,Muhammad Jawadullah,United Arab Emirates,United Arab Emirates,Muhammad Jawadullah (United Arab Emirates; ID 42548),2026
+42810,Noah Croes,Noah Croes,Netherlands,Netherlands,Noah Croes (Netherlands; ID 42810),2025
+42811,Michael Levitt,Michael Levitt,Netherlands,Netherlands,Michael Levitt (Netherlands; ID 42811),2024
+42845,Arshin Kulkarni,Arshin Kulkarni,Lucknow Super Giants,Lucknow Super Giants,Arshin Kulkarni (Lucknow Super Giants; ID 42845),2026
+43250,Dilpreet Singh Bajwa,Dilpreet Singh Bajwa,Canada,Canada,Dilpreet Singh Bajwa (Canada; ID 43250),2024
+43774,Shivam Singh,Shivam Singh,Punjab Kings,Punjab Kings,Shivam Singh (Punjab Kings; ID 43774),2024
+43798,Lhuan Pretorius,Lhuan Pretorius,Rajasthan Royals,Rajasthan Royals | South Africa,Lhuan Pretorius (Rajasthan Royals; ID 43798),2026
+43917,Krish Bhagat,Krish Bhagat,Mumbai Indians,Mumbai Indians,Krish Bhagat (Mumbai Indians; ID 43917),2026
+43965,Emanjot Singh Chahal,Emanjot Singh Chahal,Rajasthan Royals,Rajasthan Royals,Emanjot Singh Chahal (Rajasthan Royals; ID 43965),2026
+43967,Vishwanath Singh,Vishwanath Singh,Punjab Kings,Punjab Kings,Vishwanath Singh (Punjab Kings; ID 43967),2024
+43996,Vihaan Malhotra,Vihaan Malhotra,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Vihaan Malhotra (Royal Challengers Bengaluru; ID 43996),2026
+44003,Mohammad Ibrahim,Mohammad Ibrahim,Afghanistan,Afghanistan,Mohammad Ibrahim (Afghanistan; ID 44003),2024
+44293,Jordan Neill,Jordan Neill,Ireland,Ireland,Jordan Neill (Ireland; ID 44293),2025
+44491,L Manvanth Kumar,L Manvanth Kumar,Delhi Capitals,Delhi Capitals,L Manvanth Kumar (Delhi Capitals; ID 44491),2025
+45022,Cedric De Lange,Cedric De Lange,Netherlands,Netherlands,Cedric De Lange (Netherlands; ID 45022),2025
+45381,PV Satyanarayan Raju,PV Satyanarayan Raju,Mumbai Indians,Mumbai Indians,PV Satyanarayan Raju (Mumbai Indians; ID 45381),2025
+45457,Zach Lion Cachet,Zach Lion Cachet,Netherlands,Netherlands,Zach Lion Cachet (Netherlands; ID 45457),2024
+45749,Mukul Choudhary,Mukul Choudhary,Lucknow Super Giants,Lucknow Super Giants,Mukul Choudhary (Lucknow Super Giants; ID 45749),2026
+45965,Naman Tiwari,Naman Tiwari,Lucknow Super Giants,Lucknow Super Giants,Naman Tiwari (Lucknow Super Giants; ID 45965),2026
+45966,Prashant Veer,Prashant Veer,Chennai Super Kings,Chennai Super Kings,Prashant Veer (Chennai Super Kings; ID 45966),2026
+45989,Swastik Chikara,Swastik Chikara,Royal Challengers Bengaluru,Royal Challengers Bengaluru | Delhi Capitals,Swastik Chikara (Royal Challengers Bengaluru; ID 45989),2025
+46066,Vipraj Nigam,Vipraj Nigam,India,India | Delhi Capitals,Vipraj Nigam (India; ID 46066),2026
+46137,Kartik Sharma,Kartik Sharma,Chennai Super Kings,Chennai Super Kings,Kartik Sharma (Chennai Super Kings; ID 46137),2026
+46378,Kyle Klein,Kyle Klein,Netherlands,Netherlands,Kyle Klein (Netherlands; ID 46378),2025
+46929,Dian Forrester,Dian Forrester,South Africa,South Africa | Chennai Super Kings,Dian Forrester (South Africa; ID 46929),2026
+46982,Shahid Aziz,Shahid Aziz,Pakistan A,Pakistan A,Shahid Aziz (Pakistan A; ID 46982),2025
+46996,Mohammad Faiq,Mohammad Faiq,Pakistan A,Pakistan A,Mohammad Faiq (Pakistan A; ID 46996),2025
+47017,Mohammad Jnr,Mohammad Jnr,Pakistan,Pakistan | Pakistan A,Mohammad Jnr (Pakistan; ID 47017),2026
+47050,Shamar Joseph,Shamar Joseph,West Indies,West Indies | Lucknow Super Giants,Shamar Joseph (West Indies; ID 47050),2026
+47259,Adeeb Usmani,Adeeb Usmani,United Arab Emirates,United Arab Emirates,Adeeb Usmani (United Arab Emirates; ID 47259),2026
+47291,Md Yousuf,Md Yousuf,Oman,Oman,Md Yousuf (Oman; ID 47291),2025
+47314,Wafiullah Tarakhil,Wafiullah Tarakhil,Afghanistan,Afghanistan | Afghanistan A,Wafiullah Tarakhil (Afghanistan; ID 47314),2026
+47370,Aniket Verma,Aniket Verma,Sunrisers Hyderabad,Sunrisers Hyderabad,Aniket Verma (Sunrisers Hyderabad; ID 47370),2026
+47371,Zuhaid Zubair,Zuhaid Zubair,United Arab Emirates,United Arab Emirates,Zuhaid Zubair (United Arab Emirates; ID 47371),2026
+47403,Newman Nyamhuri,Newman Nyamhuri,Zimbabwe,Zimbabwe,Newman Nyamhuri (Zimbabwe; ID 47403),2026
+47523,Aman Rao Perala,Aman Rao Perala,Rajasthan Royals,Rajasthan Royals,Aman Rao Perala (Rajasthan Royals; ID 47523),2026
+47542,Charles Hinze,Charles Hinze,Japan,Japan,Charles Hinze (Japan; ID 47542),2026
+47694,Omid Rahman,Omid Rahman,United Arab Emirates,United Arab Emirates,Omid Rahman (United Arab Emirates; ID 47694),2024
+47724,Jahandad Khan,Jahandad Khan,Pakistan,Pakistan,Jahandad Khan (Pakistan; ID 47724),2025
+48278,Ubaid Shah,Ubaid Shah,Pakistan A,Pakistan A,Ubaid Shah (Pakistan A; ID 48278),2025
+48504,Ayush Mhatre,Ayush Mhatre,Chennai Super Kings,Chennai Super Kings,Ayush Mhatre (Chennai Super Kings; ID 48504),2026
+48551,Aravelly Avanish,Aravelly Avanish,Chennai Super Kings,Chennai Super Kings,Aravelly Avanish (Chennai Super Kings; ID 48551),2024
+48555,Andre Siddharth,Andre Siddharth,Chennai Super Kings,Chennai Super Kings,Andre Siddharth (Chennai Super Kings; ID 48555),2025
+48557,Vignesh Puthur,Vignesh Puthur,Rajasthan Royals,Rajasthan Royals | Mumbai Indians,Vignesh Puthur (Rajasthan Royals; ID 48557),2026
+48575,Sahil Parakh,Sahil Parakh,Delhi Capitals,Delhi Capitals,Sahil Parakh (Delhi Capitals; ID 48575),2026
+48616,Abdul Saqlain,Abdul Saqlain,Bangladesh,Bangladesh | Bangladesh A,Abdul Saqlain (Bangladesh; ID 48616),2026
+48953,Danish Malewar,Danish Malewar,Mumbai Indians,Mumbai Indians,Danish Malewar (Mumbai Indians; ID 48953),2026
+49003,Hasan Nawaz,Hasan Nawaz,Pakistan,Pakistan,Hasan Nawaz (Pakistan; ID 49003),2026
+49027,Bevon Jacobs,Bevon Jacobs,New Zealand,New Zealand | Mumbai Indians,Bevon Jacobs (New Zealand; ID 49027),2026
+49265,Ahmed Tariq,Ahmed Tariq,United Arab Emirates,United Arab Emirates,Ahmed Tariq (United Arab Emirates; ID 49265),2025
+49268,Sohaib Khan,Sohaib Khan,United Arab Emirates,United Arab Emirates,Sohaib Khan (United Arab Emirates; ID 49268),2026
+49665,Prince Choudhary,Prince Choudhary,Punjab Kings,Punjab Kings,Prince Choudhary (Punjab Kings; ID 49665),2024
+49670,Vansh Bedi,Vansh Bedi,Chennai Super Kings,Chennai Super Kings,Vansh Bedi (Chennai Super Kings; ID 49670),2025
+50062,Nqobani Mokoena,Nqobani Mokoena,South Africa,South Africa,Nqobani Mokoena (South Africa; ID 50062),2026
+50226,Luke Watson,Luke Watson,New Zealand,New Zealand,Luke Watson (New Zealand; ID 50226),2024
+50284,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,India,India | Rajasthan Royals | India A,Vaibhav Sooryavanshi (India; ID 50284),2026
+52338,Usman Tariq,Usman Tariq,Pakistan,Pakistan,Usman Tariq (Pakistan; ID 52338),2026
+53426,Tofael Ahmed,Tofael Ahmed,Bangladesh A,Bangladesh A,Tofael Ahmed (Bangladesh A; ID 53426),2025
+54404,Benjamin Ito,Benjamin Ito,Japan,Japan,Benjamin Ito (Japan; ID 54404),2026
+54476,Jake Nairn,Jake Nairn,Japan,Japan,Jake Nairn (Japan; ID 54476),2026
+54518,Alester Fleming,Alester Fleming,Japan,Japan,Alester Fleming (Japan; ID 54518),2026
+55747,Benjamin Calitz,Benjamin Calitz,Ireland,Ireland,Benjamin Calitz (Ireland; ID 55747),2026
+56685,Abdullah Ahmadzai,Abdullah Ahmadzai,Afghanistan,Afghanistan | Afghanistan A,Abdullah Ahmadzai (Afghanistan; ID 56685),2026
+56800,Shivam Shukla,Shivam Shukla,Kolkata Knight Riders,Kolkata Knight Riders,Shivam Shukla (Kolkata Knight Riders; ID 56800),2025
+56817,Shivang Kumar,Shivang Kumar,Sunrisers Hyderabad,Sunrisers Hyderabad,Shivang Kumar (Sunrisers Hyderabad; ID 56817),2026
+56830,Madhav Tiwari,Madhav Tiwari,Delhi Capitals,Delhi Capitals,Madhav Tiwari (Delhi Capitals; ID 56830),2026
+57747,Charlie Cassell,Charlie Cassell,Scotland,Scotland,Charlie Cassell (Scotland; ID 57747),2024
+58134,Digvesh Rathi,Digvesh Rathi,Lucknow Super Giants,Lucknow Super Giants,Digvesh Rathi (Lucknow Super Giants; ID 58134),2026
+58135,Tejasvi Dahiya,Tejasvi Dahiya,Kolkata Knight Riders,Kolkata Knight Riders,Tejasvi Dahiya (Kolkata Knight Riders; ID 58135),2026
+58246,Prince Yadav,Prince Yadav,India,India | Lucknow Super Giants,Prince Yadav (India; ID 58246),2026
+58727,Abhinandan Singh,Abhinandan Singh,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Abhinandan Singh (Royal Challengers Bengaluru; ID 58727),2026
+58864,Vishal Nishad,Vishal Nishad,Punjab Kings,Punjab Kings,Vishal Nishad (Punjab Kings; ID 58864),2026
+59045,Jai Moondra,Jai Moondra,Ireland,Ireland,Jai Moondra (Ireland; ID 59045),2026
+59853,Ben Fletcher,Ben Fletcher,Netherlands,Netherlands,Ben Fletcher (Netherlands; ID 59853),2025
+60208,Shuaib Balushi,Shuaib Balushi,Oman,Oman,Shuaib Balushi (Oman; ID 60208),2025
+60609,Navin Bidaisee,Navin Bidaisee,West Indies,West Indies,Navin Bidaisee (West Indies; ID 60609),2025
+60689,Zawad Abrar,Zawad Abrar,Bangladesh A,Bangladesh A,Zawad Abrar (Bangladesh A; ID 60689),2025
+60700,Ravi Singh,Ravi Singh,Rajasthan Royals,Rajasthan Royals,Ravi Singh (Rajasthan Royals; ID 60700),2026
+62526,Krains Fuletra,Krains Fuletra,Sunrisers Hyderabad,Sunrisers Hyderabad,Krains Fuletra (Sunrisers Hyderabad; ID 62526),2026
+63136,Shadhin Islam,Shadhin Islam,Bangladesh A,Bangladesh A,Shadhin Islam (Bangladesh A; ID 63136),2025
+63497,RS Ambrish,RS Ambrish,Sunrisers Hyderabad,Sunrisers Hyderabad,RS Ambrish (Sunrisers Hyderabad; ID 63497),2026
+63779,Kavindu Dilhara,Kavindu Dilhara,Sri Lanka A,Sri Lanka A,Kavindu Dilhara (Sri Lanka A; ID 63779),2025
+64604,Kalhan Challu,Kalhan Challu,Hong Kong,Hong Kong,Kalhan Challu (Hong Kong; ID 64604),2025
+65598,Shoma Slater,Shoma Slater,Japan,Japan,Shoma Slater (Japan; ID 65598),2026
+66056,Ajay Kumar,Ajay Kumar,United Arab Emirates,United Arab Emirates,Ajay Kumar (United Arab Emirates; ID 66056),2026
+66103,Noor Rahman,Noor Rahman,Afghanistan,Afghanistan | Afghanistan A,Noor Rahman (Afghanistan; ID 66103),2026
+66513,Omkar Tarmale,Omkar Tarmale,Sunrisers Hyderabad,Sunrisers Hyderabad,Omkar Tarmale (Sunrisers Hyderabad; ID 66513),2026
+66540,Kanishk Chouhan,Kanishk Chouhan,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kanishk Chouhan (Royal Challengers Bengaluru; ID 66540),2026
+67036,Brijesh Sharma,Brijesh Sharma,Rajasthan Royals,Rajasthan Royals,Brijesh Sharma (Rajasthan Royals; ID 67036),2026
+67864,Matt Hollard,Matt Hollard,Ireland,Ireland,Matt Hollard (Ireland; ID 67864),2026
+68280,Satvik Deswal,Satvik Deswal,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Satvik Deswal (Royal Challengers Bengaluru; ID 68280),2026
+68410,Rahmatullah Zadran,Rahmatullah Zadran,Afghanistan A,Afghanistan A,Rahmatullah Zadran (Afghanistan A; ID 68410),2025
+69806,Mohammad Salman,Mohammad Salman,Pakistan A,Pakistan A,Mohammad Salman (Pakistan A; ID 69806),2025
+71016,Daksh Kamra,Daksh Kamra,Kolkata Knight Riders,Kolkata Knight Riders,Daksh Kamra (Kolkata Knight Riders; ID 71016),2026
+71107,Nimnaka Ratnayake,Nimnaka Ratnayake,Sri Lanka A,Sri Lanka A,Nimnaka Ratnayake (Sri Lanka A; ID 71107),2025
+71311,Mohd Izhar,Mohd Izhar,Mumbai Indians,Mumbai Indians,Mohd Izhar (Mumbai Indians; ID 71311),2026
+71727,Razaullah Razaullah,Razaullah Razaullah,Pakistan,Pakistan,Razaullah Razaullah (Pakistan; ID 71727),2026

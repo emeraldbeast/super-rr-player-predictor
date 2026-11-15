@@ -1,0 +1,12 @@
+{
+  "rows_with_expected_outcomes": 147084,
+  "validated_fold_rows": 435581,
+  "validation_folds": 8,
+  "reported_validation_seasons": [
+    2024,
+    2025,
+    2026
+  ],
+  "catboost_selected_share": 0.6666666666666666,
+  "model_choice_rows": 24
+}

@@ -1,0 +1,10 @@
+{
+  "delivery_rows": 200999,
+  "matches": 867,
+  "pressure_available_rows": 195707,
+  "high_pressure_rows": 48959,
+  "super_over_rows_excluded_from_pressure": 38,
+  "dls_matches_excluded_from_pressure": 38,
+  "maximum_scheduled_legal_balls_regular_innings": 120,
+  "pressure_quantile": 0.75
+}

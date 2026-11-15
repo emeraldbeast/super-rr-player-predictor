@@ -1,0 +1,50 @@
+{
+  "run_id": "5d5aea52086b08d7",
+  "created_utc": "2026-11-15T17:20:57.343407+00:00",
+  "config_path": "configs\\config.yaml",
+  "config_sha256": "052128e634bf145c550e726f4438c692ff66d43cee53cc2ace9bc0c350bd9612",
+  "deliveries_path": "data\\interim\\deliveries.parquet",
+  "deliveries_sha256": "57a0cb4a2d047e5ed5dbd21d241da24d37979207fda32cc99bd454131c8be5b0",
+  "source_sha256": {
+    "src\\superr\\__init__.py": "1215157e685dcc738e0400e9760452e706f087bbdd47f8ad9060feea9c9a8cb3",
+    "src\\superr\\audit.py": "ea41b2c1a52b4f1490651ffea748150daaa5ea33b31d7adf77f0258ddc18ef43",
+    "src\\superr\\deliveries.py": "7d7ad489766e931326f0c1168a772e5e73410a79c3177052a88b245b67840612",
+    "src\\superr\\expected.py": "02a632175bb2168edd5062adcef92fc062c50dcb28ffba2759cef22e26f8afb1",
+    "src\\superr\\io.py": "62245f24c22557fc465bc03c99e3970623ef005956c9f2bb6e96498f5886f7e9",
+    "src\\superr\\pressure.py": "a58c824bcac02070d98e2cbdf823558cd5dff065cc8c77d16de299ec6d17f8e9",
+    "src\\superr\\scoring.py": "a030772896e96b9300e79a18bf54e82fdcb5e105a61033935d9b32697bdffc1c",
+    "src\\superr\\state.py": "8d78d9f501b8f82b683c4c2ab598781c28dd88821812a0a669690ee572f26bae",
+    "src\\superr\\tables.py": "57fa0720fff6e49603f347ee1364f5217bbb4bc087a472a9fa9133a7d8cc86c4",
+    "scripts\\00_audit.py": "a00f88e61a57db7654a472231a825a00a1097d7e6923c643b49f8101005c0482",
+    "scripts\\01_build_deliveries.py": "af2a45874dcb4eeec0fe1d49e02c3e777d243f2a3a2ae51bcd46f87cb5073291",
+    "scripts\\02_build_pressure.py": "8e7f829ad9fc2e89e763e6fe5db834e31b10591d136b7afcfb9374b7e78877aa",
+    "scripts\\03_fit_models.py": "4f3e63f0fabb546e2e8e29db175f054546b9aa65cab129d05f8b07a645dd7463",
+    "scripts\\04_score_players.py": "357e418d060f258969a4fe832d677095839413c3a92c155773bc49f57b989e97",
+    "scripts\\package_phase1.py": "af58b51558739469e951b51564a066de03eca3c0591a97c7642c03392ef717b5",
+    "scripts\\run_phase2_3.py": "99d66bf1c066e07c96df4ce800226c34796df3c34968da8ff4dbca0d833c7fe0",
+    "tests\\test_phase1.py": "cf29ce7221257cdd42fd9ebba9b1591c9f1d49bd2c4a443284dea3eb3e9fe833",
+    "tests\\test_phase1_data.py": "96d8d88f9366a41ef8909cb23a33e72d2e6cba47495ed814f4cd760a5a7b8f41",
+    "tests\\test_phase2_state.py": "f227215e3401c1d7530173d08a6ff2222ff91e9c5c5533fa9230f83e6b5b6ea0",
+    "tests\\test_phase3_scoring.py": "0f9f1d22ad1006acca280ed161c314fe746fca85ce115fececb3edb627fa2ce0"
+  },
+  "artifact_sha256": {
+    "data/processed/model_table.parquet": "a3676dae800953fb25c6fe6e62fb2d304de44478342030571e59667348e0c9cf",
+    "data/processed/expected_outcomes_oof.parquet": "fe2e43612147a966290032de44837d9a774558b6dd9bf436601d9cd3888d730d",
+    "data/processed/chronological_validation_predictions.parquet": "9a4c84d0dc43a241e29dd575206fe4065ee47b793319f3af45b58fc60f341fa5",
+    "outputs/phase2_pressure_diagnostics.csv": "65ecbe2ee998b8186bf8426439cbc396309a4d6ac2ff5d603b77ae47ea634cc1",
+    "outputs/phase2_pressure_standardized.csv": "07cdf5a9901d522ddd2af3e48a8dcebf01381278dfdf50204c6a071db23751a0",
+    "outputs/phase3_validation_metrics.csv": "1953b0c1e4fd5cdec47101979d13a6de47d4072598cf085b7de5ed847fa0d812",
+    "outputs/phase3_model_choices.csv": "db1e9e72e85c035d43c91f4439dd365a9d72aab109cf97ba310dd7d55110f5e9",
+    "outputs/phase3_high_pressure_uplift.csv": "6c7cce7367059a6d536584239b0bfd5f4a1c1ee48cf25d6b39985baf288444ee",
+    "outputs/phase3_batting_candidate_rankings.csv": "a7618eebd2927ee7e7606419894833d852d11b0b591cec6213d4a64ebfce0864",
+    "outputs/phase3_bowling_candidate_rankings.csv": "53b91afb96f43f1a50caf37eb96481d5ef1a37c9f9a91ad617eb65cbb911aa74",
+    "outputs/top10_batters.csv": "d4adc6e341cafd19d1f6bea2fd1550d3da2e17827f52ef5f5c32c9a242c574ce",
+    "outputs/top10_bowlers.csv": "8cf814aff6087790dc5624fea91774240c5c882472f5e3def61d94e630e04dac"
+  },
+  "runtime": {
+    "python": "3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "catboost": "1.2.10"
+  }
+}

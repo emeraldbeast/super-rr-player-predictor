@@ -1,0 +1,15 @@
+match_id,team_id,player_id,player_name,display_name,role
+37087,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),striker
+37087,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),striker
+37092,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),striker
+37092,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),striker
+37095,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),striker
+37095,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),striker
+37087,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),non_striker
+37087,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),non_striker
+37092,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),non_striker
+37095,272,36153,Syed Haider,Syed Haider (United Arab Emirates; ID 36153),non_striker
+37095,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),non_striker
+37087,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),bowler
+37092,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),bowler
+37095,272,39444,Basil Hameed,Basil Hameed (United Arab Emirates; ID 39444),bowler

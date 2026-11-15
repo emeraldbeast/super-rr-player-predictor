@@ -1,0 +1,77 @@
+column,policy,use_note
+match_id,pre-ball safe,Available before outcome or stable match/player context.
+innings,pre-ball safe,Available before outcome or stable match/player context.
+overid,pre-ball safe,Available before outcome or stable match/player context.
+over_ball_num,pre-ball safe,Available before outcome or stable match/player context.
+innings_ball_num,pre-ball safe,Available before outcome or stable match/player context.
+batting_team_id,pre-ball safe,Available before outcome or stable match/player context.
+bowling_team_id,pre-ball safe,Available before outcome or stable match/player context.
+striker_id,pre-ball safe,Available before outcome or stable match/player context.
+striker_name,pre-ball safe,Available before outcome or stable match/player context.
+non_striker_id,pre-ball safe,Available before outcome or stable match/player context.
+non_striker_name,pre-ball safe,Available before outcome or stable match/player context.
+bowler_id,pre-ball safe,Available before outcome or stable match/player context.
+bowler_name,pre-ball safe,Available before outcome or stable match/player context.
+batting_type,pre-ball safe,Available before outcome or stable match/player context.
+bowling_type,pre-ball safe,Available before outcome or stable match/player context.
+batting_order,pre-ball safe,Available before outcome or stable match/player context.
+runs,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_four,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_six,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_wicket,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+dismissal_type_id,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+dismissal_type,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+dismissed_player_id,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+extras_type,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+extras1_runs,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+extras_2_runs,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+pace_or_spin,pre-ball safe,Available before outcome or stable match/player context.
+stroke,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+delivery_style,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+over_or_around,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+on_or_off,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+delivery_ist_time,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+comp_id,pre-ball safe,Available before outcome or stable match/player context.
+match_date,pre-ball safe,Available before outcome or stable match/player context.
+stage,pre-ball safe,Available before outcome or stable match/player context.
+knock_out,pre-ball safe,Available before outcome or stable match/player context.
+venue_country,pre-ball safe,Available before outcome or stable match/player context.
+first_inn_revised_overs,pre-ball safe,Available before outcome or stable match/player context.
+second_inn_revised_overs,pre-ball safe,Available before outcome or stable match/player context.
+revised_target,pre-ball safe,Available before outcome or stable match/player context.
+home_team_id,pre-ball safe,Available before outcome or stable match/player context.
+home_team,pre-ball safe,Available before outcome or stable match/player context.
+away_team_id,pre-ball safe,Available before outcome or stable match/player context.
+away_team,pre-ball safe,Available before outcome or stable match/player context.
+win_team_id,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+result,post-ball,"Measured or annotated after delivery, or match outcome; exclude from pre-ball predictors."
+comp_name,pre-ball safe,Available before outcome or stable match/player context.
+match_format,pre-ball safe,Available before outcome or stable match/player context.
+season,pre-ball safe,Available before outcome or stable match/player context.
+extras_type_normalized,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+extras_type_unresolved,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_wide,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_no_ball,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_legal,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+bat_runs,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+team_runs,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+extras2_attribution_unverified,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+bowler_conceded,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+bowler_extras2_assumed_charged,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+dismissal_type_normalized,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+bowler_wicket,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+striker_out,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+nonstriker_out,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+retired_not_out,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+batter_failure,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
+is_super_over,pre-ball safe,Available before outcome or stable match/player context.
+is_knockout,pre-ball safe,Available before outcome or stable match/player context.
+is_dls_fields,pre-ball safe,Available before outcome or stable match/player context.
+is_dls_text,pre-ball safe,Available before outcome or stable match/player context.
+is_dls,pre-ball safe,Available before outcome or stable match/player context.
+is_ipl,pre-ball safe,Available before outcome or stable match/player context.
+is_t20i,pre-ball safe,Available before outcome or stable match/player context.
+is_other_t20,pre-ball safe,Available before outcome or stable match/player context.
+competition_pool,pre-ball safe,Available before outcome or stable match/player context.
+delivery_id,pre-ball safe,Available before outcome or stable match/player context.
+legal_ball_no,outcome,Observed during/after delivery; never use as a pre-delivery predictor.
