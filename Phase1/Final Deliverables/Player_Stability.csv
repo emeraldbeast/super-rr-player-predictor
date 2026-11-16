@@ -1,0 +1,21 @@
+category,primary_rank,player_id,player_name,rank_primary_selected_continuous,rank_baseline_only_continuous,rank_binary_high_pressure,rank_chase_only,rank_recency_half_life_3y,rank_eligibility_relaxed_3m_30b,rank_eligibility_strict_15m_200b,cross_format_rank,top10_appearances_of_7,stability_flag
+batter,1,6281,Abhishek Sharma,1,1,,,,3,,1.0,3,sensitive
+batter,2,1699,Suryakumar Yadav,2,4,3.0,1.0,5.0,7,1.0,3.0,7,stable
+batter,3,7216,Prabhsimran Singh,3,9,,,1.0,8,,,4,sensitive
+batter,4,4260,Heinrich Klaasen,4,6,9.0,12.0,3.0,10,2.0,,6,stable
+batter,5,8101,Ashutosh Sharma,5,5,6.0,,2.0,11,,,4,sensitive
+batter,6,6288,Shubman Gill,6,8,,5.0,4.0,12,3.0,,5,stable
+batter,7,3647,Shreyas Iyer,7,7,,,6.0,13,,4.0,3,sensitive
+batter,8,5039,Rajat Patidar,8,11,,,7.0,14,,,2,highly_sensitive
+batter,9,4708,Rinku Singh,9,12,7.0,2.0,9.0,16,4.0,5.0,5,stable
+batter,10,37052,Naman Dhir,10,3,8.0,,11.0,18,,,3,sensitive
+bowler,1,2933,Jasprit Bumrah,1,1,1.0,1.0,1.0,1,1.0,1.0,7,stable
+bowler,2,781,Sunil Narine,2,2,5.0,2.0,2.0,2,2.0,,7,stable
+bowler,3,8661,Matheesha Pathirana,3,3,2.0,3.0,3.0,3,3.0,5.0,7,stable
+bowler,4,2876,Axar Patel,4,4,33.0,,4.0,7,,13.0,4,sensitive
+bowler,5,4219,Krunal Pandya,5,5,8.0,9.0,7.0,8,4.0,,7,stable
+bowler,6,5944,Mohammed Siraj,6,11,4.0,5.0,8.0,10,5.0,,6,stable
+bowler,7,7967,Noor Ahmad,7,7,11.0,12.0,5.0,11,6.0,6.0,4,sensitive
+bowler,8,152,Ravindra Jadeja,8,6,21.0,17.0,6.0,12,7.0,,4,sensitive
+bowler,9,3644,Kuldeep Yadav,9,9,13.0,14.0,9.0,13,8.0,3.0,4,sensitive
+bowler,10,39657,Eshan Malinga,10,13,9.0,6.0,10.0,14,,,4,sensitive
